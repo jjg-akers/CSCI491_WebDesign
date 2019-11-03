@@ -1,0 +1,4841 @@
+<div class="icstores"><fieldset><legend>Alabama</legend><div class="site">
+  <div class="storename">
+    The Snail on the Wall  </div>
+  <div class="URL">
+    <a href="https://www.snailonthewall.com">https://www.snailonthewall.com</a>
+  </div>
+  <div class="city">
+    Huntsville, 
+  </div>
+  <div class="state">
+    AL  </div>
+</div></fieldset><fieldset><legend>Alaska</legend><div class="site">
+  <div class="storename">
+    Fireside Books  </div>
+  <div class="URL">
+    <a href="https://www.goodbooksbadcoffee.com">https://www.goodbooksbadcoffee.com</a>
+  </div>
+  <div class="city">
+    Palmer, 
+  </div>
+  <div class="state">
+    AK  </div>
+</div><div class="site">
+  <div class="storename">
+    Hearthside Books & Toys  </div>
+  <div class="URL">
+    <a href="https://www.hearthsidebooks.com">https://www.hearthsidebooks.com</a>
+  </div>
+  <div class="city">
+    Juneau, 
+  </div>
+  <div class="state">
+    AK  </div>
+</div></fieldset><fieldset><legend>Arizona</legend><div class="site">
+  <div class="storename">
+    Antigone Books  </div>
+  <div class="URL">
+    <a href="https://www.antigonebooks.com">https://www.antigonebooks.com</a>
+  </div>
+  <div class="city">
+    Tucson, 
+  </div>
+  <div class="state">
+    AZ  </div>
+</div><div class="site">
+  <div class="storename">
+    Changing Hands Bookstore  </div>
+  <div class="URL">
+    <a href="https://www.changinghands.com">https://www.changinghands.com</a>
+  </div>
+  <div class="city">
+    Tempe, 
+  </div>
+  <div class="state">
+    AZ  </div>
+</div><div class="site">
+  <div class="storename">
+    Mostly Books  </div>
+  <div class="URL">
+    <a href="https://www.mostlybooksaz.com">https://www.mostlybooksaz.com</a>
+  </div>
+  <div class="city">
+    Tucson, 
+  </div>
+  <div class="state">
+    AZ  </div>
+</div><div class="site">
+  <div class="storename">
+    Peregrine Book Company  </div>
+  <div class="URL">
+    <a href="https://www.peregrinebookcompany.com">https://www.peregrinebookcompany.com</a>
+  </div>
+  <div class="city">
+    Prescott, 
+  </div>
+  <div class="state">
+    AZ  </div>
+</div></fieldset><fieldset><legend>Arkansas</legend><div class="site">
+  <div class="storename">
+    WordsWorth Bookstore  </div>
+  <div class="URL">
+    <a href="https://www.wordsworthbookstore.com">https://www.wordsworthbookstore.com</a>
+  </div>
+  <div class="city">
+    Little Rock, 
+  </div>
+  <div class="state">
+    AR  </div>
+</div></fieldset><fieldset><legend>California</legend><div class="site">
+  <div class="storename">
+    A Great Good Place for Books  </div>
+  <div class="URL">
+    <a href="https://www.ggpbooks.com">https://www.ggpbooks.com</a>
+  </div>
+  <div class="city">
+    Oakland, 
+  </div>
+  <div class="state">
+    CA  </div>
+</div><div class="site">
+  <div class="storename">
+    Alexander Book Co.  </div>
+  <div class="URL">
+    <a href="https://www.alexanderbook.com">https://www.alexanderbook.com</a>
+  </div>
+  <div class="city">
+    San Francisco, 
+  </div>
+  <div class="state">
+    CA  </div>
+</div><div class="site">
+  <div class="storename">
+    Book Passage  </div>
+  <div class="URL">
+    <a href="https://www.bookpassage.com">https://www.bookpassage.com</a>
+  </div>
+  <div class="city">
+    Corte Madera, 
+  </div>
+  <div class="state">
+    CA  </div>
+</div><div class="site">
+  <div class="storename">
+    Book Soup  </div>
+  <div class="URL">
+    <a href="https://www.booksoup.com">https://www.booksoup.com</a>
+  </div>
+  <div class="city">
+    West Hollywood, 
+  </div>
+  <div class="state">
+    CA  </div>
+</div><div class="site">
+  <div class="storename">
+    Books Inc.  </div>
+  <div class="URL">
+    <a href="https://www.booksinc.net">https://www.booksinc.net</a>
+  </div>
+  <div class="city">
+    San Francisco, 
+  </div>
+  <div class="state">
+    CA  </div>
+</div><div class="site">
+  <div class="storename">
+    Bookshop Santa Cruz  </div>
+  <div class="URL">
+    <a href="https://www.bookshopsantacruz.com">https://www.bookshopsantacruz.com</a>
+  </div>
+  <div class="city">
+    Santa Cruz, 
+  </div>
+  <div class="state">
+    CA  </div>
+</div><div class="site">
+  <div class="storename">
+    Bookshop West Portal  </div>
+  <div class="URL">
+    <a href="https://bookshopwestportal.com">https://bookshopwestportal.com</a>
+  </div>
+  <div class="city">
+    San Francisco, 
+  </div>
+  <div class="state">
+    CA  </div>
+</div><div class="site">
+  <div class="storename">
+    Cellar Door Books  </div>
+  <div class="URL">
+    <a href="https://www.cellardoorbookstore.com">https://www.cellardoorbookstore.com</a>
+  </div>
+  <div class="city">
+    Riverside, 
+  </div>
+  <div class="state">
+    CA  </div>
+</div><div class="site">
+  <div class="storename">
+    Chaucer's Books  </div>
+  <div class="URL">
+    <a href="https://site.booksite.com">https://site.booksite.com</a>
+  </div>
+  <div class="city">
+    Santa Barbara, 
+  </div>
+  <div class="state">
+    CA  </div>
+</div><div class="site">
+  <div class="storename">
+    Copperfield's Books  </div>
+  <div class="URL">
+    <a href="https://www.copperfieldsbooks.com">https://www.copperfieldsbooks.com</a>
+  </div>
+  <div class="city">
+    Sebastopol, 
+  </div>
+  <div class="state">
+    CA  </div>
+</div><div class="site">
+  <div class="storename">
+    DIESEL, A Bookstore  </div>
+  <div class="URL">
+    <a href="https://www.dieselbookstore.com">https://www.dieselbookstore.com</a>
+  </div>
+  <div class="city">
+    Santa Monica, 
+  </div>
+  <div class="state">
+    CA  </div>
+</div><div class="site">
+  <div class="storename">
+    East Bay Booksellers  </div>
+  <div class="URL">
+    <a href="https://www.ebbooksellers.com">https://www.ebbooksellers.com</a>
+  </div>
+  <div class="city">
+    Oakland, 
+  </div>
+  <div class="state">
+    CA  </div>
+</div><div class="site">
+  <div class="storename">
+    Eso Won Books  </div>
+  <div class="URL">
+    <a href="https://www.esowonbookstore.com">https://www.esowonbookstore.com</a>
+  </div>
+  <div class="city">
+    Los Angeles, 
+  </div>
+  <div class="state">
+    CA  </div>
+</div><div class="site">
+  <div class="storename">
+    Face in a Book  </div>
+  <div class="URL">
+    <a href="https://www.getyourfaceinabook.com">https://www.getyourfaceinabook.com</a>
+  </div>
+  <div class="city">
+    El Dorado Hills, 
+  </div>
+  <div class="state">
+    CA  </div>
+</div><div class="site">
+  <div class="storename">
+    Four-Eyed Frog Books  </div>
+  <div class="URL">
+    <a href="https://www.foureyedfrog.com">https://www.foureyedfrog.com</a>
+  </div>
+  <div class="city">
+    Gualala, 
+  </div>
+  <div class="state">
+    CA  </div>
+</div><div class="site">
+  <div class="storename">
+    Gallery Bookshop & Bookwinkle's Children's Books  </div>
+  <div class="URL">
+    <a href="https://www.gallerybookshop.com">https://www.gallerybookshop.com</a>
+  </div>
+  <div class="city">
+    Mendocino, 
+  </div>
+  <div class="state">
+    CA  </div>
+</div><div class="site">
+  <div class="storename">
+    Green Apple Books  </div>
+  <div class="URL">
+    <a href="https://www.greenapplebooks.com">https://www.greenapplebooks.com</a>
+  </div>
+  <div class="city">
+    San Francisco, 
+  </div>
+  <div class="state">
+    CA  </div>
+</div><div class="site">
+  <div class="storename">
+    Hennessey & Ingalls  </div>
+  <div class="URL">
+    <a href="https://www.hennesseyingalls.com">https://www.hennesseyingalls.com</a>
+  </div>
+  <div class="city">
+    Los Angeles, 
+  </div>
+  <div class="state">
+    CA  </div>
+</div><div class="site">
+  <div class="storename">
+    Hicklebee's  </div>
+  <div class="URL">
+    <a href="https://www.hicklebees.com">https://www.hicklebees.com</a>
+  </div>
+  <div class="city">
+    San Jose, 
+  </div>
+  <div class="state">
+    CA  </div>
+</div><div class="site">
+  <div class="storename">
+    Ink Spell Books  </div>
+  <div class="URL">
+    <a href="https://www.inkspellbooks.com">https://www.inkspellbooks.com</a>
+  </div>
+  <div class="city">
+    Half Moon Bay, 
+  </div>
+  <div class="state">
+    CA  </div>
+</div><div class="site">
+  <div class="storename">
+    Kepler's Books  </div>
+  <div class="URL">
+    <a href="https://www.keplers.com">https://www.keplers.com</a>
+  </div>
+  <div class="city">
+    Menlo Park, 
+  </div>
+  <div class="state">
+    CA  </div>
+</div><div class="site">
+  <div class="storename">
+    Laguna Beach Books  </div>
+  <div class="URL">
+    <a href="https://www.lagunabeachbooks.com">https://www.lagunabeachbooks.com</a>
+  </div>
+  <div class="city">
+    Laguna Beach, 
+  </div>
+  <div class="state">
+    CA  </div>
+</div><div class="site">
+  <div class="storename">
+    Mendocino Book Company  </div>
+  <div class="URL">
+    <a href="https://www.mendocinobookcompany.com">https://www.mendocinobookcompany.com</a>
+  </div>
+  <div class="city">
+    Ukiah, 
+  </div>
+  <div class="state">
+    CA  </div>
+</div><div class="site">
+  <div class="storename">
+    Mrs. Dalloway's Literary & Garden Arts  </div>
+  <div class="URL">
+    <a href="https://www.mrsdalloways.com">https://www.mrsdalloways.com</a>
+  </div>
+  <div class="city">
+    Berkeley, 
+  </div>
+  <div class="state">
+    CA  </div>
+</div><div class="site">
+  <div class="storename">
+    Mysterious Galaxy Books  </div>
+  <div class="URL">
+    <a href="https://www.mystgalaxy.com">https://www.mystgalaxy.com</a>
+  </div>
+  <div class="city">
+    San Diego, 
+  </div>
+  <div class="state">
+    CA  </div>
+</div><div class="site">
+  <div class="storename">
+    Napa Bookmine  </div>
+  <div class="URL">
+    <a href="https://www.napabookmine.com">https://www.napabookmine.com</a>
+  </div>
+  <div class="city">
+    Napa, 
+  </div>
+  <div class="state">
+    CA  </div>
+</div><div class="site">
+  <div class="storename">
+    Northtown Books  </div>
+  <div class="URL">
+    <a href="https://www.northtownbooks.com">https://www.northtownbooks.com</a>
+  </div>
+  <div class="city">
+    Arcata, 
+  </div>
+  <div class="state">
+    CA  </div>
+</div><div class="site">
+  <div class="storename">
+    Once Upon a Time  </div>
+  <div class="URL">
+    <a href="https://www.shoponceuponatime.com">https://www.shoponceuponatime.com</a>
+  </div>
+  <div class="city">
+    Montrose, 
+  </div>
+  <div class="state">
+    CA  </div>
+</div><div class="site">
+  <div class="storename">
+    Orinda Books  </div>
+  <div class="URL">
+    <a href="https://www.orindabooks.com">https://www.orindabooks.com</a>
+  </div>
+  <div class="city">
+    Orinda, 
+  </div>
+  <div class="state">
+    CA  </div>
+</div><div class="site">
+  <div class="storename">
+    Pegasus Books  </div>
+  <div class="URL">
+    <a href="https://www.pegasusbookstore.com">https://www.pegasusbookstore.com</a>
+  </div>
+  <div class="city">
+    Berkeley, 
+  </div>
+  <div class="state">
+    CA  </div>
+</div><div class="site">
+  <div class="storename">
+    Point Reyes Books  </div>
+  <div class="URL">
+    <a href="https://www.ptreyesbooks.com">https://www.ptreyesbooks.com</a>
+  </div>
+  <div class="city">
+    Point Reyes Station, 
+  </div>
+  <div class="state">
+    CA  </div>
+</div><div class="site">
+  <div class="storename">
+    Rakestraw Books  </div>
+  <div class="URL">
+    <a href="https://www.rakestrawbooks.com">https://www.rakestrawbooks.com</a>
+  </div>
+  <div class="city">
+    Danville, 
+  </div>
+  <div class="state">
+    CA  </div>
+</div><div class="site">
+  <div class="storename">
+    Readers' Books  </div>
+  <div class="URL">
+    <a href="https://www.readersbooks.com">https://www.readersbooks.com</a>
+  </div>
+  <div class="city">
+    Sonoma, 
+  </div>
+  <div class="state">
+    CA  </div>
+</div><div class="site">
+  <div class="storename">
+    Russo's Books  </div>
+  <div class="URL">
+    <a href="https://www.russosbooks.com">https://www.russosbooks.com</a>
+  </div>
+  <div class="city">
+    Bakersfield, 
+  </div>
+  <div class="state">
+    CA  </div>
+</div><div class="site">
+  <div class="storename">
+    Skylight Books  </div>
+  <div class="URL">
+    <a href="https://www.skylightbooks.com">https://www.skylightbooks.com</a>
+  </div>
+  <div class="city">
+    Los Angeles, 
+  </div>
+  <div class="state">
+    CA  </div>
+</div><div class="site">
+  <div class="storename">
+    Tecolote Book Shop  </div>
+  <div class="URL">
+    <a href="https://www.tecolotebookshop.com">https://www.tecolotebookshop.com</a>
+  </div>
+  <div class="city">
+    Santa Barbara, 
+  </div>
+  <div class="state">
+    CA  </div>
+</div><div class="site">
+  <div class="storename">
+    The Avid Reader  </div>
+  <div class="URL">
+    <a href="https://www.avidreaderbooks.com">https://www.avidreaderbooks.com</a>
+  </div>
+  <div class="city">
+    Davis, 
+  </div>
+  <div class="state">
+    CA  </div>
+</div><div class="site">
+  <div class="storename">
+    The Book Catapult  </div>
+  <div class="URL">
+    <a href="https://www.thebookcatapult.com">https://www.thebookcatapult.com</a>
+  </div>
+  <div class="city">
+    San Diego, 
+  </div>
+  <div class="state">
+    CA  </div>
+</div><div class="site">
+  <div class="storename">
+    The Book Seller  </div>
+  <div class="URL">
+    <a href="https://www.thebookseller.biz">https://www.thebookseller.biz</a>
+  </div>
+  <div class="city">
+    Grass Valley, 
+  </div>
+  <div class="state">
+    CA  </div>
+</div><div class="site">
+  <div class="storename">
+    The Booksmith  </div>
+  <div class="URL">
+    <a href="https://www.booksmith.com">https://www.booksmith.com</a>
+  </div>
+  <div class="city">
+    San Francisco, 
+  </div>
+  <div class="state">
+    CA  </div>
+</div><div class="site">
+  <div class="storename">
+    The Last Bookstore  </div>
+  <div class="URL">
+    <a href="https://www.shopthelastbookstore.com">https://www.shopthelastbookstore.com</a>
+  </div>
+  <div class="city">
+    Los Angeles, 
+  </div>
+  <div class="state">
+    CA  </div>
+</div><div class="site">
+  <div class="storename">
+    The Reading Bug  </div>
+  <div class="URL">
+    <a href="https://www.thereadingbug.com">https://www.thereadingbug.com</a>
+  </div>
+  <div class="city">
+    San Carlos, 
+  </div>
+  <div class="state">
+    CA  </div>
+</div><div class="site">
+  <div class="storename">
+    The Ripped Bodice  </div>
+  <div class="URL">
+    <a href="https://www.therippedbodicela.com">https://www.therippedbodicela.com</a>
+  </div>
+  <div class="city">
+    Culver City, 
+  </div>
+  <div class="state">
+    CA  </div>
+</div><div class="site">
+  <div class="storename">
+    Towne Center Books  </div>
+  <div class="URL">
+    <a href="https://www.townecenterbooks.com">https://www.townecenterbooks.com</a>
+  </div>
+  <div class="city">
+    Pleasanton, 
+  </div>
+  <div class="state">
+    CA  </div>
+</div><div class="site">
+  <div class="storename">
+    University Press Books  </div>
+  <div class="URL">
+    <a href="https://www.universitypressbooks.com">https://www.universitypressbooks.com</a>
+  </div>
+  <div class="city">
+    Berkeley, 
+  </div>
+  <div class="state">
+    CA  </div>
+</div><div class="site">
+  <div class="storename">
+    Vroman's Bookstore  </div>
+  <div class="URL">
+    <a href="https://www.vromansbookstore.com">https://www.vromansbookstore.com</a>
+  </div>
+  <div class="city">
+    Pasadena, 
+  </div>
+  <div class="state">
+    CA  </div>
+</div><div class="site">
+  <div class="storename">
+    Warwick's  </div>
+  <div class="URL">
+    <a href="https://www.warwicks.com">https://www.warwicks.com</a>
+  </div>
+  <div class="city">
+    La Jolla, 
+  </div>
+  <div class="state">
+    CA  </div>
+</div><div class="site">
+  <div class="storename">
+    Word After Word Books  </div>
+  <div class="URL">
+    <a href="https://www.wordafterwordbooks.com">https://www.wordafterwordbooks.com</a>
+  </div>
+  <div class="city">
+    Truckee, 
+  </div>
+  <div class="state">
+    CA  </div>
+</div><div class="site">
+  <div class="storename">
+    pages: a bookstore  </div>
+  <div class="URL">
+    <a href="https://www.pagesabookstore.com">https://www.pagesabookstore.com</a>
+  </div>
+  <div class="city">
+    Manhattan Beach, 
+  </div>
+  <div class="state">
+    CA  </div>
+</div></fieldset><fieldset><legend>Colorado</legend><div class="site">
+  <div class="storename">
+    Between the Covers Bookstore  </div>
+  <div class="URL">
+    <a href="https://www.between-the-covers.com">https://www.between-the-covers.com</a>
+  </div>
+  <div class="city">
+    Telluride, 
+  </div>
+  <div class="state">
+    CO  </div>
+</div><div class="site">
+  <div class="storename">
+    BookBar  </div>
+  <div class="URL">
+    <a href="https://www.bookbardenver.com">https://www.bookbardenver.com</a>
+  </div>
+  <div class="city">
+    Denver, 
+  </div>
+  <div class="state">
+    CO  </div>
+</div><div class="site">
+  <div class="storename">
+    Bookworm of Edwards  </div>
+  <div class="URL">
+    <a href="https://www.bookwormofedwards.com">https://www.bookwormofedwards.com</a>
+  </div>
+  <div class="city">
+    Edwards, 
+  </div>
+  <div class="state">
+    CO  </div>
+</div><div class="site">
+  <div class="storename">
+    Boulder Book Store  </div>
+  <div class="URL">
+    <a href="https://www.boulderbookstore.net">https://www.boulderbookstore.net</a>
+  </div>
+  <div class="city">
+    Boulder, 
+  </div>
+  <div class="state">
+    CO  </div>
+</div><div class="site">
+  <div class="storename">
+    Explore Booksellers & Bistro  </div>
+  <div class="URL">
+    <a href="https://www.explorebooksellers.com">https://www.explorebooksellers.com</a>
+  </div>
+  <div class="city">
+    Aspen, 
+  </div>
+  <div class="state">
+    CO  </div>
+</div><div class="site">
+  <div class="storename">
+    Maria's Bookshop  </div>
+  <div class="URL">
+    <a href="https://www.mariasbookshop.com">https://www.mariasbookshop.com</a>
+  </div>
+  <div class="city">
+    Durango, 
+  </div>
+  <div class="state">
+    CO  </div>
+</div><div class="site">
+  <div class="storename">
+    Off the Beaten Path Bookstore  </div>
+  <div class="URL">
+    <a href="https://www.steamboatbooks.com">https://www.steamboatbooks.com</a>
+  </div>
+  <div class="city">
+    Steamboat Springs, 
+  </div>
+  <div class="state">
+    CO  </div>
+</div><div class="site">
+  <div class="storename">
+    Old Firehouse Books  </div>
+  <div class="URL">
+    <a href="https://www.oldfirehousebooks.com">https://www.oldfirehousebooks.com</a>
+  </div>
+  <div class="city">
+    Fort Collins, 
+  </div>
+  <div class="state">
+    CO  </div>
+</div><div class="site">
+  <div class="storename">
+    Ouray Bookshop  </div>
+  <div class="URL">
+    <a href="https://www.ouraybookshop.com">https://www.ouraybookshop.com</a>
+  </div>
+  <div class="city">
+    Ouray, 
+  </div>
+  <div class="state">
+    CO  </div>
+</div><div class="site">
+  <div class="storename">
+    Tattered Cover Book Store  </div>
+  <div class="URL">
+    <a href="https://www.tatteredcover.com">https://www.tatteredcover.com</a>
+  </div>
+  <div class="city">
+    Denver, 
+  </div>
+  <div class="state">
+    CO  </div>
+</div></fieldset><fieldset><legend>Connecticut</legend><div class="site">
+  <div class="storename">
+    Bank Square Books  </div>
+  <div class="URL">
+    <a href="https://www.banksquarebooks.com">https://www.banksquarebooks.com</a>
+  </div>
+  <div class="city">
+    Mystic, 
+  </div>
+  <div class="state">
+    CT  </div>
+</div><div class="site">
+  <div class="storename">
+    Barrett Bookstore  </div>
+  <div class="URL">
+    <a href="https://www.barrettbookstore.com">https://www.barrettbookstore.com</a>
+  </div>
+  <div class="city">
+    Darien, 
+  </div>
+  <div class="state">
+    CT  </div>
+</div><div class="site">
+  <div class="storename">
+    Elm Street Books  </div>
+  <div class="URL">
+    <a href="https://www.elmstreetbooks.com">https://www.elmstreetbooks.com</a>
+  </div>
+  <div class="city">
+    New Canaan, 
+  </div>
+  <div class="state">
+    CT  </div>
+</div><div class="site">
+  <div class="storename">
+    Hickory Stick Bookshop  </div>
+  <div class="URL">
+    <a href="https://www.hickorystickbookshop.com">https://www.hickorystickbookshop.com</a>
+  </div>
+  <div class="city">
+    Washington Depot, 
+  </div>
+  <div class="state">
+    CT  </div>
+</div><div class="site">
+  <div class="storename">
+    R.J. Julia Booksellers  </div>
+  <div class="URL">
+    <a href="https://www.rjjulia.com">https://www.rjjulia.com</a>
+  </div>
+  <div class="city">
+    Madison, 
+  </div>
+  <div class="state">
+    CT  </div>
+</div><div class="site">
+  <div class="storename">
+    River Bend Bookshop  </div>
+  <div class="URL">
+    <a href="https://www.riverbendbookshop.com">https://www.riverbendbookshop.com</a>
+  </div>
+  <div class="city">
+    Glastonbury, 
+  </div>
+  <div class="state">
+    CT  </div>
+</div><div class="site">
+  <div class="storename">
+    That Book Store  </div>
+  <div class="URL">
+    <a href="https://www.thatbookstore.com">https://www.thatbookstore.com</a>
+  </div>
+  <div class="city">
+    Wethersfield, 
+  </div>
+  <div class="state">
+    CT  </div>
+</div></fieldset><fieldset><legend>Delaware</legend><div class="site">
+  <div class="storename">
+    Browseabout Books  </div>
+  <div class="URL">
+    <a href="https://www.browseaboutbooks.com">https://www.browseaboutbooks.com</a>
+  </div>
+  <div class="city">
+    Rehoboth Beach, 
+  </div>
+  <div class="state">
+    DE  </div>
+</div></fieldset><fieldset><legend>District of Columbia</legend><div class="site">
+  <div class="storename">
+    East City Bookshop  </div>
+  <div class="URL">
+    <a href="https://www.eastcitybookshop.com">https://www.eastcitybookshop.com</a>
+  </div>
+  <div class="city">
+    Washington, 
+  </div>
+  <div class="state">
+    DC  </div>
+</div><div class="site">
+  <div class="storename">
+    Politics and Prose Bookstore  </div>
+  <div class="URL">
+    <a href="https://www.politics-prose.com">https://www.politics-prose.com</a>
+  </div>
+  <div class="city">
+    Washington, 
+  </div>
+  <div class="state">
+    DC  </div>
+</div><div class="site">
+  <div class="storename">
+    Reiter's Books / Students Book Company  </div>
+  <div class="URL">
+    <a href="https://www.reiters.com">https://www.reiters.com</a>
+  </div>
+  <div class="city">
+    Washington, 
+  </div>
+  <div class="state">
+    DC  </div>
+</div></fieldset><fieldset><legend>Florida</legend><div class="site">
+  <div class="storename">
+    Books & Books  </div>
+  <div class="URL">
+    <a href="https://shop.booksandbooks.com">https://shop.booksandbooks.com</a>
+  </div>
+  <div class="city">
+    Coral Gables, 
+  </div>
+  <div class="state">
+    FL  </div>
+</div><div class="site">
+  <div class="storename">
+    Books & Books at the Studios  </div>
+  <div class="URL">
+    <a href="https://shop.booksandbookskw.com">https://shop.booksandbookskw.com</a>
+  </div>
+  <div class="city">
+    Key West, 
+  </div>
+  <div class="state">
+    FL  </div>
+</div><div class="site">
+  <div class="storename">
+    Bookstore 1 Sarasota  </div>
+  <div class="URL">
+    <a href="https://bookstore1sarasota.mybooksandmore.com">https://bookstore1sarasota.mybooksandmore.com</a>
+  </div>
+  <div class="city">
+    Sarasota, 
+  </div>
+  <div class="state">
+    FL  </div>
+</div><div class="site">
+  <div class="storename">
+    Copperfish Books  </div>
+  <div class="URL">
+    <a href="https://www.copperfishbooks.com">https://www.copperfishbooks.com</a>
+  </div>
+  <div class="city">
+    Punta Gorda, 
+  </div>
+  <div class="state">
+    FL  </div>
+</div><div class="site">
+  <div class="storename">
+    Kizzy's Books & More  </div>
+  <div class="URL">
+    <a href="https://www.kizzysbooksandmore.com">https://www.kizzysbooksandmore.com</a>
+  </div>
+  <div class="city">
+    Winter Garden, 
+  </div>
+  <div class="state">
+    FL  </div>
+</div><div class="site">
+  <div class="storename">
+    Marilyn Martyouze Bookstore  </div>
+  <div class="URL">
+    <a href="https://bookstore.marilynmartyouze.com">https://bookstore.marilynmartyouze.com</a>
+  </div>
+  <div class="city">
+    Tampa, 
+  </div>
+  <div class="state">
+    FL  </div>
+</div><div class="site">
+  <div class="storename">
+    Midtown Reader  </div>
+  <div class="URL">
+    <a href="https://www.midtownreader-shop.com">https://www.midtownreader-shop.com</a>
+  </div>
+  <div class="city">
+    Tallahassee, 
+  </div>
+  <div class="state">
+    FL  </div>
+</div><div class="site">
+  <div class="storename">
+    San Marco Books and More  </div>
+  <div class="URL">
+    <a href="https://www.sanmarcobooksandmore.com">https://www.sanmarcobooksandmore.com</a>
+  </div>
+  <div class="city">
+    Jacksonville, 
+  </div>
+  <div class="state">
+    FL  </div>
+</div><div class="site">
+  <div class="storename">
+    Sundog Books  </div>
+  <div class="URL">
+    <a href="https://www.sundogbooks.com">https://www.sundogbooks.com</a>
+  </div>
+  <div class="city">
+    Santa Rosa Beach, 
+  </div>
+  <div class="state">
+    FL  </div>
+</div><div class="site">
+  <div class="storename">
+    The Writer's Block Bookstore  </div>
+  <div class="URL">
+    <a href="https://www.writersblockbookstore.com">https://www.writersblockbookstore.com</a>
+  </div>
+  <div class="city">
+    Winter Park, 
+  </div>
+  <div class="state">
+    FL  </div>
+</div></fieldset><fieldset><legend>Georgia</legend><div class="site">
+  <div class="storename">
+    Avid Bookshop  </div>
+  <div class="URL">
+    <a href="https://www.avidbookshop.com">https://www.avidbookshop.com</a>
+  </div>
+  <div class="city">
+    Athens, 
+  </div>
+  <div class="state">
+    GA  </div>
+</div><div class="site">
+  <div class="storename">
+    Charis Books & More  </div>
+  <div class="URL">
+    <a href="https://www.charisbooksandmore.com">https://www.charisbooksandmore.com</a>
+  </div>
+  <div class="city">
+    Decatur, 
+  </div>
+  <div class="state">
+    GA  </div>
+</div><div class="site">
+  <div class="storename">
+    E. Shaver, Bookseller  </div>
+  <div class="URL">
+    <a href="https://www.eshaverbooks.com">https://www.eshaverbooks.com</a>
+  </div>
+  <div class="city">
+    Savannah, 
+  </div>
+  <div class="state">
+    GA  </div>
+</div><div class="site">
+  <div class="storename">
+    Flipping Books and Stuff  </div>
+  <div class="URL">
+    <a href="https://www.flippingbooksandstuff.com">https://www.flippingbooksandstuff.com</a>
+  </div>
+  <div class="city">
+    Moreland, 
+  </div>
+  <div class="state">
+    GA  </div>
+</div><div class="site">
+  <div class="storename">
+    Hudson Booksellers  </div>
+  <div class="URL">
+    <a href="https://www.hudsonbooksellers.com">https://www.hudsonbooksellers.com</a>
+  </div>
+  <div class="city">
+    Marietta, 
+  </div>
+  <div class="state">
+    GA  </div>
+</div><div class="site">
+  <div class="storename">
+    Read It Again Books  </div>
+  <div class="URL">
+    <a href="https://www.read-it-again.com">https://www.read-it-again.com</a>
+  </div>
+  <div class="city">
+    Suwanee, 
+  </div>
+  <div class="state">
+    GA  </div>
+</div><div class="site">
+  <div class="storename">
+    Story on the Square  </div>
+  <div class="URL">
+    <a href="https://www.storyonthesquare.com">https://www.storyonthesquare.com</a>
+  </div>
+  <div class="city">
+    McDonough, 
+  </div>
+  <div class="state">
+    GA  </div>
+</div><div class="site">
+  <div class="storename">
+    [ash-ling] Booksellers  </div>
+  <div class="URL">
+    <a href="https://www.ashlingbooksellers.com">https://www.ashlingbooksellers.com</a>
+  </div>
+  <div class="city">
+    Toccoa, 
+  </div>
+  <div class="state">
+    GA  </div>
+</div></fieldset><fieldset><legend>Hawaii</legend><div class="site">
+  <div class="storename">
+    Kona Stories  </div>
+  <div class="URL">
+    <a href="https://www.konastories.com">https://www.konastories.com</a>
+  </div>
+  <div class="city">
+    Kailua Kona, 
+  </div>
+  <div class="state">
+    HI  </div>
+</div></fieldset><fieldset><legend>Idaho</legend><div class="site">
+  <div class="storename">
+    BookPeople of Moscow  </div>
+  <div class="URL">
+    <a href="https://www.bookpeopleofmoscow.com">https://www.bookpeopleofmoscow.com</a>
+  </div>
+  <div class="city">
+    Moscow, 
+  </div>
+  <div class="state">
+    ID  </div>
+</div><div class="site">
+  <div class="storename">
+    Iconoclast Books & Gifts  </div>
+  <div class="URL">
+    <a href="https://www.iconoclastbooks.com">https://www.iconoclastbooks.com</a>
+  </div>
+  <div class="city">
+    Hailey, 
+  </div>
+  <div class="state">
+    ID  </div>
+</div><div class="site">
+  <div class="storename">
+    Rediscovered Books  </div>
+  <div class="URL">
+    <a href="https://www.rdbooks.org">https://www.rdbooks.org</a>
+  </div>
+  <div class="city">
+    Boise, 
+  </div>
+  <div class="state">
+    ID  </div>
+</div><div class="site">
+  <div class="storename">
+    The Well-Read Moose  </div>
+  <div class="URL">
+    <a href="https://www.wellreadmoose-shop.com">https://www.wellreadmoose-shop.com</a>
+  </div>
+  <div class="city">
+    Coeur d'Alene, 
+  </div>
+  <div class="state">
+    ID  </div>
+</div></fieldset><fieldset><legend>Illinois</legend><div class="site">
+  <div class="storename">
+    Anderson's Bookshops  </div>
+  <div class="URL">
+    <a href="https://www.andersonsbookshop.com">https://www.andersonsbookshop.com</a>
+  </div>
+  <div class="city">
+    Naperville, 
+  </div>
+  <div class="state">
+    IL  </div>
+</div><div class="site">
+  <div class="storename">
+    Barbara's Bookstore @ Macy's  </div>
+  <div class="URL">
+    <a href="https://www.barbarasbookstore.com">https://www.barbarasbookstore.com</a>
+  </div>
+  <div class="city">
+    Chicago, 
+  </div>
+  <div class="state">
+    IL  </div>
+</div><div class="site">
+  <div class="storename">
+    Bookends & Beginnings  </div>
+  <div class="URL">
+    <a href="https://www.bookendsandbeginnings.com">https://www.bookendsandbeginnings.com</a>
+  </div>
+  <div class="city">
+    Evanston, 
+  </div>
+  <div class="state">
+    IL  </div>
+</div><div class="site">
+  <div class="storename">
+    Bookie's  </div>
+  <div class="URL">
+    <a href="https://www.bookiesbookstores.com">https://www.bookiesbookstores.com</a>
+  </div>
+  <div class="city">
+    Chicago, 
+  </div>
+  <div class="state">
+    IL  </div>
+</div><div class="site">
+  <div class="storename">
+    Books On First  </div>
+  <div class="URL">
+    <a href="https://www.booksonfirst.com">https://www.booksonfirst.com</a>
+  </div>
+  <div class="city">
+    Dixon, 
+  </div>
+  <div class="state">
+    IL  </div>
+</div><div class="site">
+  <div class="storename">
+    Centuries & Sleuths Bookstore  </div>
+  <div class="URL">
+    <a href="https://www.centuriesandsleuths.com">https://www.centuriesandsleuths.com</a>
+  </div>
+  <div class="city">
+    Forest Park, 
+  </div>
+  <div class="state">
+    IL  </div>
+</div><div class="site">
+  <div class="storename">
+    City Lit Books  </div>
+  <div class="URL">
+    <a href="https://www.citylitbooks.com">https://www.citylitbooks.com</a>
+  </div>
+  <div class="city">
+    Chicago, 
+  </div>
+  <div class="state">
+    IL  </div>
+</div><div class="site">
+  <div class="storename">
+    Hartfield Book Company  </div>
+  <div class="URL">
+    <a href="https://shop.hartfieldbookco.com">https://shop.hartfieldbookco.com</a>
+  </div>
+  <div class="city">
+    Monticello, 
+  </div>
+  <div class="state">
+    IL  </div>
+</div><div class="site">
+  <div class="storename">
+    Lake Forest Book Store  </div>
+  <div class="URL">
+    <a href="https://www.lakeforestbookstore.com">https://www.lakeforestbookstore.com</a>
+  </div>
+  <div class="city">
+    Lake Forest, 
+  </div>
+  <div class="state">
+    IL  </div>
+</div><div class="site">
+  <div class="storename">
+    Read Between the Lynes  </div>
+  <div class="URL">
+    <a href="https://www.readbetweenthelynes.com">https://www.readbetweenthelynes.com</a>
+  </div>
+  <div class="city">
+    Woodstock, 
+  </div>
+  <div class="state">
+    IL  </div>
+</div><div class="site">
+  <div class="storename">
+    RoscoeBooks  </div>
+  <div class="URL">
+    <a href="https://www.roscoebooks.com">https://www.roscoebooks.com</a>
+  </div>
+  <div class="city">
+    Chicago, 
+  </div>
+  <div class="state">
+    IL  </div>
+</div><div class="site">
+  <div class="storename">
+    The Book Cellar  </div>
+  <div class="URL">
+    <a href="https://www.bookcellarinc.com">https://www.bookcellarinc.com</a>
+  </div>
+  <div class="city">
+    Chicago, 
+  </div>
+  <div class="state">
+    IL  </div>
+</div><div class="site">
+  <div class="storename">
+    The Book Stall  </div>
+  <div class="URL">
+    <a href="https://shop.thebookstall.com">https://shop.thebookstall.com</a>
+  </div>
+  <div class="city">
+    Winnetka, 
+  </div>
+  <div class="state">
+    IL  </div>
+</div><div class="site">
+  <div class="storename">
+    The Book Table  </div>
+  <div class="URL">
+    <a href="https://www.booktable.net">https://www.booktable.net</a>
+  </div>
+  <div class="city">
+    Oak Park, 
+  </div>
+  <div class="state">
+    IL  </div>
+</div><div class="site">
+  <div class="storename">
+    Unabridged Books  </div>
+  <div class="URL">
+    <a href="https://unabridgedbookstore.com">https://unabridgedbookstore.com</a>
+  </div>
+  <div class="city">
+    Chicago, 
+  </div>
+  <div class="state">
+    IL  </div>
+</div><div class="site">
+  <div class="storename">
+    Volumes Bookcafe  </div>
+  <div class="URL">
+    <a href="https://www.volumesbooks.com">https://www.volumesbooks.com</a>
+  </div>
+  <div class="city">
+    Chicago, 
+  </div>
+  <div class="state">
+    IL  </div>
+</div><div class="site">
+  <div class="storename">
+    Women & Children First  </div>
+  <div class="URL">
+    <a href="https://www.womenandchildrenfirst.com">https://www.womenandchildrenfirst.com</a>
+  </div>
+  <div class="city">
+    Chicago, 
+  </div>
+  <div class="state">
+    IL  </div>
+</div></fieldset><fieldset><legend>Indiana</legend><div class="site">
+  <div class="storename">
+    Kids Ink Children's Bookstore  </div>
+  <div class="URL">
+    <a href="https://kidsinkbooks.com">https://kidsinkbooks.com</a>
+  </div>
+  <div class="city">
+    Indianapolis, 
+  </div>
+  <div class="state">
+    IN  </div>
+</div><div class="site">
+  <div class="storename">
+    The Brain Lair  </div>
+  <div class="URL">
+    <a href="https://www.shop.brainlairbooks.com">https://www.shop.brainlairbooks.com</a>
+  </div>
+  <div class="city">
+    South Bend, 
+  </div>
+  <div class="state">
+    IN  </div>
+</div><div class="site">
+  <div class="storename">
+    Viewpoint Books  </div>
+  <div class="URL">
+    <a href="https://www.viewpointbooks.com">https://www.viewpointbooks.com</a>
+  </div>
+  <div class="city">
+    Columbus, 
+  </div>
+  <div class="state">
+    IN  </div>
+</div><div class="site">
+  <div class="storename">
+    Village Lights Bookstore  </div>
+  <div class="URL">
+    <a href="https://www.villagelightsbooks.com">https://www.villagelightsbooks.com</a>
+  </div>
+  <div class="city">
+    Madison, 
+  </div>
+  <div class="state">
+    IN  </div>
+</div></fieldset><fieldset><legend>Iowa</legend><div class="site">
+  <div class="storename">
+    Dragonfly Books  </div>
+  <div class="URL">
+    <a href="https://www.dragonflybooks.com">https://www.dragonflybooks.com</a>
+  </div>
+  <div class="city">
+    Decorah, 
+  </div>
+  <div class="state">
+    IA  </div>
+</div><div class="site">
+  <div class="storename">
+    Prairie Lights Books  </div>
+  <div class="URL">
+    <a href="https://www.prairielightsbooks.com">https://www.prairielightsbooks.com</a>
+  </div>
+  <div class="city">
+    Iowa City, 
+  </div>
+  <div class="state">
+    IA  </div>
+</div></fieldset><fieldset><legend>Kansas</legend><div class="site">
+  <div class="storename">
+    Rainy Day Books  </div>
+  <div class="URL">
+    <a href="https://www.RainyDayBooks.com">https://www.RainyDayBooks.com</a>
+  </div>
+  <div class="city">
+    Fairway, 
+  </div>
+  <div class="state">
+    KS  </div>
+</div><div class="site">
+  <div class="storename">
+    Raven Book Store  </div>
+  <div class="URL">
+    <a href="https://www.ravenbookstore.com">https://www.ravenbookstore.com</a>
+  </div>
+  <div class="city">
+    Lawrence, 
+  </div>
+  <div class="state">
+    KS  </div>
+</div><div class="site">
+  <div class="storename">
+    Watermark Books & Cafe  </div>
+  <div class="URL">
+    <a href="https://www.watermarkbooks.com">https://www.watermarkbooks.com</a>
+  </div>
+  <div class="city">
+    Wichita, 
+  </div>
+  <div class="state">
+    KS  </div>
+</div></fieldset><fieldset><legend>Kentucky</legend><div class="site">
+  <div class="storename">
+    Carmichael's Bookstore  </div>
+  <div class="URL">
+    <a href="https://www.carmichaelsbookstore.com">https://www.carmichaelsbookstore.com</a>
+  </div>
+  <div class="city">
+    Louisville, 
+  </div>
+  <div class="state">
+    KY  </div>
+</div></fieldset><fieldset><legend>Louisiana</legend><div class="site">
+  <div class="storename">
+    Cavalier House Books  </div>
+  <div class="URL">
+    <a href="https://www.cavalierhousebooks.com">https://www.cavalierhousebooks.com</a>
+  </div>
+  <div class="city">
+    Denham Springs, 
+  </div>
+  <div class="state">
+    LA  </div>
+</div><div class="site">
+  <div class="storename">
+    Garden District Book Shop  </div>
+  <div class="URL">
+    <a href="https://www.gardendistrictbookshop.com">https://www.gardendistrictbookshop.com</a>
+  </div>
+  <div class="city">
+    New Orleans, 
+  </div>
+  <div class="state">
+    LA  </div>
+</div><div class="site">
+  <div class="storename">
+    Looziana Book Company  </div>
+  <div class="URL">
+    <a href="https://www.looziana.com">https://www.looziana.com</a>
+  </div>
+  <div class="city">
+    Denham Springs, 
+  </div>
+  <div class="state">
+    LA  </div>
+</div><div class="site">
+  <div class="storename">
+    Octavia Books  </div>
+  <div class="URL">
+    <a href="https://www.octaviabooks.com">https://www.octaviabooks.com</a>
+  </div>
+  <div class="city">
+    New Orleans, 
+  </div>
+  <div class="state">
+    LA  </div>
+</div></fieldset><fieldset><legend>Maine</legend><div class="site">
+  <div class="storename">
+    Devaney, Doak & Garrett Booksellers  </div>
+  <div class="URL">
+    <a href="https://www.ddgbooks.com">https://www.ddgbooks.com</a>
+  </div>
+  <div class="city">
+    Farmington, 
+  </div>
+  <div class="state">
+    ME  </div>
+</div><div class="site">
+  <div class="storename">
+    Longfellow Books  </div>
+  <div class="URL">
+    <a href="https://www.longfellowbooks.com">https://www.longfellowbooks.com</a>
+  </div>
+  <div class="city">
+    Portland, 
+  </div>
+  <div class="state">
+    ME  </div>
+</div><div class="site">
+  <div class="storename">
+    PRINT: A Bookstore  </div>
+  <div class="URL">
+    <a href="https://www.printbookstore.com">https://www.printbookstore.com</a>
+  </div>
+  <div class="city">
+    Portland, 
+  </div>
+  <div class="state">
+    ME  </div>
+</div><div class="site">
+  <div class="storename">
+    Sherman's Books & Stationery  </div>
+  <div class="URL">
+    <a href="https://www.shermans.com">https://www.shermans.com</a>
+  </div>
+  <div class="city">
+    Damariscotta, 
+  </div>
+  <div class="state">
+    ME  </div>
+</div></fieldset><fieldset><legend>Maryland</legend><div class="site">
+  <div class="storename">
+    Mystery Loves Company  </div>
+  <div class="URL">
+    <a href="https://www.mysterylovescompany.com">https://www.mysterylovescompany.com</a>
+  </div>
+  <div class="city">
+    Oxford, 
+  </div>
+  <div class="state">
+    MD  </div>
+</div><div class="site">
+  <div class="storename">
+    Novel Books  </div>
+  <div class="URL">
+    <a href="https://www.anovelbookshop.com">https://www.anovelbookshop.com</a>
+  </div>
+  <div class="city">
+    Clarksburg, 
+  </div>
+  <div class="state">
+    MD  </div>
+</div><div class="site">
+  <div class="storename">
+    The Ivy Bookshop  </div>
+  <div class="URL">
+    <a href="https://www.theivybookshop.com">https://www.theivybookshop.com</a>
+  </div>
+  <div class="city">
+    Baltimore, 
+  </div>
+  <div class="state">
+    MD  </div>
+</div></fieldset><fieldset><legend>Massachusetts</legend><div class="site">
+  <div class="storename">
+    An Unlikely Story  </div>
+  <div class="URL">
+    <a href="https://www.anunlikelystory.com">https://www.anunlikelystory.com</a>
+  </div>
+  <div class="city">
+    Plainville, 
+  </div>
+  <div class="state">
+    MA  </div>
+</div><div class="site">
+  <div class="storename">
+    Belmont Books  </div>
+  <div class="URL">
+    <a href="https://www.belmontbooks.com">https://www.belmontbooks.com</a>
+  </div>
+  <div class="city">
+    Belmont, 
+  </div>
+  <div class="state">
+    MA  </div>
+</div><div class="site">
+  <div class="storename">
+    Broadside Bookshop  </div>
+  <div class="URL">
+    <a href="https://www.broadsidebooks.com">https://www.broadsidebooks.com</a>
+  </div>
+  <div class="city">
+    Northampton, 
+  </div>
+  <div class="state">
+    MA  </div>
+</div><div class="site">
+  <div class="storename">
+    Brookline Booksmith  </div>
+  <div class="URL">
+    <a href="https://www.brooklinebooksmith-shop.com">https://www.brooklinebooksmith-shop.com</a>
+  </div>
+  <div class="city">
+    Brookline, 
+  </div>
+  <div class="state">
+    MA  </div>
+</div><div class="site">
+  <div class="storename">
+    Buttonwood Books and Toys  </div>
+  <div class="URL">
+    <a href="https://www.buttonwoodbooksandtoys.com">https://www.buttonwoodbooksandtoys.com</a>
+  </div>
+  <div class="city">
+    Cohasset, 
+  </div>
+  <div class="state">
+    MA  </div>
+</div><div class="site">
+  <div class="storename">
+    Copper Dog Books  </div>
+  <div class="URL">
+    <a href="https://www.copperdogbooks.com">https://www.copperdogbooks.com</a>
+  </div>
+  <div class="city">
+    Beverly, 
+  </div>
+  <div class="state">
+    MA  </div>
+</div><div class="site">
+  <div class="storename">
+    East End Books Ptown  </div>
+  <div class="URL">
+    <a href="https://www.eastendbooksptown.com">https://www.eastendbooksptown.com</a>
+  </div>
+  <div class="city">
+    Provincetown, 
+  </div>
+  <div class="state">
+    MA  </div>
+</div><div class="site">
+  <div class="storename">
+    Eight Cousins  </div>
+  <div class="URL">
+    <a href="https://www.eightcousins.com">https://www.eightcousins.com</a>
+  </div>
+  <div class="city">
+    Falmouth, 
+  </div>
+  <div class="state">
+    MA  </div>
+</div><div class="site">
+  <div class="storename">
+    Harvard Book Store  </div>
+  <div class="URL">
+    <a href="https://shop.harvard.com">https://shop.harvard.com</a>
+  </div>
+  <div class="city">
+    Cambridge, 
+  </div>
+  <div class="state">
+    MA  </div>
+</div><div class="site">
+  <div class="storename">
+    HugoBookstores  </div>
+  <div class="URL">
+    <a href="https://hugobookstores.com">https://hugobookstores.com</a>
+  </div>
+  <div class="city">
+    Marblehead, 
+  </div>
+  <div class="state">
+    MA  </div>
+</div><div class="site">
+  <div class="storename">
+    Jabberwocky Bookshop & Cafe  </div>
+  <div class="URL">
+    <a href="https://www.jabberwockybookshop.com">https://www.jabberwockybookshop.com</a>
+  </div>
+  <div class="city">
+    Newburyport, 
+  </div>
+  <div class="state">
+    MA  </div>
+</div><div class="site">
+  <div class="storename">
+    Nantucket Bookworks  </div>
+  <div class="URL">
+    <a href="https://www.nantucketbookpartners.com">https://www.nantucketbookpartners.com</a>
+  </div>
+  <div class="city">
+    Nantucket, 
+  </div>
+  <div class="state">
+    MA  </div>
+</div><div class="site">
+  <div class="storename">
+    New England Mobile Book Fair  </div>
+  <div class="URL">
+    <a href="https://www.nebookfair.com">https://www.nebookfair.com</a>
+  </div>
+  <div class="city">
+    Newton Highlands, 
+  </div>
+  <div class="state">
+    MA  </div>
+</div><div class="site">
+  <div class="storename">
+    Odyssey Bookshop  </div>
+  <div class="URL">
+    <a href="https://www.odysseybks.com">https://www.odysseybks.com</a>
+  </div>
+  <div class="city">
+    South Hadley, 
+  </div>
+  <div class="state">
+    MA  </div>
+</div><div class="site">
+  <div class="storename">
+    Porter Square Books  </div>
+  <div class="URL">
+    <a href="https://www.portersquarebooks.com">https://www.portersquarebooks.com</a>
+  </div>
+  <div class="city">
+    Cambridge, 
+  </div>
+  <div class="state">
+    MA  </div>
+</div><div class="site">
+  <div class="storename">
+    Readmore Books  </div>
+  <div class="URL">
+    <a href="https://www.readmorebooks.com">https://www.readmorebooks.com</a>
+  </div>
+  <div class="city">
+    Taunton, 
+  </div>
+  <div class="state">
+    MA  </div>
+</div><div class="site">
+  <div class="storename">
+    Storybook Cove  </div>
+  <div class="URL">
+    <a href="https://www.storybookcove.com">https://www.storybookcove.com</a>
+  </div>
+  <div class="city">
+    Hanover, 
+  </div>
+  <div class="state">
+    MA  </div>
+</div><div class="site">
+  <div class="storename">
+    The Bookloft  </div>
+  <div class="URL">
+    <a href="https://www.thebookloft.com">https://www.thebookloft.com</a>
+  </div>
+  <div class="city">
+    Great Barrington, 
+  </div>
+  <div class="state">
+    MA  </div>
+</div><div class="site">
+  <div class="storename">
+    The Concord Bookshop  </div>
+  <div class="URL">
+    <a href="https://www.concordbookshop.com">https://www.concordbookshop.com</a>
+  </div>
+  <div class="city">
+    Concord, 
+  </div>
+  <div class="state">
+    MA  </div>
+</div><div class="site">
+  <div class="storename">
+    Titcomb's Bookshop  </div>
+  <div class="URL">
+    <a href="https://www.titcombsbookshop.com">https://www.titcombsbookshop.com</a>
+  </div>
+  <div class="city">
+    East Sandwich, 
+  </div>
+  <div class="state">
+    MA  </div>
+</div><div class="site">
+  <div class="storename">
+    Trident Booksellers & Cafe  </div>
+  <div class="URL">
+    <a href="https://www.tridentbookscafe.com">https://www.tridentbookscafe.com</a>
+  </div>
+  <div class="city">
+    Boston, 
+  </div>
+  <div class="state">
+    MA  </div>
+</div><div class="site">
+  <div class="storename">
+    Wellesley Books  </div>
+  <div class="URL">
+    <a href="https://store.wellesleybooks.com">https://store.wellesleybooks.com</a>
+  </div>
+  <div class="city">
+    Wellesley, 
+  </div>
+  <div class="state">
+    MA  </div>
+</div></fieldset><fieldset><legend>Michigan</legend><div class="site">
+  <div class="storename">
+    2 Dandelions Bookshop  </div>
+  <div class="URL">
+    <a href="https://www.2dandelionsbookshop.com">https://www.2dandelionsbookshop.com</a>
+  </div>
+  <div class="city">
+    Brighton, 
+  </div>
+  <div class="state">
+    MI  </div>
+</div><div class="site">
+  <div class="storename">
+    Bestsellers Books & Coffee Co.  </div>
+  <div class="URL">
+    <a href="https://www.bestsellersbookstore.com">https://www.bestsellersbookstore.com</a>
+  </div>
+  <div class="city">
+    Mason, 
+  </div>
+  <div class="state">
+    MI  </div>
+</div><div class="site">
+  <div class="storename">
+    Bookbug  </div>
+  <div class="URL">
+    <a href="https://www.bookbugkalamazoo.com">https://www.bookbugkalamazoo.com</a>
+  </div>
+  <div class="city">
+    Kalamazoo, 
+  </div>
+  <div class="state">
+    MI  </div>
+</div><div class="site">
+  <div class="storename">
+    Brilliant Books  </div>
+  <div class="URL">
+    <a href="https://www.brilliant-books.net">https://www.brilliant-books.net</a>
+  </div>
+  <div class="city">
+    Traverse City, 
+  </div>
+  <div class="state">
+    MI  </div>
+</div><div class="site">
+  <div class="storename">
+    Common Language Bookstore  </div>
+  <div class="URL">
+    <a href="https://www.glbtbooks.com">https://www.glbtbooks.com</a>
+  </div>
+  <div class="city">
+    Ann Arbor, 
+  </div>
+  <div class="state">
+    MI  </div>
+</div><div class="site">
+  <div class="storename">
+    Forever Books  </div>
+  <div class="URL">
+    <a href="https://www.foreverbooks.net">https://www.foreverbooks.net</a>
+  </div>
+  <div class="city">
+    St. Joseph, 
+  </div>
+  <div class="state">
+    MI  </div>
+</div><div class="site">
+  <div class="storename">
+    Horizon Books  </div>
+  <div class="URL">
+    <a href="https://www.horizonbooks.com">https://www.horizonbooks.com</a>
+  </div>
+  <div class="city">
+    Traverse City, 
+  </div>
+  <div class="state">
+    MI  </div>
+</div><div class="site">
+  <div class="storename">
+    Literati Bookstore  </div>
+  <div class="URL">
+    <a href="https://www.literatibookstore.com">https://www.literatibookstore.com</a>
+  </div>
+  <div class="city">
+    Ann Arbor, 
+  </div>
+  <div class="state">
+    MI  </div>
+</div><div class="site">
+  <div class="storename">
+    Lowry's Books  </div>
+  <div class="URL">
+    <a href="https://www.lowrysbooks.com">https://www.lowrysbooks.com</a>
+  </div>
+  <div class="city">
+    Three Rivers, 
+  </div>
+  <div class="state">
+    MI  </div>
+</div><div class="site">
+  <div class="storename">
+    McLean & Eakin Booksellers  </div>
+  <div class="URL">
+    <a href="https://www.mcleanandeakin.com">https://www.mcleanandeakin.com</a>
+  </div>
+  <div class="city">
+    Petoskey, 
+  </div>
+  <div class="state">
+    MI  </div>
+</div><div class="site">
+  <div class="storename">
+    Nicola's Books  </div>
+  <div class="URL">
+    <a href="https://www.nicolasbooks.com">https://www.nicolasbooks.com</a>
+  </div>
+  <div class="city">
+    Ann Arbor, 
+  </div>
+  <div class="state">
+    MI  </div>
+</div><div class="site">
+  <div class="storename">
+    Pages Bookshop  </div>
+  <div class="URL">
+    <a href="https://www.pagesbkshop.com">https://www.pagesbkshop.com</a>
+  </div>
+  <div class="city">
+    Detroit, 
+  </div>
+  <div class="state">
+    MI  </div>
+</div><div class="site">
+  <div class="storename">
+    Saturn Booksellers  </div>
+  <div class="URL">
+    <a href="https://www.saturnbooksellers.com">https://www.saturnbooksellers.com</a>
+  </div>
+  <div class="city">
+    Gaylord, 
+  </div>
+  <div class="state">
+    MI  </div>
+</div><div class="site">
+  <div class="storename">
+    Schuler Books  </div>
+  <div class="URL">
+    <a href="https://www.schulerbooks.com">https://www.schulerbooks.com</a>
+  </div>
+  <div class="city">
+    Grand Rapids, 
+  </div>
+  <div class="state">
+    MI  </div>
+</div><div class="site">
+  <div class="storename">
+    Snowbound Books  </div>
+  <div class="URL">
+    <a href="https://www.snowboundbooks.com">https://www.snowboundbooks.com</a>
+  </div>
+  <div class="city">
+    Marquette, 
+  </div>
+  <div class="state">
+    MI  </div>
+</div></fieldset><fieldset><legend>Minnesota</legend><div class="site">
+  <div class="storename">
+    Red Balloon Bookshop  </div>
+  <div class="URL">
+    <a href="https://www.redballoonbookshop.com">https://www.redballoonbookshop.com</a>
+  </div>
+  <div class="city">
+    St. Paul, 
+  </div>
+  <div class="state">
+    MN  </div>
+</div><div class="site">
+  <div class="storename">
+    Valley Bookseller  </div>
+  <div class="URL">
+    <a href="https://www.valleybookseller.com">https://www.valleybookseller.com</a>
+  </div>
+  <div class="city">
+    Stillwater, 
+  </div>
+  <div class="state">
+    MN  </div>
+</div><div class="site">
+  <div class="storename">
+    Wild Rumpus  </div>
+  <div class="URL">
+    <a href="https://www.wildrumpusbooks.com">https://www.wildrumpusbooks.com</a>
+  </div>
+  <div class="city">
+    Minneapolis, 
+  </div>
+  <div class="state">
+    MN  </div>
+</div></fieldset><fieldset><legend>Mississippi</legend><div class="site">
+  <div class="storename">
+    Pass Christian Books  </div>
+  <div class="URL">
+    <a href="https://www.passbooksonline.com">https://www.passbooksonline.com</a>
+  </div>
+  <div class="city">
+    Pass Christian, 
+  </div>
+  <div class="state">
+    MS  </div>
+</div><div class="site">
+  <div class="storename">
+    Square Books  </div>
+  <div class="URL">
+    <a href="https://www.squarebooks.com">https://www.squarebooks.com</a>
+  </div>
+  <div class="city">
+    Oxford, 
+  </div>
+  <div class="state">
+    MS  </div>
+</div><div class="site">
+  <div class="storename">
+    Turnrow Book Co.  </div>
+  <div class="URL">
+    <a href="https://www.turnrowbooks.com">https://www.turnrowbooks.com</a>
+  </div>
+  <div class="city">
+    Greenwood, 
+  </div>
+  <div class="state">
+    MS  </div>
+</div></fieldset><fieldset><legend>Missouri</legend><div class="site">
+  <div class="storename">
+    Left Bank Books  </div>
+  <div class="URL">
+    <a href="https://www.left-bank.com">https://www.left-bank.com</a>
+  </div>
+  <div class="city">
+    St. Louis, 
+  </div>
+  <div class="state">
+    MO  </div>
+</div><div class="site">
+  <div class="storename">
+    Subterranean Books  </div>
+  <div class="URL">
+    <a href="https://store.subbooks.com">https://store.subbooks.com</a>
+  </div>
+  <div class="city">
+    St. Louis, 
+  </div>
+  <div class="state">
+    MO  </div>
+</div></fieldset><fieldset><legend>Montana</legend><div class="site">
+  <div class="storename">
+    Chapter One Book Store  </div>
+  <div class="URL">
+    <a href="https://www.chapter1bookstore.com">https://www.chapter1bookstore.com</a>
+  </div>
+  <div class="city">
+    Hamilton, 
+  </div>
+  <div class="state">
+    MT  </div>
+</div><div class="site">
+  <div class="storename">
+    Country Bookshelf  </div>
+  <div class="URL">
+    <a href="https://www.countrybookshelf.com">https://www.countrybookshelf.com</a>
+  </div>
+  <div class="city">
+    Bozeman, 
+  </div>
+  <div class="state">
+    MT  </div>
+</div><div class="site">
+  <div class="storename">
+    Fact & Fiction Downtown  </div>
+  <div class="URL">
+    <a href="https://www.factandfictionbooks.com">https://www.factandfictionbooks.com</a>
+  </div>
+  <div class="city">
+    Missoula, 
+  </div>
+  <div class="state">
+    MT  </div>
+</div></fieldset><fieldset><legend>Nebraska</legend><div class="site">
+  <div class="storename">
+    The Bookworm of Omaha  </div>
+  <div class="URL">
+    <a href="https://www.bookwormomaha.com">https://www.bookwormomaha.com</a>
+  </div>
+  <div class="city">
+    Omaha, 
+  </div>
+  <div class="state">
+    NE  </div>
+</div><div class="site">
+  <div class="storename">
+    The Plains Trading Co.  </div>
+  <div class="URL">
+    <a href="https://www.plainstrading.com">https://www.plainstrading.com</a>
+  </div>
+  <div class="city">
+    Valentine, 
+  </div>
+  <div class="state">
+    NE  </div>
+</div></fieldset><fieldset><legend>Nevada</legend><div class="site">
+  <div class="storename">
+    Sundance Bookstore  </div>
+  <div class="URL">
+    <a href="https://www.sundancebookstore.com">https://www.sundancebookstore.com</a>
+  </div>
+  <div class="city">
+    Reno, 
+  </div>
+  <div class="state">
+    NV  </div>
+</div></fieldset><fieldset><legend>New Hampshire</legend><div class="site">
+  <div class="storename">
+    Gibson's Bookstore  </div>
+  <div class="URL">
+    <a href="https://www.gibsonsbookstore.com">https://www.gibsonsbookstore.com</a>
+  </div>
+  <div class="city">
+    Concord, 
+  </div>
+  <div class="state">
+    NH  </div>
+</div><div class="site">
+  <div class="storename">
+    Innisfree Bookshop  </div>
+  <div class="URL">
+    <a href="https://www.innisfreebookshop.com">https://www.innisfreebookshop.com</a>
+  </div>
+  <div class="city">
+    Meredith, 
+  </div>
+  <div class="state">
+    NH  </div>
+</div><div class="site">
+  <div class="storename">
+    MainStreet BookEnds of Warner  </div>
+  <div class="URL">
+    <a href="https://www.mainstreetbookends.com">https://www.mainstreetbookends.com</a>
+  </div>
+  <div class="city">
+    Warner, 
+  </div>
+  <div class="state">
+    NH  </div>
+</div><div class="site">
+  <div class="storename">
+    Morgan Hill Bookstore  </div>
+  <div class="URL">
+    <a href="https://www.morganhillbookstore.com">https://www.morganhillbookstore.com</a>
+  </div>
+  <div class="city">
+    New London, 
+  </div>
+  <div class="state">
+    NH  </div>
+</div><div class="site">
+  <div class="storename">
+    The Toadstool Bookshop  </div>
+  <div class="URL">
+    <a href="https://www.toadbooks.com">https://www.toadbooks.com</a>
+  </div>
+  <div class="city">
+    Peterborough,, 
+  </div>
+  <div class="state">
+    NH  </div>
+</div><div class="site">
+  <div class="storename">
+    Water Street Bookstore  </div>
+  <div class="URL">
+    <a href="https://www.waterstreetbooks.com">https://www.waterstreetbooks.com</a>
+  </div>
+  <div class="city">
+    Exeter, 
+  </div>
+  <div class="state">
+    NH  </div>
+</div></fieldset><fieldset><legend>New Jersey</legend><div class="site">
+  <div class="storename">
+    BookTowne  </div>
+  <div class="URL">
+    <a href="https://www.booktowne.com">https://www.booktowne.com</a>
+  </div>
+  <div class="city">
+    Manasquan, 
+  </div>
+  <div class="state">
+    NJ  </div>
+</div><div class="site">
+  <div class="storename">
+    Inkwood Books  </div>
+  <div class="URL">
+    <a href="https://www.inkwoodnj.com">https://www.inkwoodnj.com</a>
+  </div>
+  <div class="city">
+    Haddonfield, 
+  </div>
+  <div class="state">
+    NJ  </div>
+</div><div class="site">
+  <div class="storename">
+    Little City Books  </div>
+  <div class="URL">
+    <a href="https://www.littlecitybooks.com">https://www.littlecitybooks.com</a>
+  </div>
+  <div class="city">
+    Hoboken, 
+  </div>
+  <div class="state">
+    NJ  </div>
+</div><div class="site">
+  <div class="storename">
+    River Road Books  </div>
+  <div class="URL">
+    <a href="https://www.riverroadbooks.net">https://www.riverroadbooks.net</a>
+  </div>
+  <div class="city">
+    Fair Haven, 
+  </div>
+  <div class="state">
+    NJ  </div>
+</div><div class="site">
+  <div class="storename">
+    Watchung Booksellers  </div>
+  <div class="URL">
+    <a href="https://www.watchungbooksellers.com">https://www.watchungbooksellers.com</a>
+  </div>
+  <div class="city">
+    Montclair, 
+  </div>
+  <div class="state">
+    NJ  </div>
+</div><div class="site">
+  <div class="storename">
+    [words] Bookstore  </div>
+  <div class="URL">
+    <a href="https://store.wordsbookstore.com">https://store.wordsbookstore.com</a>
+  </div>
+  <div class="city">
+    Maplewood, 
+  </div>
+  <div class="state">
+    NJ  </div>
+</div></fieldset><fieldset><legend>New Mexico</legend><div class="site">
+  <div class="storename">
+    Bookworks  </div>
+  <div class="URL">
+    <a href="https://www.bkwrks.com">https://www.bkwrks.com</a>
+  </div>
+  <div class="city">
+    Albuquerque, 
+  </div>
+  <div class="state">
+    NM  </div>
+</div><div class="site">
+  <div class="storename">
+    Collected Works Bookstore & Coffeehouse  </div>
+  <div class="URL">
+    <a href="https://shop.collectedworksbookstore.com">https://shop.collectedworksbookstore.com</a>
+  </div>
+  <div class="city">
+    Santa Fe, 
+  </div>
+  <div class="state">
+    NM  </div>
+</div></fieldset><fieldset><legend>New York</legend><div class="site">
+  <div class="storename">
+    A to Z Books  </div>
+  <div class="URL">
+    <a href="https://shopatozbooks.com">https://shopatozbooks.com</a>
+  </div>
+  <div class="city">
+    Buffalo, 
+  </div>
+  <div class="state">
+    NY  </div>
+</div><div class="site">
+  <div class="storename">
+    Bank Street Bookstore  </div>
+  <div class="URL">
+    <a href="https://www.bankstreetbooks.com">https://www.bankstreetbooks.com</a>
+  </div>
+  <div class="city">
+    New York, 
+  </div>
+  <div class="state">
+    NY  </div>
+</div><div class="site">
+  <div class="storename">
+    Battenkill Books  </div>
+  <div class="URL">
+    <a href="https://www.battenkillbooks.com">https://www.battenkillbooks.com</a>
+  </div>
+  <div class="city">
+    Cambridge, 
+  </div>
+  <div class="state">
+    NY  </div>
+</div><div class="site">
+  <div class="storename">
+    Book Culture  </div>
+  <div class="URL">
+    <a href="https://www.bookculture.com">https://www.bookculture.com</a>
+  </div>
+  <div class="city">
+    New York, 
+  </div>
+  <div class="state">
+    NY  </div>
+</div><div class="site">
+  <div class="storename">
+    Book House of Stuyvesant Plaza  </div>
+  <div class="URL">
+    <a href="https://www.bhny.com">https://www.bhny.com</a>
+  </div>
+  <div class="city">
+    Albany, 
+  </div>
+  <div class="state">
+    NY  </div>
+</div><div class="site">
+  <div class="storename">
+    BookHampton  </div>
+  <div class="URL">
+    <a href="https://www.bookhampton.com">https://www.bookhampton.com</a>
+  </div>
+  <div class="city">
+    East Hampton, 
+  </div>
+  <div class="state">
+    NY  </div>
+</div><div class="site">
+  <div class="storename">
+    Bravo's Book Nook at the Players Theatre  </div>
+  <div class="URL">
+    <a href="https://www.bravosbooknook.com">https://www.bravosbooknook.com</a>
+  </div>
+  <div class="city">
+    New York, 
+  </div>
+  <div class="state">
+    NY  </div>
+</div><div class="site">
+  <div class="storename">
+    Bronx River Books  </div>
+  <div class="URL">
+    <a href="https://www.bronxriverbooks.com">https://www.bronxriverbooks.com</a>
+  </div>
+  <div class="city">
+    Scarsdale, 
+  </div>
+  <div class="state">
+    NY  </div>
+</div><div class="site">
+  <div class="storename">
+    Chautauqua Bookstore  </div>
+  <div class="URL">
+    <a href="https://www.chautauquabookstore.com">https://www.chautauquabookstore.com</a>
+  </div>
+  <div class="city">
+    Chautauqua, 
+  </div>
+  <div class="state">
+    NY  </div>
+</div><div class="site">
+  <div class="storename">
+    Community Bookstore  </div>
+  <div class="URL">
+    <a href="https://www.communitybookstore.net">https://www.communitybookstore.net</a>
+  </div>
+  <div class="city">
+    Brooklyn, 
+  </div>
+  <div class="state">
+    NY  </div>
+</div><div class="site">
+  <div class="storename">
+    Greenlight Bookstore  </div>
+  <div class="URL">
+    <a href="https://www.greenlightbookstore.com">https://www.greenlightbookstore.com</a>
+  </div>
+  <div class="city">
+    Brooklyn, 
+  </div>
+  <div class="state">
+    NY  </div>
+</div><div class="site">
+  <div class="storename">
+    Kew & Willow Books  </div>
+  <div class="URL">
+    <a href="https://www.kewandwillow.com">https://www.kewandwillow.com</a>
+  </div>
+  <div class="city">
+    Kew Gardens, 
+  </div>
+  <div class="state">
+    NY  </div>
+</div><div class="site">
+  <div class="storename">
+    Lift Bridge Book Shop  </div>
+  <div class="URL">
+    <a href="https://www.liftbridgebooks.com">https://www.liftbridgebooks.com</a>
+  </div>
+  <div class="city">
+    Brockport, 
+  </div>
+  <div class="state">
+    NY  </div>
+</div><div class="site">
+  <div class="storename">
+    McNally Jackson Books  </div>
+  <div class="URL">
+    <a href="https://www.mcnallyjackson.com">https://www.mcnallyjackson.com</a>
+  </div>
+  <div class="city">
+    New York, 
+  </div>
+  <div class="state">
+    NY  </div>
+</div><div class="site">
+  <div class="storename">
+    Oblong Books and Music  </div>
+  <div class="URL">
+    <a href="https://www.oblongbooks.com">https://www.oblongbooks.com</a>
+  </div>
+  <div class="city">
+    Millerton, 
+  </div>
+  <div class="state">
+    NY  </div>
+</div><div class="site">
+  <div class="storename">
+    Split Rock Books  </div>
+  <div class="URL">
+    <a href="https://www.splitrockbks.com">https://www.splitrockbks.com</a>
+  </div>
+  <div class="city">
+    Cold Spring, 
+  </div>
+  <div class="state">
+    NY  </div>
+</div><div class="site">
+  <div class="storename">
+    The BookMark Shoppe  </div>
+  <div class="URL">
+    <a href="https://www.bookmarkshoppe.com">https://www.bookmarkshoppe.com</a>
+  </div>
+  <div class="city">
+    Brooklyn, 
+  </div>
+  <div class="state">
+    NY  </div>
+</div><div class="site">
+  <div class="storename">
+    The Bookstore Plus Music & Art  </div>
+  <div class="URL">
+    <a href="https://www.thebookstoreplus.com">https://www.thebookstoreplus.com</a>
+  </div>
+  <div class="city">
+    Lake Placid, 
+  </div>
+  <div class="state">
+    NY  </div>
+</div><div class="site">
+  <div class="storename">
+    The Open Door Bookstore  </div>
+  <div class="URL">
+    <a href="https://www.opendoor-bookstore.com">https://www.opendoor-bookstore.com</a>
+  </div>
+  <div class="city">
+    Schenectady, 
+  </div>
+  <div class="state">
+    NY  </div>
+</div><div class="site">
+  <div class="storename">
+    The River's End Bookstore  </div>
+  <div class="URL">
+    <a href="https://www.riversendbookstore.com">https://www.riversendbookstore.com</a>
+  </div>
+  <div class="city">
+    Oswego, 
+  </div>
+  <div class="state">
+    NY  </div>
+</div><div class="site">
+  <div class="storename">
+    The Voracious Reader  </div>
+  <div class="URL">
+    <a href="https://shop.thevoraciousreader.com">https://shop.thevoraciousreader.com</a>
+  </div>
+  <div class="city">
+    New Rochelle, 
+  </div>
+  <div class="state">
+    NY  </div>
+</div><div class="site">
+  <div class="storename">
+    WORD  </div>
+  <div class="URL">
+    <a href="https://www.wordbookstores.com">https://www.wordbookstores.com</a>
+  </div>
+  <div class="city">
+    Brooklyn, 
+  </div>
+  <div class="state">
+    NY  </div>
+</div><div class="site">
+  <div class="storename">
+    Womrath Bookshop  </div>
+  <div class="URL">
+    <a href="https://womrathbookshop.mybooksandmore.com">https://womrathbookshop.mybooksandmore.com</a>
+  </div>
+  <div class="city">
+    Bronxville, 
+  </div>
+  <div class="state">
+    NY  </div>
+</div><div class="site">
+  <div class="storename">
+    Word Up Community Bookshop - Libreria Comunitaria  </div>
+  <div class="URL">
+    <a href="https://www.wordupbooks.com">https://www.wordupbooks.com</a>
+  </div>
+  <div class="city">
+    New York, 
+  </div>
+  <div class="state">
+    NY  </div>
+</div></fieldset><fieldset><legend>North Carolina</legend><div class="site">
+  <div class="storename">
+    Bookmarks  </div>
+  <div class="URL">
+    <a href="https://www.bookmarksnc.org">https://www.bookmarksnc.org</a>
+  </div>
+  <div class="city">
+    Winston-Salem, 
+  </div>
+  <div class="state">
+    NC  </div>
+</div><div class="site">
+  <div class="storename">
+    Buxton Village Books  </div>
+  <div class="URL">
+    <a href="https://www.buxtonvillagebooks.com">https://www.buxtonvillagebooks.com</a>
+  </div>
+  <div class="city">
+    Buxton, 
+  </div>
+  <div class="state">
+    NC  </div>
+</div><div class="site">
+  <div class="storename">
+    City Lights Bookstore  </div>
+  <div class="URL">
+    <a href="https://www.citylightsnc.com">https://www.citylightsnc.com</a>
+  </div>
+  <div class="city">
+    Sylva, 
+  </div>
+  <div class="state">
+    NC  </div>
+</div><div class="site">
+  <div class="storename">
+    Duck's Cottage  </div>
+  <div class="URL">
+    <a href="https://www.duckscottage.com">https://www.duckscottage.com</a>
+  </div>
+  <div class="city">
+    Duck, 
+  </div>
+  <div class="state">
+    NC  </div>
+</div><div class="site">
+  <div class="storename">
+    Flyleaf Books  </div>
+  <div class="URL">
+    <a href="https://www.flyleafbooks.com">https://www.flyleafbooks.com</a>
+  </div>
+  <div class="city">
+    Chapel Hill, 
+  </div>
+  <div class="state">
+    NC  </div>
+</div><div class="site">
+  <div class="storename">
+    Golden Fig Books  </div>
+  <div class="URL">
+    <a href="https://www.goldenfigbooks.com">https://www.goldenfigbooks.com</a>
+  </div>
+  <div class="city">
+    Durham, 
+  </div>
+  <div class="state">
+    NC  </div>
+</div><div class="site">
+  <div class="storename">
+    Highland Books  </div>
+  <div class="URL">
+    <a href="https://www.highlandbooksonline.com">https://www.highlandbooksonline.com</a>
+  </div>
+  <div class="city">
+    Brevard, 
+  </div>
+  <div class="state">
+    NC  </div>
+</div><div class="site">
+  <div class="storename">
+    Malaprop's Bookstore/Cafe  </div>
+  <div class="URL">
+    <a href="https://www.malaprops.com">https://www.malaprops.com</a>
+  </div>
+  <div class="city">
+    Asheville, 
+  </div>
+  <div class="state">
+    NC  </div>
+</div><div class="site">
+  <div class="storename">
+    Page 158 Books  </div>
+  <div class="URL">
+    <a href="https://www.page158books.com">https://www.page158books.com</a>
+  </div>
+  <div class="city">
+    Wake Forest, 
+  </div>
+  <div class="state">
+    NC  </div>
+</div><div class="site">
+  <div class="storename">
+    Park Road Books  </div>
+  <div class="URL">
+    <a href="https://www.parkroadbooks.com">https://www.parkroadbooks.com</a>
+  </div>
+  <div class="city">
+    Charlotte, 
+  </div>
+  <div class="state">
+    NC  </div>
+</div><div class="site">
+  <div class="storename">
+    Quail Ridge Books  </div>
+  <div class="URL">
+    <a href="https://www.quailridgebooks.com">https://www.quailridgebooks.com</a>
+  </div>
+  <div class="city">
+    Raleigh, 
+  </div>
+  <div class="state">
+    NC  </div>
+</div><div class="site">
+  <div class="storename">
+    Scuppernong Books  </div>
+  <div class="URL">
+    <a href="https://scuppernongbooks.com">https://scuppernongbooks.com</a>
+  </div>
+  <div class="city">
+    Greensboro, 
+  </div>
+  <div class="state">
+    NC  </div>
+</div><div class="site">
+  <div class="storename">
+    The Country Bookshop  </div>
+  <div class="URL">
+    <a href="https://www.thecountrybookshop.biz">https://www.thecountrybookshop.biz</a>
+  </div>
+  <div class="city">
+    Southern Pines, 
+  </div>
+  <div class="state">
+    NC  </div>
+</div><div class="site">
+  <div class="storename">
+    The Regulator Bookshop  </div>
+  <div class="URL">
+    <a href="https://www.regulatorbookshop.com">https://www.regulatorbookshop.com</a>
+  </div>
+  <div class="city">
+    Durham, 
+  </div>
+  <div class="state">
+    NC  </div>
+</div><div class="site">
+  <div class="storename">
+    Two Sisters Bookery  </div>
+  <div class="URL">
+    <a href="https://www.twosistersbookerync.com">https://www.twosistersbookerync.com</a>
+  </div>
+  <div class="city">
+    Wilmington, 
+  </div>
+  <div class="state">
+    NC  </div>
+</div><div class="site">
+  <div class="storename">
+    Wonderland Bookshop  </div>
+  <div class="URL">
+    <a href="https://www.wonderlandbookshopnc.com">https://www.wonderlandbookshopnc.com</a>
+  </div>
+  <div class="city">
+    Greensboro, 
+  </div>
+  <div class="state">
+    NC  </div>
+</div></fieldset><fieldset><legend>North Dakota</legend><div class="site">
+  <div class="storename">
+    Main Street Books  </div>
+  <div class="URL">
+    <a href="https://www.mainstreetbooksminot.com">https://www.mainstreetbooksminot.com</a>
+  </div>
+  <div class="city">
+    Minot, 
+  </div>
+  <div class="state">
+    ND  </div>
+</div></fieldset><fieldset><legend>Ohio</legend><div class="site">
+  <div class="storename">
+    Gramercy Books  </div>
+  <div class="URL">
+    <a href="https://gramercybooksbexley.com">https://gramercybooksbexley.com</a>
+  </div>
+  <div class="city">
+    Bexley, 
+  </div>
+  <div class="state">
+    OH  </div>
+</div><div class="site">
+  <div class="storename">
+    Mac's Backs  </div>
+  <div class="URL">
+    <a href="https://www.macsbacks.com">https://www.macsbacks.com</a>
+  </div>
+  <div class="city">
+    Cleveland Heights, 
+  </div>
+  <div class="state">
+    OH  </div>
+</div><div class="site">
+  <div class="storename">
+    Prologue Bookshop  </div>
+  <div class="URL">
+    <a href="https://store.prologuebookshop.com">https://store.prologuebookshop.com</a>
+  </div>
+  <div class="city">
+    Columbus, 
+  </div>
+  <div class="state">
+    OH  </div>
+</div><div class="site">
+  <div class="storename">
+    The Book Loft of German Village  </div>
+  <div class="URL">
+    <a href="https://www.bookloft.com">https://www.bookloft.com</a>
+  </div>
+  <div class="city">
+    Columbus, 
+  </div>
+  <div class="state">
+    OH  </div>
+</div><div class="site">
+  <div class="storename">
+    The Book Rack  </div>
+  <div class="URL">
+    <a href="https://www.cincybookrack.com">https://www.cincybookrack.com</a>
+  </div>
+  <div class="city">
+    Cincinnati, 
+  </div>
+  <div class="state">
+    OH  </div>
+</div><div class="site">
+  <div class="storename">
+    The Learned Owl Book Shop  </div>
+  <div class="URL">
+    <a href="https://www.learnedowl.com">https://www.learnedowl.com</a>
+  </div>
+  <div class="city">
+    Hudson, 
+  </div>
+  <div class="state">
+    OH  </div>
+</div></fieldset><fieldset><legend>Oklahoma</legend><div class="site">
+  <div class="storename">
+    Best of Books  </div>
+  <div class="URL">
+    <a href="https://www.bestofbooksok.com">https://www.bestofbooksok.com</a>
+  </div>
+  <div class="city">
+    Edmond, 
+  </div>
+  <div class="state">
+    OK  </div>
+</div><div class="site">
+  <div class="storename">
+    Bliss Books & Bindery  </div>
+  <div class="URL">
+    <a href="https://www.blissbooksandbindery.com">https://www.blissbooksandbindery.com</a>
+  </div>
+  <div class="city">
+    Stillwater, 
+  </div>
+  <div class="state">
+    OK  </div>
+</div><div class="site">
+  <div class="storename">
+    Whirlwind Book Bar  </div>
+  <div class="URL">
+    <a href="https://www.whirlwindbookbar.com">https://www.whirlwindbookbar.com</a>
+  </div>
+  <div class="city">
+    Altus, 
+  </div>
+  <div class="state">
+    OK  </div>
+</div></fieldset><fieldset><legend>Oregon</legend><div class="site">
+  <div class="storename">
+    Annie Bloom's Books  </div>
+  <div class="URL">
+    <a href="https://www.annieblooms.com">https://www.annieblooms.com</a>
+  </div>
+  <div class="city">
+    Portland, 
+  </div>
+  <div class="state">
+    OR  </div>
+</div><div class="site">
+  <div class="storename">
+    Broadway Books  </div>
+  <div class="URL">
+    <a href="https://www.broadwaybooks.net">https://www.broadwaybooks.net</a>
+  </div>
+  <div class="city">
+    Portland, 
+  </div>
+  <div class="state">
+    OR  </div>
+</div><div class="site">
+  <div class="storename">
+    Klindt's Booksellers  </div>
+  <div class="URL">
+    <a href="https://www.klindtsbooks.com">https://www.klindtsbooks.com</a>
+  </div>
+  <div class="city">
+    The Dalles, 
+  </div>
+  <div class="state">
+    OR  </div>
+</div><div class="site">
+  <div class="storename">
+    Roundabout Books  </div>
+  <div class="URL">
+    <a href="https://www.roundaboutbookshop.com">https://www.roundaboutbookshop.com</a>
+  </div>
+  <div class="city">
+    Bend, 
+  </div>
+  <div class="state">
+    OR  </div>
+</div><div class="site">
+  <div class="storename">
+    Sunriver Books & Music  </div>
+  <div class="URL">
+    <a href="https://www.sunriverbooks.com">https://www.sunriverbooks.com</a>
+  </div>
+  <div class="city">
+    Sunriver, 
+  </div>
+  <div class="state">
+    OR  </div>
+</div><div class="site">
+  <div class="storename">
+    The Book Nook  </div>
+  <div class="URL">
+    <a href="https://www.booknookcanby.com">https://www.booknookcanby.com</a>
+  </div>
+  <div class="city">
+    Canby, 
+  </div>
+  <div class="state">
+    OR  </div>
+</div><div class="site">
+  <div class="storename">
+    Third Street Books  </div>
+  <div class="URL">
+    <a href="https://www.thirdstreetbooks.com">https://www.thirdstreetbooks.com</a>
+  </div>
+  <div class="city">
+    McMinnville, 
+  </div>
+  <div class="state">
+    OR  </div>
+</div><div class="site">
+  <div class="storename">
+    Waucoma Bookstore  </div>
+  <div class="URL">
+    <a href="https://www.waucomabookstore.com">https://www.waucomabookstore.com</a>
+  </div>
+  <div class="city">
+    Hood River, 
+  </div>
+  <div class="state">
+    OR  </div>
+</div><div class="site">
+  <div class="storename">
+    Winter River Books  </div>
+  <div class="URL">
+    <a href="https://www.winterriverbooks.com">https://www.winterriverbooks.com</a>
+  </div>
+  <div class="city">
+    Bandon, 
+  </div>
+  <div class="state">
+    OR  </div>
+</div></fieldset><fieldset><legend>Pennsylvania</legend><div class="site">
+  <div class="storename">
+    Aaron's Books  </div>
+  <div class="URL">
+    <a href="https://www.aaronsbooks.com">https://www.aaronsbooks.com</a>
+  </div>
+  <div class="city">
+    Lititz, 
+  </div>
+  <div class="state">
+    PA  </div>
+</div><div class="site">
+  <div class="storename">
+    City of Asylum Pittsburgh  </div>
+  <div class="URL">
+    <a href="https://www.cityofasylumbooks.org">https://www.cityofasylumbooks.org</a>
+  </div>
+  <div class="city">
+    Pittsburgh, 
+  </div>
+  <div class="state">
+    PA  </div>
+</div><div class="site">
+  <div class="storename">
+    Farley's Bookshop  </div>
+  <div class="URL">
+    <a href="https://www.farleysbookshop.com">https://www.farleysbookshop.com</a>
+  </div>
+  <div class="city">
+    New Hope, 
+  </div>
+  <div class="state">
+    PA  </div>
+</div><div class="site">
+  <div class="storename">
+    Head House Books  </div>
+  <div class="URL">
+    <a href="https://www.headhousebooks.com">https://www.headhousebooks.com</a>
+  </div>
+  <div class="city">
+    Philadelphia, 
+  </div>
+  <div class="state">
+    PA  </div>
+</div><div class="site">
+  <div class="storename">
+    Jewish Kids Bookstore  </div>
+  <div class="URL">
+    <a href="https://www.jkbac.com">https://www.jkbac.com</a>
+  </div>
+  <div class="city">
+    Moosic, 
+  </div>
+  <div class="state">
+    PA  </div>
+</div><div class="site">
+  <div class="storename">
+    Joseph Fox Bookshop  </div>
+  <div class="URL">
+    <a href="https://www.foxbookshop.com">https://www.foxbookshop.com</a>
+  </div>
+  <div class="city">
+    Philadelphia, 
+  </div>
+  <div class="state">
+    PA  </div>
+</div><div class="site">
+  <div class="storename">
+    Leana's Books & More  </div>
+  <div class="URL">
+    <a href="https://www.leanasbooks.com">https://www.leanasbooks.com</a>
+  </div>
+  <div class="city">
+    Hermitage, 
+  </div>
+  <div class="state">
+    PA  </div>
+</div><div class="site">
+  <div class="storename">
+    Let's Play Books!  </div>
+  <div class="URL">
+    <a href="https://www.letsplaybooks.com">https://www.letsplaybooks.com</a>
+  </div>
+  <div class="city">
+    Emmaus, 
+  </div>
+  <div class="state">
+    PA  </div>
+</div><div class="site">
+  <div class="storename">
+    Main Point Books  </div>
+  <div class="URL">
+    <a href="https://www.mainpointbooks.com">https://www.mainpointbooks.com</a>
+  </div>
+  <div class="city">
+    Wayne, 
+  </div>
+  <div class="state">
+    PA  </div>
+</div><div class="site">
+  <div class="storename">
+    Mystery Lovers Bookshop  </div>
+  <div class="URL">
+    <a href="https://www.mysterylovers.com">https://www.mysterylovers.com</a>
+  </div>
+  <div class="city">
+    Oakmont, 
+  </div>
+  <div class="state">
+    PA  </div>
+</div><div class="site">
+  <div class="storename">
+    Newtown Bookshop  </div>
+  <div class="URL">
+    <a href="https://www.newtownbookshop.com">https://www.newtownbookshop.com</a>
+  </div>
+  <div class="city">
+    Newtown, 
+  </div>
+  <div class="state">
+    PA  </div>
+</div><div class="site">
+  <div class="storename">
+    Penguin Bookshop  </div>
+  <div class="URL">
+    <a href="https://www.penguinbookshop.com">https://www.penguinbookshop.com</a>
+  </div>
+  <div class="city">
+    Sewickley, 
+  </div>
+  <div class="state">
+    PA  </div>
+</div><div class="site">
+  <div class="storename">
+    Penn Book Center  </div>
+  <div class="URL">
+    <a href="https://www.pennbookcenter.com">https://www.pennbookcenter.com</a>
+  </div>
+  <div class="city">
+    Philadelphia, 
+  </div>
+  <div class="state">
+    PA  </div>
+</div><div class="site">
+  <div class="storename">
+    The Doylestown Bookshop  </div>
+  <div class="URL">
+    <a href="https://www.doylestownbookshop.com">https://www.doylestownbookshop.com</a>
+  </div>
+  <div class="city">
+    Doylestown, 
+  </div>
+  <div class="state">
+    PA  </div>
+</div><div class="site">
+  <div class="storename">
+    The Otto Bookstore  </div>
+  <div class="URL">
+    <a href="https://www.ottobookstore.com">https://www.ottobookstore.com</a>
+  </div>
+  <div class="city">
+    Williamsport, 
+  </div>
+  <div class="state">
+    PA  </div>
+</div><div class="site">
+  <div class="storename">
+    Towne Book Center & Cafe  </div>
+  <div class="URL">
+    <a href="https://www.townebc.com">https://www.townebc.com</a>
+  </div>
+  <div class="city">
+    Collegeville, 
+  </div>
+  <div class="state">
+    PA  </div>
+</div></fieldset><fieldset><legend>Rhode Island</legend><div class="site">
+  <div class="storename">
+    Barrington Books  </div>
+  <div class="URL">
+    <a href="https://www.barringtonbooksretold.com">https://www.barringtonbooksretold.com</a>
+  </div>
+  <div class="city">
+    Barrington, 
+  </div>
+  <div class="state">
+    RI  </div>
+</div><div class="site">
+  <div class="storename">
+    Books on the Square  </div>
+  <div class="URL">
+    <a href="https://www.booksq.com">https://www.booksq.com</a>
+  </div>
+  <div class="city">
+    Providence, 
+  </div>
+  <div class="state">
+    RI  </div>
+</div><div class="site">
+  <div class="storename">
+    Island Bound Bookstore  </div>
+  <div class="URL">
+    <a href="https://www.islandboundbookstore.com">https://www.islandboundbookstore.com</a>
+  </div>
+  <div class="city">
+    Block Island, 
+  </div>
+  <div class="state">
+    RI  </div>
+</div><div class="site">
+  <div class="storename">
+    Wakefield Books  </div>
+  <div class="URL">
+    <a href="https://www.wakefieldbooks.com">https://www.wakefieldbooks.com</a>
+  </div>
+  <div class="city">
+    Wakefield, 
+  </div>
+  <div class="state">
+    RI  </div>
+</div></fieldset><fieldset><legend>South Carolina</legend><div class="site">
+  <div class="storename">
+    Books on Broad  </div>
+  <div class="URL">
+    <a href="https://www.booksonbroad.com">https://www.booksonbroad.com</a>
+  </div>
+  <div class="city">
+    Camden, 
+  </div>
+  <div class="state">
+    SC  </div>
+</div></fieldset><fieldset><legend>Tennessee</legend><div class="site">
+  <div class="storename">
+    A Little Bookish  </div>
+  <div class="URL">
+    <a href="https://www.alittlebookish.com">https://www.alittlebookish.com</a>
+  </div>
+  <div class="city">
+    Ooltewah, 
+  </div>
+  <div class="state">
+    TN  </div>
+</div><div class="site">
+  <div class="storename">
+    Duck River Books  </div>
+  <div class="URL">
+    <a href="https://shop.duckriverbooks.com">https://shop.duckriverbooks.com</a>
+  </div>
+  <div class="city">
+    Columbia, 
+  </div>
+  <div class="state">
+    TN  </div>
+</div><div class="site">
+  <div class="storename">
+    Novel.  </div>
+  <div class="URL">
+    <a href="https://www.novelmemphis.com">https://www.novelmemphis.com</a>
+  </div>
+  <div class="city">
+    Memphis, 
+  </div>
+  <div class="state">
+    TN  </div>
+</div><div class="site">
+  <div class="storename">
+    Parnassus Books  </div>
+  <div class="URL">
+    <a href="https://www.parnassusbooks.net">https://www.parnassusbooks.net</a>
+  </div>
+  <div class="city">
+    Nashville, 
+  </div>
+  <div class="state">
+    TN  </div>
+</div></fieldset><fieldset><legend>Texas</legend><div class="site">
+  <div class="storename">
+    Blue Willow Bookshop  </div>
+  <div class="URL">
+    <a href="https://www.bluewillowbookshop.com">https://www.bluewillowbookshop.com</a>
+  </div>
+  <div class="city">
+    Houston, 
+  </div>
+  <div class="state">
+    TX  </div>
+</div><div class="site">
+  <div class="storename">
+    BookPeople  </div>
+  <div class="URL">
+    <a href="https://www.bookpeople.com">https://www.bookpeople.com</a>
+  </div>
+  <div class="city">
+    Austin, 
+  </div>
+  <div class="state">
+    TX  </div>
+</div><div class="site">
+  <div class="storename">
+    BookWoman  </div>
+  <div class="URL">
+    <a href="https://www.ebookwoman.com">https://www.ebookwoman.com</a>
+  </div>
+  <div class="city">
+    Austin, 
+  </div>
+  <div class="state">
+    TX  </div>
+</div><div class="site">
+  <div class="storename">
+    Brazos Bookstore  </div>
+  <div class="URL">
+    <a href="https://www.brazosbookstore.com">https://www.brazosbookstore.com</a>
+  </div>
+  <div class="city">
+    Houston, 
+  </div>
+  <div class="state">
+    TX  </div>
+</div><div class="site">
+  <div class="storename">
+    Interabang Books  </div>
+  <div class="URL">
+    <a href="https://www.interabangbooks.com">https://www.interabangbooks.com</a>
+  </div>
+  <div class="city">
+    Dallas, 
+  </div>
+  <div class="state">
+    TX  </div>
+</div><div class="site">
+  <div class="storename">
+    Katy Budget Books  </div>
+  <div class="URL">
+    <a href="https://www.katybooks.com">https://www.katybooks.com</a>
+  </div>
+  <div class="city">
+    Houston, 
+  </div>
+  <div class="state">
+    TX  </div>
+</div><div class="site">
+  <div class="storename">
+    Murder By the Book  </div>
+  <div class="URL">
+    <a href="https://www.murderbooks.com">https://www.murderbooks.com</a>
+  </div>
+  <div class="city">
+    Houston, 
+  </div>
+  <div class="state">
+    TX  </div>
+</div><div class="site">
+  <div class="storename">
+    Nowhere Bookshop  </div>
+  <div class="URL">
+    <a href="https://www.nowherebookshop.com">https://www.nowherebookshop.com</a>
+  </div>
+  <div class="city">
+    San Antonio, 
+  </div>
+  <div class="state">
+    TX  </div>
+</div><div class="site">
+  <div class="storename">
+    Patchouli Joe's Books & Indulgences  </div>
+  <div class="URL">
+    <a href="https://www.patchoulijoesbooks.com">https://www.patchoulijoesbooks.com</a>
+  </div>
+  <div class="city">
+    Leander, 
+  </div>
+  <div class="state">
+    TX  </div>
+</div><div class="site">
+  <div class="storename">
+    The Dock Bookshop  </div>
+  <div class="URL">
+    <a href="https://www.thedockbookshop.com">https://www.thedockbookshop.com</a>
+  </div>
+  <div class="city">
+    Fort Worth, 
+  </div>
+  <div class="state">
+    TX  </div>
+</div><div class="site">
+  <div class="storename">
+    The Twig Book Shop  </div>
+  <div class="URL">
+    <a href="https://www.thetwig.com">https://www.thetwig.com</a>
+  </div>
+  <div class="city">
+    San Antonio, 
+  </div>
+  <div class="state">
+    TX  </div>
+</div></fieldset><fieldset><legend>Utah</legend><div class="site">
+  <div class="storename">
+    The Book Bungalow  </div>
+  <div class="URL">
+    <a href="https://thebookbungalow.com">https://thebookbungalow.com</a>
+  </div>
+  <div class="city">
+    St. George, 
+  </div>
+  <div class="state">
+    UT  </div>
+</div><div class="site">
+  <div class="storename">
+    The King's English Bookshop  </div>
+  <div class="URL">
+    <a href="https://www.kingsenglish.com">https://www.kingsenglish.com</a>
+  </div>
+  <div class="city">
+    Salt Lake City, 
+  </div>
+  <div class="state">
+    UT  </div>
+</div><div class="site">
+  <div class="storename">
+    Weller Book Works  </div>
+  <div class="URL">
+    <a href="https://www.wellerbookworks.com">https://www.wellerbookworks.com</a>
+  </div>
+  <div class="city">
+    Salt Lake City, 
+  </div>
+  <div class="state">
+    UT  </div>
+</div></fieldset><fieldset><legend>Vermont</legend><div class="site">
+  <div class="storename">
+    Bartleby's Books  </div>
+  <div class="URL">
+    <a href="https://shop.myvermontbookstore.com">https://shop.myvermontbookstore.com</a>
+  </div>
+  <div class="city">
+    Wilmington, 
+  </div>
+  <div class="state">
+    VT  </div>
+</div><div class="site">
+  <div class="storename">
+    Bear Pond Books  </div>
+  <div class="URL">
+    <a href="https://www.bearpondbooks.com">https://www.bearpondbooks.com</a>
+  </div>
+  <div class="city">
+    Montpelier, 
+  </div>
+  <div class="state">
+    VT  </div>
+</div><div class="site">
+  <div class="storename">
+    Crow Bookshop  </div>
+  <div class="URL">
+    <a href="https://www.crowbooks.com">https://www.crowbooks.com</a>
+  </div>
+  <div class="city">
+    Burlington, 
+  </div>
+  <div class="state">
+    VT  </div>
+</div><div class="site">
+  <div class="storename">
+    Northshire Bookstore  </div>
+  <div class="URL">
+    <a href="https://www.northshire.com">https://www.northshire.com</a>
+  </div>
+  <div class="city">
+    Manchester Center, 
+  </div>
+  <div class="state">
+    VT  </div>
+</div><div class="site">
+  <div class="storename">
+    Norwich Bookstore  </div>
+  <div class="URL">
+    <a href="https://www.norwichbookstore.com">https://www.norwichbookstore.com</a>
+  </div>
+  <div class="city">
+    Norwich, 
+  </div>
+  <div class="state">
+    VT  </div>
+</div><div class="site">
+  <div class="storename">
+    Phoenix Books  </div>
+  <div class="URL">
+    <a href="https://www.phoenixbooks.biz">https://www.phoenixbooks.biz</a>
+  </div>
+  <div class="city">
+    Essex Junction, 
+  </div>
+  <div class="state">
+    VT  </div>
+</div><div class="site">
+  <div class="storename">
+    The Bennington Bookshop  </div>
+  <div class="URL">
+    <a href="https://www.benningtonbookshop.com">https://www.benningtonbookshop.com</a>
+  </div>
+  <div class="city">
+    Bennington, 
+  </div>
+  <div class="state">
+    VT  </div>
+</div><div class="site">
+  <div class="storename">
+    The Flying Pig Bookstore  </div>
+  <div class="URL">
+    <a href="https://www.flyingpigbooks.com">https://www.flyingpigbooks.com</a>
+  </div>
+  <div class="city">
+    Shelburne, 
+  </div>
+  <div class="state">
+    VT  </div>
+</div><div class="site">
+  <div class="storename">
+    The Yankee Bookshop  </div>
+  <div class="URL">
+    <a href="https://www.yankeebookshop.com">https://www.yankeebookshop.com</a>
+  </div>
+  <div class="city">
+    Woodstock, 
+  </div>
+  <div class="state">
+    VT  </div>
+</div><div class="site">
+  <div class="storename">
+    Vermont Book Shop  </div>
+  <div class="URL">
+    <a href="https://www.vermontbookshop.com">https://www.vermontbookshop.com</a>
+  </div>
+  <div class="city">
+    Middlebury, 
+  </div>
+  <div class="state">
+    VT  </div>
+</div><div class="site">
+  <div class="storename">
+    Village Square Booksellers  </div>
+  <div class="URL">
+    <a href="https://www.villagesquarebooks.com">https://www.villagesquarebooks.com</a>
+  </div>
+  <div class="city">
+    Bellows Falls, 
+  </div>
+  <div class="state">
+    VT  </div>
+</div></fieldset><fieldset><legend>Virginia</legend><div class="site">
+  <div class="storename">
+    Book No Further  </div>
+  <div class="URL">
+    <a href="https://www.booknofurther.com">https://www.booknofurther.com</a>
+  </div>
+  <div class="city">
+    Roanoke, 
+  </div>
+  <div class="state">
+    VA  </div>
+</div><div class="site">
+  <div class="storename">
+    Book People  </div>
+  <div class="URL">
+    <a href="https://www.bookpeoplerichmond.com">https://www.bookpeoplerichmond.com</a>
+  </div>
+  <div class="city">
+    Richmond, 
+  </div>
+  <div class="state">
+    VA  </div>
+</div><div class="site">
+  <div class="storename">
+    Books and Crannies  </div>
+  <div class="URL">
+    <a href="https://www.booksandcranniesva.com">https://www.booksandcranniesva.com</a>
+  </div>
+  <div class="city">
+    Martinsville, 
+  </div>
+  <div class="state">
+    VA  </div>
+</div><div class="site">
+  <div class="storename">
+    One More Page Books  </div>
+  <div class="URL">
+    <a href="https://www.onemorepagebooks.com">https://www.onemorepagebooks.com</a>
+  </div>
+  <div class="city">
+    Arlington, 
+  </div>
+  <div class="state">
+    VA  </div>
+</div><div class="site">
+  <div class="storename">
+    Over the Moon Bookstore & Artisan Gallery  </div>
+  <div class="URL">
+    <a href="https://www.overthemoonbookstore.com">https://www.overthemoonbookstore.com</a>
+  </div>
+  <div class="city">
+    Crozet, 
+  </div>
+  <div class="state">
+    VA  </div>
+</div><div class="site">
+  <div class="storename">
+    Prince Books  </div>
+  <div class="URL">
+    <a href="https://www.prince-books.com">https://www.prince-books.com</a>
+  </div>
+  <div class="city">
+    Norfolk, 
+  </div>
+  <div class="state">
+    VA  </div>
+</div><div class="site">
+  <div class="storename">
+    Scrawl Books  </div>
+  <div class="URL">
+    <a href="https://www.scrawlbooks.com">https://www.scrawlbooks.com</a>
+  </div>
+  <div class="city">
+    Reston, 
+  </div>
+  <div class="state">
+    VA  </div>
+</div><div class="site">
+  <div class="storename">
+    Sundial Books  </div>
+  <div class="URL">
+    <a href="https://www.sundialbooks.net">https://www.sundialbooks.net</a>
+  </div>
+  <div class="city">
+    Chincoteague, 
+  </div>
+  <div class="state">
+    VA  </div>
+</div><div class="site">
+  <div class="storename">
+    The Fountain Bookstore  </div>
+  <div class="URL">
+    <a href="https://www.fountainbookstore.com">https://www.fountainbookstore.com</a>
+  </div>
+  <div class="city">
+    Richmond, 
+  </div>
+  <div class="state">
+    VA  </div>
+</div><div class="site">
+  <div class="storename">
+    Winchester Book Gallery  </div>
+  <div class="URL">
+    <a href="https://www.winchesterbookgallery.com">https://www.winchesterbookgallery.com</a>
+  </div>
+  <div class="city">
+    Winchester, 
+  </div>
+  <div class="state">
+    VA  </div>
+</div></fieldset><fieldset><legend>Washington</legend><div class="site">
+  <div class="storename">
+    A Book For All Seasons  </div>
+  <div class="URL">
+    <a href="https://www.abookforallseasons.com">https://www.abookforallseasons.com</a>
+  </div>
+  <div class="city">
+    Leavenworth, 
+  </div>
+  <div class="state">
+    WA  </div>
+</div><div class="site">
+  <div class="storename">
+    Ada's Technical Books  </div>
+  <div class="URL">
+    <a href="https://www.adasbooks.com">https://www.adasbooks.com</a>
+  </div>
+  <div class="city">
+    Seattle, 
+  </div>
+  <div class="state">
+    WA  </div>
+</div><div class="site">
+  <div class="storename">
+    Auntie's Bookstore  </div>
+  <div class="URL">
+    <a href="https://www.auntiesbooks.com">https://www.auntiesbooks.com</a>
+  </div>
+  <div class="city">
+    Spokane, 
+  </div>
+  <div class="state">
+    WA  </div>
+</div><div class="site">
+  <div class="storename">
+    Book 'n' Brush  </div>
+  <div class="URL">
+    <a href="https://www.booknbrush.com">https://www.booknbrush.com</a>
+  </div>
+  <div class="city">
+    Chehalis, 
+  </div>
+  <div class="state">
+    WA  </div>
+</div><div class="site">
+  <div class="storename">
+    Browsers Bookshop  </div>
+  <div class="URL">
+    <a href="https://browsersolympia.com">https://browsersolympia.com</a>
+  </div>
+  <div class="city">
+    Olympia, 
+  </div>
+  <div class="state">
+    WA  </div>
+</div><div class="site">
+  <div class="storename">
+    Eagle Harbor Book Company  </div>
+  <div class="URL">
+    <a href="https://www.eagleharborbooks.com">https://www.eagleharborbooks.com</a>
+  </div>
+  <div class="city">
+    Bainbridge Island, 
+  </div>
+  <div class="state">
+    WA  </div>
+</div><div class="site">
+  <div class="storename">
+    Griffin Bay Bookstore  </div>
+  <div class="URL">
+    <a href="https://griffinbaybook.com">https://griffinbaybook.com</a>
+  </div>
+  <div class="city">
+    Friday Harbor, 
+  </div>
+  <div class="state">
+    WA  </div>
+</div><div class="site">
+  <div class="storename">
+    Inklings Bookshop  </div>
+  <div class="URL">
+    <a href="https://www.inklingsbookshop.com">https://www.inklingsbookshop.com</a>
+  </div>
+  <div class="city">
+    Yakima, 
+  </div>
+  <div class="state">
+    WA  </div>
+</div><div class="site">
+  <div class="storename">
+    Island Books  </div>
+  <div class="URL">
+    <a href="https://www.mercerislandbooks.com">https://www.mercerislandbooks.com</a>
+  </div>
+  <div class="city">
+    Mercer Island, 
+  </div>
+  <div class="state">
+    WA  </div>
+</div><div class="site">
+  <div class="storename">
+    King's Books  </div>
+  <div class="URL">
+    <a href="https://www.kingsbookstore.com">https://www.kingsbookstore.com</a>
+  </div>
+  <div class="city">
+    Tacoma, 
+  </div>
+  <div class="state">
+    WA  </div>
+</div><div class="site">
+  <div class="storename">
+    Liberty Bay Books  </div>
+  <div class="URL">
+    <a href="https://www.libertybaybooks.com">https://www.libertybaybooks.com</a>
+  </div>
+  <div class="city">
+    Poulsbo, 
+  </div>
+  <div class="state">
+    WA  </div>
+</div><div class="site">
+  <div class="storename">
+    Orca Books  </div>
+  <div class="URL">
+    <a href="https://www.orcabooks.com">https://www.orcabooks.com</a>
+  </div>
+  <div class="city">
+    Olympia, 
+  </div>
+  <div class="state">
+    WA  </div>
+</div><div class="site">
+  <div class="storename">
+    Port Book & News  </div>
+  <div class="URL">
+    <a href="https://www.portbooknews.com">https://www.portbooknews.com</a>
+  </div>
+  <div class="city">
+    Port Angeles, 
+  </div>
+  <div class="state">
+    WA  </div>
+</div><div class="site">
+  <div class="storename">
+    Queen Anne Book Company  </div>
+  <div class="URL">
+    <a href="https://www.qabookco.com">https://www.qabookco.com</a>
+  </div>
+  <div class="city">
+    Seattle, 
+  </div>
+  <div class="state">
+    WA  </div>
+</div><div class="site">
+  <div class="storename">
+    Riverwalk Books  </div>
+  <div class="URL">
+    <a href="https://www.riverwalkbooks.com">https://www.riverwalkbooks.com</a>
+  </div>
+  <div class="city">
+    Chelan, 
+  </div>
+  <div class="state">
+    WA  </div>
+</div><div class="site">
+  <div class="storename">
+    Secret Garden Bookshop  </div>
+  <div class="URL">
+    <a href="https://www.secretgardenbooks.com">https://www.secretgardenbooks.com</a>
+  </div>
+  <div class="city">
+    Seattle, 
+  </div>
+  <div class="state">
+    WA  </div>
+</div><div class="site">
+  <div class="storename">
+    The Elliott Bay Book Company  </div>
+  <div class="URL">
+    <a href="https://www.elliottbaybook.com">https://www.elliottbaybook.com</a>
+  </div>
+  <div class="city">
+    Seattle, 
+  </div>
+  <div class="state">
+    WA  </div>
+</div><div class="site">
+  <div class="storename">
+    Third Place Books  </div>
+  <div class="URL">
+    <a href="https://www.thirdplacebooks.com">https://www.thirdplacebooks.com</a>
+  </div>
+  <div class="city">
+    Lake Forest Park, 
+  </div>
+  <div class="state">
+    WA  </div>
+</div><div class="site">
+  <div class="storename">
+    Trail's End Bookstore  </div>
+  <div class="URL">
+    <a href="https://www.trailsendbookstore.com">https://www.trailsendbookstore.com</a>
+  </div>
+  <div class="city">
+    Winthrop, 
+  </div>
+  <div class="state">
+    WA  </div>
+</div><div class="site">
+  <div class="storename">
+    Village Books  </div>
+  <div class="URL">
+    <a href="https://www.VillageBooks.com">https://www.VillageBooks.com</a>
+  </div>
+  <div class="city">
+    Bellingham, 
+  </div>
+  <div class="state">
+    WA  </div>
+</div><div class="site">
+  <div class="storename">
+    Watermark Book Co.  </div>
+  <div class="URL">
+    <a href="https://www.watermarkbookcompany.com">https://www.watermarkbookcompany.com</a>
+  </div>
+  <div class="city">
+    Anacortes, 
+  </div>
+  <div class="state">
+    WA  </div>
+</div></fieldset><fieldset><legend>Wisconsin</legend><div class="site">
+  <div class="storename">
+    A Room Of One's Own Bookstore  </div>
+  <div class="URL">
+    <a href="https://www.roomofonesown.com">https://www.roomofonesown.com</a>
+  </div>
+  <div class="city">
+    Madison, 
+  </div>
+  <div class="state">
+    WI  </div>
+</div><div class="site">
+  <div class="storename">
+    Books & Company  </div>
+  <div class="URL">
+    <a href="https://www.booksco.com">https://www.booksco.com</a>
+  </div>
+  <div class="city">
+    Oconomowoc, 
+  </div>
+  <div class="state">
+    WI  </div>
+</div><div class="site">
+  <div class="storename">
+    Boswell Book Company  </div>
+  <div class="URL">
+    <a href="https://www.boswellbooks.com">https://www.boswellbooks.com</a>
+  </div>
+  <div class="city">
+    Milwaukee, 
+  </div>
+  <div class="state">
+    WI  </div>
+</div><div class="site">
+  <div class="storename">
+    Lion's Tooth  </div>
+  <div class="URL">
+    <a href="https://www.lionstoothmke.com">https://www.lionstoothmke.com</a>
+  </div>
+  <div class="city">
+    Milwaukee, 
+  </div>
+  <div class="state">
+    WI  </div>
+</div><div class="site">
+  <div class="storename">
+    Northwind Book & Fiber  </div>
+  <div class="URL">
+    <a href="https://www.northwindbook.com">https://www.northwindbook.com</a>
+  </div>
+  <div class="city">
+    Spooner, 
+  </div>
+  <div class="state">
+    WI  </div>
+</div><div class="site">
+  <div class="storename">
+    Redbery Books  </div>
+  <div class="URL">
+    <a href="https://www.redberybooks.com">https://www.redberybooks.com</a>
+  </div>
+  <div class="city">
+    Cable, 
+  </div>
+  <div class="state">
+    WI  </div>
+</div><div class="site">
+  <div class="storename">
+    River Dog Book Co.  </div>
+  <div class="URL">
+    <a href="https://riverdogbookco.com">https://riverdogbookco.com</a>
+  </div>
+  <div class="city">
+    Beaver Dam, 
+  </div>
+  <div class="state">
+    WI  </div>
+</div><div class="site">
+  <div class="storename">
+    Yardstick  </div>
+  <div class="URL">
+    <a href="https://www.yardstickalgoma.com">https://www.yardstickalgoma.com</a>
+  </div>
+  <div class="city">
+    Algoma, 
+  </div>
+  <div class="state">
+    WI  </div>
+</div></fieldset><fieldset><legend>Wyoming</legend><div class="site">
+  <div class="storename">
+    Storyteller  </div>
+  <div class="URL">
+    <a href="https://www.storytellerwyo.com">https://www.storytellerwyo.com</a>
+  </div>
+  <div class="city">
+    Thermopolis, 
+  </div>
+  <div class="state">
+    WY  </div>
+</div><div class="site">
+  <div class="storename">
+    Whistle-Stop Mercantile  </div>
+  <div class="URL">
+    <a href="https://www.whistlestopbooks.com">https://www.whistlestopbooks.com</a>
+  </div>
+  <div class="city">
+    Douglas, 
+  </div>
+  <div class="state">
+    WY  </div>
+</div><div class="site">
+  <div class="storename">
+    Wind City Books  </div>
+  <div class="URL">
+    <a href="https://www.windcitybooks.com">https://www.windcitybooks.com</a>
+  </div>
+  <div class="city">
+    Casper, 
+  </div>
+  <div class="state">
+    WY  </div>
+</div></fieldset></div><h2>IndieLite Sites</h2><div class="ilstores"><fieldset><legend>Alaska</legend><div class="site">
+  <div class="storename">
+    Writer's Block Bookstore & Cafe  </div>
+  <div class="URL">
+    <a href="https://writersblockak.indielite.org">https://writersblockak.indielite.org</a>
+  </div>
+  <div class="city">
+    Anchorage, 
+  </div>
+  <div class="state">
+    AK  </div>
+</div></fieldset><fieldset><legend>Arkansas</legend><div class="site">
+  <div class="storename">
+    Bookish  </div>
+  <div class="URL">
+    <a href="https://bookishfs.indielite.org">https://bookishfs.indielite.org</a>
+  </div>
+  <div class="city">
+    Fort Smith, 
+  </div>
+  <div class="state">
+    AR  </div>
+</div><div class="site">
+  <div class="storename">
+    Nightbird Books  </div>
+  <div class="URL">
+    <a href="https://nightbirdbooks.indielite.org">https://nightbirdbooks.indielite.org</a>
+  </div>
+  <div class="city">
+    Fayetteville, 
+  </div>
+  <div class="state">
+    AR  </div>
+</div></fieldset><fieldset><legend>California</legend><div class="site">
+  <div class="storename">
+    Barn Owl Books  </div>
+  <div class="URL">
+    <a href="https://barnowlbookshop.indielite.org">https://barnowlbookshop.indielite.org</a>
+  </div>
+  <div class="city">
+    Quincy, 
+  </div>
+  <div class="state">
+    CA  </div>
+</div><div class="site">
+  <div class="storename">
+    BookSmart  </div>
+  <div class="URL">
+    <a href="https://mybooksmart.indielite.org">https://mybooksmart.indielite.org</a>
+  </div>
+  <div class="city">
+    Morgan Hill, 
+  </div>
+  <div class="state">
+    CA  </div>
+</div><div class="site">
+  <div class="storename">
+    Bookshop Benicia  </div>
+  <div class="URL">
+    <a href="https://bookshopbenicia.indielite.org">https://bookshopbenicia.indielite.org</a>
+  </div>
+  <div class="city">
+    Benicia, 
+  </div>
+  <div class="state">
+    CA  </div>
+</div><div class="site">
+  <div class="storename">
+    Creating Conversations  </div>
+  <div class="URL">
+    <a href="https://creatingconversations.indielite.org">https://creatingconversations.indielite.org</a>
+  </div>
+  <div class="city">
+    Redondo Beach, 
+  </div>
+  <div class="state">
+    CA  </div>
+</div><div class="site">
+  <div class="storename">
+    Eclectuals  </div>
+  <div class="URL">
+    <a href="https://eclectuals.indielite.org">https://eclectuals.indielite.org</a>
+  </div>
+  <div class="city">
+    Lakewood, 
+  </div>
+  <div class="state">
+    CA  </div>
+</div></fieldset><fieldset><legend>Colorado</legend><div class="site">
+  <div class="storename">
+    32nd Avenue Books, Toys and Gifts  </div>
+  <div class="URL">
+    <a href="https://32ndavenuebooks.indielite.org">https://32ndavenuebooks.indielite.org</a>
+  </div>
+  <div class="city">
+    Denver, 
+  </div>
+  <div class="state">
+    CO  </div>
+</div><div class="site">
+  <div class="storename">
+    Next Page Books & Nosh  </div>
+  <div class="URL">
+    <a href="https://nextpagebooks.indielite.org">https://nextpagebooks.indielite.org</a>
+  </div>
+  <div class="city">
+    Frisco, 
+  </div>
+  <div class="state">
+    CO  </div>
+</div></fieldset><fieldset><legend>Connecticut</legend><div class="site">
+  <div class="storename">
+    Byrd's Books  </div>
+  <div class="URL">
+    <a href="https://byrdsbooks.indielite.org">https://byrdsbooks.indielite.org</a>
+  </div>
+  <div class="city">
+    Bethel, 
+  </div>
+  <div class="state">
+    CT  </div>
+</div></fieldset><fieldset><legend>Florida</legend><div class="site">
+  <div class="storename">
+    Family Book Shop  </div>
+  <div class="URL">
+    <a href="https://familybookshopdeland.indielite.org">https://familybookshopdeland.indielite.org</a>
+  </div>
+  <div class="city">
+    DeLand, 
+  </div>
+  <div class="state">
+    FL  </div>
+</div><div class="site">
+  <div class="storename">
+    Pyramid Books  </div>
+  <div class="URL">
+    <a href="https://pyramidbooks.indielite.org">https://pyramidbooks.indielite.org</a>
+  </div>
+  <div class="city">
+    Boynton Beach, 
+  </div>
+  <div class="state">
+    FL  </div>
+</div><div class="site">
+  <div class="storename">
+    Story & Song Bookstore Bistro  </div>
+  <div class="URL">
+    <a href="https://storyandsongbookstore.indielite.org">https://storyandsongbookstore.indielite.org</a>
+  </div>
+  <div class="city">
+    Fernandina Beach, 
+  </div>
+  <div class="state">
+    FL  </div>
+</div><div class="site">
+  <div class="storename">
+    Third House Books & Coffee  </div>
+  <div class="URL">
+    <a href="https://thirdhousebooks.indielite.org">https://thirdhousebooks.indielite.org</a>
+  </div>
+  <div class="city">
+    Gainesville, 
+  </div>
+  <div class="state">
+    FL  </div>
+</div></fieldset><fieldset><legend>Georgia</legend><div class="site">
+  <div class="storename">
+    Horton's Books & Gifts  </div>
+  <div class="URL">
+    <a href="https://hortonsbooks.mybooksandmore.com">https://hortonsbooks.mybooksandmore.com</a>
+  </div>
+  <div class="city">
+    Carrollton, 
+  </div>
+  <div class="state">
+    GA  </div>
+</div><div class="site">
+  <div class="storename">
+    Little Shop of Stories  </div>
+  <div class="URL">
+    <a href="https://littleshopofstories.indielite.org">https://littleshopofstories.indielite.org</a>
+  </div>
+  <div class="city">
+    Decatur, 
+  </div>
+  <div class="state">
+    GA  </div>
+</div></fieldset><fieldset><legend>Illinois</legend><div class="site">
+  <div class="storename">
+    Book Bin  </div>
+  <div class="URL">
+    <a href="https://bookbinnorthbrook.indielite.org">https://bookbinnorthbrook.indielite.org</a>
+  </div>
+  <div class="city">
+    Northbrook, 
+  </div>
+  <div class="state">
+    IL  </div>
+</div><div class="site">
+  <div class="storename">
+    Lit. on Fire Used Books  </div>
+  <div class="URL">
+    <a href="https://litonfire.indielite.org">https://litonfire.indielite.org</a>
+  </div>
+  <div class="city">
+    Peoria, 
+  </div>
+  <div class="state">
+    IL  </div>
+</div><div class="site">
+  <div class="storename">
+    Love's Sweet Arrow  </div>
+  <div class="URL">
+    <a href="https://lovessweetarrow.indielite.org">https://lovessweetarrow.indielite.org</a>
+  </div>
+  <div class="city">
+    Tinley Park, 
+  </div>
+  <div class="state">
+    IL  </div>
+</div><div class="site">
+  <div class="storename">
+    The Bookstore of Glen Ellyn  </div>
+  <div class="URL">
+    <a href="https://bookstoreofge.indielite.org">https://bookstoreofge.indielite.org</a>
+  </div>
+  <div class="city">
+    Glen Ellyn, 
+  </div>
+  <div class="state">
+    IL  </div>
+</div></fieldset><fieldset><legend>Indiana</legend><div class="site">
+  <div class="storename">
+    4 Kids Books & Toys  </div>
+  <div class="URL">
+    <a href="https://4kidsbooks.indielite.org">https://4kidsbooks.indielite.org</a>
+  </div>
+  <div class="city">
+    Zionsville, 
+  </div>
+  <div class="state">
+    IN  </div>
+</div></fieldset><fieldset><legend>Iowa</legend><div class="site">
+  <div class="storename">
+    Book People  </div>
+  <div class="URL">
+    <a href="https://bookpeoplesc.indielite.org">https://bookpeoplesc.indielite.org</a>
+  </div>
+  <div class="city">
+    Sioux City, 
+  </div>
+  <div class="state">
+    IA  </div>
+</div><div class="site">
+  <div class="storename">
+    Book Vault  </div>
+  <div class="URL">
+    <a href="https://bookvault.indielite.org">https://bookvault.indielite.org</a>
+  </div>
+  <div class="city">
+    Oskaloosa, 
+  </div>
+  <div class="state">
+    IA  </div>
+</div><div class="site">
+  <div class="storename">
+    River Lights Bookstore  </div>
+  <div class="URL">
+    <a href="https://riverlights.indielite.org">https://riverlights.indielite.org</a>
+  </div>
+  <div class="city">
+    Dubuque, 
+  </div>
+  <div class="state">
+    IA  </div>
+</div></fieldset><fieldset><legend>Kansas</legend><div class="site">
+  <div class="storename">
+    Bluebird Books  </div>
+  <div class="URL">
+    <a href="https://bluebirdbookstore.indielite.org">https://bluebirdbookstore.indielite.org</a>
+  </div>
+  <div class="city">
+    Hutchinson, 
+  </div>
+  <div class="state">
+    KS  </div>
+</div><div class="site">
+  <div class="storename">
+    Ellen Plumb's City Bookstore  </div>
+  <div class="URL">
+    <a href="https://ellenplumbs.indielite.org">https://ellenplumbs.indielite.org</a>
+  </div>
+  <div class="city">
+    Emporia, 
+  </div>
+  <div class="state">
+    KS  </div>
+</div><div class="site">
+  <div class="storename">
+    Rivendell Bookstore  </div>
+  <div class="URL">
+    <a href="https://rivendellbookstore.indielite.org">https://rivendellbookstore.indielite.org</a>
+  </div>
+  <div class="city">
+    Abilene, 
+  </div>
+  <div class="state">
+    KS  </div>
+</div><div class="site">
+  <div class="storename">
+    Signs of Life  </div>
+  <div class="URL">
+    <a href="https://signsoflifebooks.indielite.org">https://signsoflifebooks.indielite.org</a>
+  </div>
+  <div class="city">
+    Lawrence, 
+  </div>
+  <div class="state">
+    KS  </div>
+</div></fieldset><fieldset><legend>Kentucky</legend><div class="site">
+  <div class="storename">
+    Poor Richard's Bookstore  </div>
+  <div class="URL">
+    <a href="https://poorrichardsbooksky.indielite.org">https://poorrichardsbooksky.indielite.org</a>
+  </div>
+  <div class="city">
+    Frankfort, 
+  </div>
+  <div class="state">
+    KY  </div>
+</div></fieldset><fieldset><legend>Maryland</legend><div class="site">
+  <div class="storename">
+    A Likely Story  </div>
+  <div class="URL">
+    <a href="https://www.sykesvillebooks.com">https://www.sykesvillebooks.com</a>
+  </div>
+  <div class="city">
+    Sykesville, 
+  </div>
+  <div class="state">
+    MD  </div>
+</div></fieldset><fieldset><legend>Massachusetts</legend><div class="site">
+  <div class="storename">
+    BookEnds  </div>
+  <div class="URL">
+    <a href="https://bookendswinchester.indielite.org">https://bookendswinchester.indielite.org</a>
+  </div>
+  <div class="city">
+    Winchester, 
+  </div>
+  <div class="state">
+    MA  </div>
+</div></fieldset><fieldset><legend>Michigan</legend><div class="site">
+  <div class="storename">
+    Crazy Wisdom Bookstore & Tearoom  </div>
+  <div class="URL">
+    <a href="https://shopcrazywisdom.indielite.org">https://shopcrazywisdom.indielite.org</a>
+  </div>
+  <div class="city">
+    Ann Arbor, 
+  </div>
+  <div class="state">
+    MI  </div>
+</div><div class="site">
+  <div class="storename">
+    The Bookman  </div>
+  <div class="URL">
+    <a href="https://bookmanbookstore.indielite.org">https://bookmanbookstore.indielite.org</a>
+  </div>
+  <div class="city">
+    Grand Haven, 
+  </div>
+  <div class="state">
+    MI  </div>
+</div><div class="site">
+  <div class="storename">
+    The Cottage Book Shop  </div>
+  <div class="URL">
+    <a href="https://cottagebooks.indielite.org">https://cottagebooks.indielite.org</a>
+  </div>
+  <div class="city">
+    Glen Arbor, 
+  </div>
+  <div class="state">
+    MI  </div>
+</div></fieldset><fieldset><legend>Minnesota</legend><div class="site">
+  <div class="storename">
+    Babycake's Book Stack  </div>
+  <div class="URL">
+    <a href="https://babycakesbookstack.indielite.org">https://babycakesbookstack.indielite.org</a>
+  </div>
+  <div class="city">
+    St. Paul, 
+  </div>
+  <div class="state">
+    MN  </div>
+</div><div class="site">
+  <div class="storename">
+    Beagle and Wolf Books & Bindery  </div>
+  <div class="URL">
+    <a href="https://beagleandwolf.indielite.org">https://beagleandwolf.indielite.org</a>
+  </div>
+  <div class="city">
+    Park Rapids, 
+  </div>
+  <div class="state">
+    MN  </div>
+</div><div class="site">
+  <div class="storename">
+    Drury Lane Books  </div>
+  <div class="URL">
+    <a href="https://drurylanebooks.indielite.org">https://drurylanebooks.indielite.org</a>
+  </div>
+  <div class="city">
+    Grand Marais, 
+  </div>
+  <div class="state">
+    MN  </div>
+</div><div class="site">
+  <div class="storename">
+    Excelsior Bay Books  </div>
+  <div class="URL">
+    <a href="https://excelsiorbaybooks.indielite.org">https://excelsiorbaybooks.indielite.org</a>
+  </div>
+  <div class="city">
+    Excelsior, 
+  </div>
+  <div class="state">
+    MN  </div>
+</div><div class="site">
+  <div class="storename">
+    Once Upon A Crime  </div>
+  <div class="URL">
+    <a href="https://onceuponacrimebooks.indielite.org">https://onceuponacrimebooks.indielite.org</a>
+  </div>
+  <div class="city">
+    Minneapolis, 
+  </div>
+  <div class="state">
+    MN  </div>
+</div></fieldset><fieldset><legend>Missouri</legend><div class="site">
+  <div class="storename">
+    Main Street Books  </div>
+  <div class="URL">
+    <a href="https://mainstreetbooks.indielite.org">https://mainstreetbooks.indielite.org</a>
+  </div>
+  <div class="city">
+    St. Charles, 
+  </div>
+  <div class="state">
+    MO  </div>
+</div><div class="site">
+  <div class="storename">
+    The Novel Neighbor  </div>
+  <div class="URL">
+    <a href="https://thenovelneighbor.indielite.org">https://thenovelneighbor.indielite.org</a>
+  </div>
+  <div class="city">
+    Webster Groves, 
+  </div>
+  <div class="state">
+    MO  </div>
+</div></fieldset><fieldset><legend>Nebraska</legend><div class="site">
+  <div class="storename">
+    Chapters Books & Gifts  </div>
+  <div class="URL">
+    <a href="https://chaptersbooksandgifts.mybooksandmore.com">https://chaptersbooksandgifts.mybooksandmore.com</a>
+  </div>
+  <div class="city">
+    Seward, 
+  </div>
+  <div class="state">
+    NE  </div>
+</div><div class="site">
+  <div class="storename">
+    Indigo Bridge Books and Cafe  </div>
+  <div class="URL">
+    <a href="https://indigobridgebooks.indielite.org">https://indigobridgebooks.indielite.org</a>
+  </div>
+  <div class="city">
+    Lincoln, 
+  </div>
+  <div class="state">
+    NE  </div>
+</div></fieldset><fieldset><legend>New Hampshire</legend><div class="site">
+  <div class="storename">
+    RiverRun Bookstore  </div>
+  <div class="URL">
+    <a href="https://riverrunbookstore.mybooksandmore.com">https://riverrunbookstore.mybooksandmore.com</a>
+  </div>
+  <div class="city">
+    Portsmouth, 
+  </div>
+  <div class="state">
+    NH  </div>
+</div></fieldset><fieldset><legend>New Jersey</legend><div class="site">
+  <div class="storename">
+    Sparta Books  </div>
+  <div class="URL">
+    <a href="https://spartabooks.indielite.org">https://spartabooks.indielite.org</a>
+  </div>
+  <div class="city">
+    Sparta, 
+  </div>
+  <div class="state">
+    NJ  </div>
+</div></fieldset><fieldset><legend>New York</legend><div class="site">
+  <div class="storename">
+    Boogie Down Books  </div>
+  <div class="URL">
+    <a href="https://boogiedownbooks.indielite.org">https://boogiedownbooks.indielite.org</a>
+  </div>
+  <div class="city">
+    Bronx, 
+  </div>
+  <div class="state">
+    NY  </div>
+</div><div class="site">
+  <div class="storename">
+    Briars & Brambles Books  </div>
+  <div class="URL">
+    <a href="https://briarsandbramblesbooks.indielite.org">https://briarsandbramblesbooks.indielite.org</a>
+  </div>
+  <div class="city">
+    Windham, 
+  </div>
+  <div class="state">
+    NY  </div>
+</div><div class="site">
+  <div class="storename">
+    The Golden Notebook  </div>
+  <div class="URL">
+    <a href="https://goldennotebook.indielite.org">https://goldennotebook.indielite.org</a>
+  </div>
+  <div class="city">
+    Woodstock, 
+  </div>
+  <div class="state">
+    NY  </div>
+</div></fieldset><fieldset><legend>North Carolina</legend><div class="site">
+  <div class="storename">
+    Adventure Bound Books  </div>
+  <div class="URL">
+    <a href="https://adventureboundbooks.mybooksandmore.com">https://adventureboundbooks.mybooksandmore.com</a>
+  </div>
+  <div class="city">
+    Morganton, 
+  </div>
+  <div class="state">
+    NC  </div>
+</div><div class="site">
+  <div class="storename">
+    Foggy Pine Books  </div>
+  <div class="URL">
+    <a href="https://foggypinebooks.mybooksandmore.com">https://foggypinebooks.mybooksandmore.com</a>
+  </div>
+  <div class="city">
+    Boone, 
+  </div>
+  <div class="state">
+    NC  </div>
+</div><div class="site">
+  <div class="storename">
+    Page After Page Bookstore  </div>
+  <div class="URL">
+    <a href="https://pageafterpagebookstore.indielite.org">https://pageafterpagebookstore.indielite.org</a>
+  </div>
+  <div class="city">
+    Elizabeth City, 
+  </div>
+  <div class="state">
+    NC  </div>
+</div><div class="site">
+  <div class="storename">
+    Read With Me, A Children's Book & Art Shop  </div>
+  <div class="URL">
+    <a href="https://readwithme.indielite.org">https://readwithme.indielite.org</a>
+  </div>
+  <div class="city">
+    Raleigh, 
+  </div>
+  <div class="state">
+    NC  </div>
+</div><div class="site">
+  <div class="storename">
+    Sassafras on Sutton  </div>
+  <div class="URL">
+    <a href="https://sassafrasonsutton.indielite.org">https://sassafrasonsutton.indielite.org</a>
+  </div>
+  <div class="city">
+    Black Mountain, 
+  </div>
+  <div class="state">
+    NC  </div>
+</div><div class="site">
+  <div class="storename">
+    Sunrise Books  </div>
+  <div class="URL">
+    <a href="https://www.sunrisebookshp.com">https://www.sunrisebookshp.com</a>
+  </div>
+  <div class="city">
+    High Point, 
+  </div>
+  <div class="state">
+    NC  </div>
+</div></fieldset><fieldset><legend>North Dakota</legend><div class="site">
+  <div class="storename">
+    Ferguson Books & More  </div>
+  <div class="URL">
+    <a href="https://fergusonbooks.mybooksandmore.com">https://fergusonbooks.mybooksandmore.com</a>
+  </div>
+  <div class="city">
+    Grand Forks, 
+  </div>
+  <div class="state">
+    ND  </div>
+</div></fieldset><fieldset><legend>Ohio</legend><div class="site">
+  <div class="storename">
+    Books 'N' More  </div>
+  <div class="URL">
+    <a href="https://booksnmore.indielite.org">https://booksnmore.indielite.org</a>
+  </div>
+  <div class="city">
+    Wilmington, 
+  </div>
+  <div class="state">
+    OH  </div>
+</div><div class="site">
+  <div class="storename">
+    Paragraphs Bookstore  </div>
+  <div class="URL">
+    <a href="https://paragraphsbookstore.indielite.org">https://paragraphsbookstore.indielite.org</a>
+  </div>
+  <div class="city">
+    Mount Vernon, 
+  </div>
+  <div class="state">
+    OH  </div>
+</div><div class="site">
+  <div class="storename">
+    The Bookshelf  </div>
+  <div class="URL">
+    <a href="https://cincybookshelf.indielite.org">https://cincybookshelf.indielite.org</a>
+  </div>
+  <div class="city">
+    Cincinnati, 
+  </div>
+  <div class="state">
+    OH  </div>
+</div></fieldset><fieldset><legend>Oklahoma</legend><div class="site">
+  <div class="storename">
+    Brace Books & More  </div>
+  <div class="URL">
+    <a href="https://bracebooks.indielite.org">https://bracebooks.indielite.org</a>
+  </div>
+  <div class="city">
+    Ponca City, 
+  </div>
+  <div class="state">
+    OK  </div>
+</div></fieldset><fieldset><legend>Oregon</legend><div class="site">
+  <div class="storename">
+    Another Read Through  </div>
+  <div class="URL">
+    <a href="https://anotherreadthrough.indielite.org">https://anotherreadthrough.indielite.org</a>
+  </div>
+  <div class="city">
+    Portland, 
+  </div>
+  <div class="state">
+    OR  </div>
+</div><div class="site">
+  <div class="storename">
+    Beach Books  </div>
+  <div class="URL">
+    <a href="https://beachbooks37.indielite.org">https://beachbooks37.indielite.org</a>
+  </div>
+  <div class="city">
+    Seaside, 
+  </div>
+  <div class="state">
+    OR  </div>
+</div><div class="site">
+  <div class="storename">
+    Herringbone Books  </div>
+  <div class="URL">
+    <a href="https://herringbonebooks.indielite.org">https://herringbonebooks.indielite.org</a>
+  </div>
+  <div class="city">
+    Redmond, 
+  </div>
+  <div class="state">
+    OR  </div>
+</div><div class="site">
+  <div class="storename">
+    Maggie Mae's Kids Bookshop  </div>
+  <div class="URL">
+    <a href="https://maggiemaesbooks.indielite.org">https://maggiemaesbooks.indielite.org</a>
+  </div>
+  <div class="city">
+    Gresham, 
+  </div>
+  <div class="state">
+    OR  </div>
+</div></fieldset><fieldset><legend>Pennsylvania</legend><div class="site">
+  <div class="storename">
+    From My Shelf Books & Gifts  </div>
+  <div class="URL">
+    <a href="https://wellsborobookstore.indielite.org">https://wellsborobookstore.indielite.org</a>
+  </div>
+  <div class="city">
+    Wellsboro, 
+  </div>
+  <div class="state">
+    PA  </div>
+</div><div class="site">
+  <div class="storename">
+    Riverstone Books  </div>
+  <div class="URL">
+    <a href="https://riverstonebookstore.indielite.org">https://riverstonebookstore.indielite.org</a>
+  </div>
+  <div class="city">
+    Pittsburgh, 
+  </div>
+  <div class="state">
+    PA  </div>
+</div><div class="site">
+  <div class="storename">
+    The Tiny Bookstore  </div>
+  <div class="URL">
+    <a href="https://tinybookspgh.indielite.org">https://tinybookspgh.indielite.org</a>
+  </div>
+  <div class="city">
+    Pittsburgh, 
+  </div>
+  <div class="state">
+    PA  </div>
+</div><div class="site">
+  <div class="storename">
+    Wellington Square Bookshop  </div>
+  <div class="URL">
+    <a href="https://wellingtonsquarebooks.indielite.org">https://wellingtonsquarebooks.indielite.org</a>
+  </div>
+  <div class="city">
+    Exton, 
+  </div>
+  <div class="state">
+    PA  </div>
+</div></fieldset><fieldset><legend>Rhode Island</legend><div class="site">
+  <div class="storename">
+    Island Books  </div>
+  <div class="URL">
+    <a href="https://islandbooksri.indielite.org">https://islandbooksri.indielite.org</a>
+  </div>
+  <div class="city">
+    Middletown, 
+  </div>
+  <div class="state">
+    RI  </div>
+</div></fieldset><fieldset><legend>South Dakota</legend><div class="site">
+  <div class="storename">
+    Mitzi's Books  </div>
+  <div class="URL">
+    <a href="https://mitzisbooks.indielite.org">https://mitzisbooks.indielite.org</a>
+  </div>
+  <div class="city">
+    Rapid City, 
+  </div>
+  <div class="state">
+    SD  </div>
+</div></fieldset><fieldset><legend>Tennessee</legend><div class="site">
+  <div class="storename">
+    Star Line Books  </div>
+  <div class="URL">
+    <a href="https://starlinebooks.indielite.org">https://starlinebooks.indielite.org</a>
+  </div>
+  <div class="city">
+    Chattanooga, 
+  </div>
+  <div class="state">
+    TN  </div>
+</div><div class="site">
+  <div class="storename">
+    Union Avenue Books  </div>
+  <div class="URL">
+    <a href="https://unionavebooks.indielite.org">https://unionavebooks.indielite.org</a>
+  </div>
+  <div class="city">
+    Knoxville, 
+  </div>
+  <div class="state">
+    TN  </div>
+</div></fieldset><fieldset><legend>Texas</legend><div class="site">
+  <div class="storename">
+    Bibliobar  </div>
+  <div class="URL">
+    <a href="https://bibliobar.indielite.org">https://bibliobar.indielite.org</a>
+  </div>
+  <div class="city">
+    Garland, 
+  </div>
+  <div class="state">
+    TX  </div>
+</div><div class="site">
+  <div class="storename">
+    Sententia Vera Bookshop  </div>
+  <div class="URL">
+    <a href="https://sententiavera.indielite.org">https://sententiavera.indielite.org</a>
+  </div>
+  <div class="city">
+    Dripping Springs, 
+  </div>
+  <div class="state">
+    TX  </div>
+</div><div class="site">
+  <div class="storename">
+    Texian Books  </div>
+  <div class="URL">
+    <a href="https://texianbooks.indielite.org">https://texianbooks.indielite.org</a>
+  </div>
+  <div class="city">
+    Victoria, 
+  </div>
+  <div class="state">
+    TX  </div>
+</div></fieldset><fieldset><legend>Vermont</legend><div class="site">
+  <div class="storename">
+    Next Chapter Bookstore  </div>
+  <div class="URL">
+    <a href="https://nextchapterbooksvt.indielite.org">https://nextchapterbooksvt.indielite.org</a>
+  </div>
+  <div class="city">
+    Barre, 
+  </div>
+  <div class="state">
+    VT  </div>
+</div></fieldset><fieldset><legend>Virginia</legend><div class="site">
+  <div class="storename">
+    Givens Books  </div>
+  <div class="URL">
+    <a href="https://givensbooks.mybooksandmore.com">https://givensbooks.mybooksandmore.com</a>
+  </div>
+  <div class="city">
+    Lynchburg, 
+  </div>
+  <div class="state">
+    VA  </div>
+</div></fieldset><fieldset><legend>Washington</legend><div class="site">
+  <div class="storename">
+    Bookworm Tri-Cities  </div>
+  <div class="URL">
+    <a href="https://bookwormtricities.indielite.org">https://bookwormtricities.indielite.org</a>
+  </div>
+  <div class="city">
+    Kennewick, 
+  </div>
+  <div class="state">
+    WA  </div>
+</div><div class="site">
+  <div class="storename">
+    Edmonds Bookshop  </div>
+  <div class="URL">
+    <a href="https://edmondsbookshop.indielite.org">https://edmondsbookshop.indielite.org</a>
+  </div>
+  <div class="city">
+    Edmonds, 
+  </div>
+  <div class="state">
+    WA  </div>
+</div><div class="site">
+  <div class="storename">
+    Page 2 Books  </div>
+  <div class="URL">
+    <a href="https://page2books.indielite.org">https://page2books.indielite.org</a>
+  </div>
+  <div class="city">
+    Burien, 
+  </div>
+  <div class="state">
+    WA  </div>
+</div></fieldset><fieldset><legend>Wisconsin</legend><div class="site">
+  <div class="storename">
+    Apostle Islands Booksellers  </div>
+  <div class="URL">
+    <a href="https://apostleislandsbooksellers.mybooksandmore.com">https://apostleislandsbooksellers.mybooksandmore.com</a>
+  </div>
+  <div class="city">
+    Bayfield, 
+  </div>
+  <div class="state">
+    WI  </div>
+</div><div class="site">
+  <div class="storename">
+    BayShore Books  </div>
+  <div class="URL">
+    <a href="https://bayshorebooksllc.indielite.org">https://bayshorebooksllc.indielite.org</a>
+  </div>
+  <div class="city">
+    Oconto, 
+  </div>
+  <div class="state">
+    WI  </div>
+</div><div class="site">
+  <div class="storename">
+    Chapter2Books  </div>
+  <div class="URL">
+    <a href="https://chapter2books.indielite.org">https://chapter2books.indielite.org</a>
+  </div>
+  <div class="city">
+    Hudson, 
+  </div>
+  <div class="state">
+    WI  </div>
+</div><div class="site">
+  <div class="storename">
+    Fair Isle Books  </div>
+  <div class="URL">
+    <a href="https://fairisle.mybooksandmore.com">https://fairisle.mybooksandmore.com</a>
+  </div>
+  <div class="city">
+    Washington Island, 
+  </div>
+  <div class="state">
+    WI  </div>
+</div><div class="site">
+  <div class="storename">
+    Travelin' Storyseller  </div>
+  <div class="URL">
+    <a href="https://travelinstoryseller.indielite.org">https://travelinstoryseller.indielite.org</a>
+  </div>
+  <div class="city">
+    River Falls, 
+  </div>
+  <div class="state">
+    WI  </div>
+</div></fieldset>
