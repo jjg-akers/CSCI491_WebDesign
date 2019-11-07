@@ -36,6 +36,11 @@ createTable('friends',
 createTable('profiles',
             'user VARCHAR(16),
             text VARCHAR(4096),
+            favBook VARCHAR(80),
+            favGenre VARCHAR(80),
+            city VARCHAR(80),
+            state CHAR(2),
+            zipCode CHAR(5),
             INDEX(user(6))');
 ?>
 
