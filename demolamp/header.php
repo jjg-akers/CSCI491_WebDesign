@@ -10,9 +10,10 @@ echo <<<_INIT
     <head>
         <meta charset='utf-8'>
         <meta name='viewport' content='width=device-width, initial-scale=1'> 
-        <script src='javascript.js'></script>
+        <script src='javascript.js?v1'></script>
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
         <link href="https://fonts.googleapis.com/css?family=Arsenal|Lora|Muli|Source+Sans+Pro|Playfair+Display&display=swap" rel="stylesheet">
-        <link rel='stylesheet' href='css/styles.css'>
+        <link rel='stylesheet' href='css/styles.css?v17'>
         <title>$clubstr: $userstr</title>
         </head>
 _INIT;
