@@ -1,5 +1,8 @@
 <?php
 session_start();
+    
+// initialize a SESSION varaible to track the date/time of messages
+$_SESSION["messageDate"] = NULL;
 
 $clubstr = 'Csci-491 Demo Lamp Stack Site';
 $userstr = 'Welcome Guest';

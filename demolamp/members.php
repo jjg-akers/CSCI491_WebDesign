@@ -29,16 +29,13 @@ if (isset($_GET['view'])) {
         $result = queryMysql($query);
         $num    = $result->num_rows;
     
-        // define variable to store date of last message
-    $messageDate = NULL;
-
         for ($j = 0 ; $j < $num ; ++$j)
         {
           $row = $result->fetch_array(MYSQLI_ASSOC);
             
             // save the time
             //if ($messageDate != NULL){
-            $messageDate = $row['time'];
+            $_SESSION["messageDate"] = $row['time'];
             
 
           if ($row['pm'] == 0 || $row['auth'] == $user || $row['recip'] == $user) {
