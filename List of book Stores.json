@@ -1,0 +1,1661 @@
+{
+	"Book-Stores" : [{
+		"Name": "The Snail on the Wall",
+		"Link": "https://www.snailonthewall.com",
+		"City":"Huntsville",
+		"State":"AL"
+		},{
+		"Name":"Fireside Books",
+		"Link":"https://www.goodbooksbadcoffee.com ",
+		"City":"Palmer",
+		"State":"AK" 
+		},{  
+		"Name":"Hearthside Books & Toys",    
+		"Link":"https://www.hearthsidebooks.com",
+		"City":"Juneau",
+		"State":"AK"
+		},{  
+		"Name":"Antigone Books",
+		"Link":"https://www.antigonebooks.com",
+		"City":"Tucson",
+		"State":"AZ" 
+		},{  
+		"Name":"Changing Hands Bookstore",
+		"Link":"https://www.changinghands.com",
+		"City":"Tempe",
+		"State":"AZ" 
+		},{  
+		"Name":"Mostly Books",
+		"Link":"https://www.mostlybooksaz.com",
+		"City":"Tucson",
+		"State":"AZ"   
+		},{  
+		"Name":"Peregrine Book Company",
+		"Link":"https://www.peregrinebookcompany.com",
+		"City":"Prescott",
+		"State":"AZ"
+		},{  
+		"Name":"WordsWorth Bookstore",
+		"Link":"https://www.wordsworthbookstore.com",
+		"City":"Little Rock",
+		"State":"AR"
+		},{  
+		"Name":"A Great Good Place for Books",
+		"Link":"https://www.ggpbooks.com",
+		"City":"Oakland",
+		"State":"CA" 
+		},{  
+		"Name":"Alexander Book Co.",
+		"Link":"https://www.alexanderbook.com",
+		"City":"San Francisco",
+		"State":"CA"   
+		},{  
+		"Name":"Book Passage",
+		"Link":"https://www.bookpassage.com",
+		"City":"Corte Madera",
+		"State":"CA"
+		},{  
+		"Name":"Book Soup",
+		"Link":"https://www.booksoup.com",
+		"City":"West Hollywood",
+		"State":"CA"   
+		},{  "Name":"Books Inc.",
+		"Link":"https://www.booksinc.net",
+		"City":"San Francisco",
+		"State":"CA"
+		},{  
+		"Name":"Bookshop Santa Cruz "Link":"https://www.bookshopsantacruz.com 
+		"City":"Santa Cruz", 
+		"State":"CA"
+		},{  
+		"Name":"Bookshop West Portal", "Link":"https://bookshopwestportal.com",
+		"City":"San Francisco", 
+		"State":"CA"   
+		},{  "Name":"Cellar Door Books", "Link":"https://www.cellardoorbookstore.com", "City":"Riverside", "State":"CA" 
+		},{  "Name":"Chaucer's Books", "Link":"https://site.booksite.com", "City":"Santa Barbara", "State":"CA"   
+		},{  "Name":"Copperfield's Books", "Link":"https://www.copperfieldsbooks.com", "City":"Sebastopol", "State":"CA"   
+		},{  "Name":"DIESEL, A Bookstore", "Link":"https://www.dieselbookstore.com", "City":"Santa Monica", "State":"CA" 
+		},{  "Name":"East Bay Booksellers", "Link":"https://www.ebbooksellers.com", "City":"Oakland", "State":"CA"   
+		},{  "Name":"Eso Won Books", "Link":"https://www.esowonbookstore.com", "City":"Los Angeles", "State":"CA"
+		},{  "Name":"Face in a Book",  "Link":"https://www.getyourfaceinabook.com", "City":"El Dorado Hills", "State":"CA"
+		},{  "Name":"Four-Eyed Frog Books", "Link":"https://www.foureyedfrog.com", "City":"Gualala", "State":"CA"   
+		},{  "Name":"Gallery Bookshop & Bookwinkle's Children's Books", "Link":"https://www.gallerybookshop.com", "City":"Mendocino", "State":"CA"   
+		},{  "Name":"Green Apple Books", "Link":"https://www.greenapplebooks.com", "City":"San Francisco", "State":"CA"   
+		},{  "Name":"Hennessey & Ingalls", "Link":"https://www.hennesseyingalls.com", "City":"Los Angeles", "State":"CA"   
+		},{  "Name":"Hicklebee's", "Link":"https://www.hicklebees.com", "City":"San Jose", "State":"CA"   
+		},{  "Name":"Ink Spell Books" "Link":"https://www.inkspellbooks.com" , "City":"Half Moon Bay", "State":"CA"   
+		},{  "Name":"Kepler's Books", "Link":"https://www.keplers.com", "City":"Menlo Park", "State":"CA"  
+		},{  "Name":"Laguna Beach Books", "Link":"https://www.lagunabeachbooks.com", "City":"Laguna Beach", "State":"CA"  
+		},{  "Name":"Mendocino Book Company", "Link":"https://www.mendocinobookcompany.com", "City":"Ukiah", "State":"CA"
+		},{  "Name":"Mrs. Dalloway's Literary & Garden Arts", "Link":"https://www.mrsdalloways.com", "City":"Berkeley", "State":"CA"  
+		},{  "Name":"Mysterious Galaxy Books", "Link":"https://www.mystgalaxy.com", "City":"San Diego", "State":"CA"   
+		},{  "Name":"Napa Bookmine", "Link":"https://www.napabookmine.com", "City":"Napa", "State":"CA"   
+		},{  "Name":"Northtown Books", "Link":"https://www.northtownbooks.com", "City":"Arcata", "State":"CA"   
+		},{  "Name":"Once Upon a Time",  "Link":"https://www.shoponceuponatime.com", "City":"Montrose", "State":"CA"   
+		},{  "Name":"Orinda Books", "Link":"https://www.orindabooks.com", "City":"Orinda", "State":"CA"   
+		},{  "Name":"Pegasus Books",  "Link":"https://www.pegasusbookstore.com", "City":"Berkeley", "State":"CA"   
+		},{  "Name":"Point Reyes Books", "Link":"https://www.ptreyesbooks.com", "City":"Point Reyes Station", "State":"CA"   
+		},{  "Name":"Rakestraw Books", "Link":"https://www.rakestrawbooks.com", "City":"Danville", "State":"CA"   
+		},{  "Name":"Readers' Books", "Link":"https://www.readersbooks.com", "City":"Sonoma", "State":"CA"   
+		},{  "Name":"Russo's Books", "Link":"https://www.russosbooks.com", "City":"Bakersfield", "State":"CA"
+		},{  "Name":"Skylight Books", "Link":"https://www.skylightbooks.com", "City":"Los Angeles", "State":"CA"   
+		},{  "Name":"Tecolote Book Shop", "Link":"https://www.tecolotebookshop.com", "City":"Santa Barbara", "State":"CA"   
+		},{  "Name":"The Avid Reader", "Link":"https://www.avidreaderbooks.com", "City":"Davis", "State":"CA"   
+		},{  "Name":"The Book Catapult", "Link":"https://www.thebookcatapult.com", "City":"San Diego", "State":"CA"   
+		},{  "Name":"The Book Seller", "Link":"https://www.thebookseller.biz", "City":"Grass Valley", "State":"CA"   
+		},{  "Name":"The Booksmith", "Link":"https://www.booksmith.com", "City":"San Francisco", "State":"CA"   
+		},{  "Name":"The Last Bookstore", "Link":"https://www.shopthelastbookstore.com", "City":"Los Angeles", "State":"CA"   
+		},{  "Name":"The Reading Bug", "Link":"https://www.thereadingbug.com", "City":"San Carlos", "State":"CA"  
+		},{  "Name":"The Ripped Bodice", "Link":"https://www.therippedbodicela.com", "City":"Culver City", "State":"CA"
+		},{  "Name":"Towne Center Books", "Link":"https://www.townecenterbooks.com", "City":"Pleasanton", "State":"CA"   
+		},{  "Name":"University Press Books", "Link":"https://www.universitypressbooks.com ",
+"City":"Berkeley", 
+"State":"CA"   
+ 
+  },{  "Name":"Vroman's Bookstore", "Link":"https://www.vromansbookstore.com", 
+"City":"Pasadena", 
+"State":"CA"   
+ 
+  },{  "Name":"Warwick's", "Link":"https://www.warwicks.com", 
+"City":"La Jolla", 
+"State":"CA"   
+ 
+  },{  "Name":"Word After Word Books", "Link":"https://www.wordafterwordbooks.com", 
+"City":"Truckee", 
+"State":"CA"   
+ 
+  },{  "Name":"pages: a bookstore", "Link":"https://www.pagesabookstore.com",
+"City":"Manhattan Beach", 
+"State":"CA"   
+  },{  "Name":"Between the Covers Bookstore", "Link":"https://www.between-the-covers.com", 
+"City":"Telluride", 
+"State":"CO"   
+ 
+  },{  "Name":"BookBar", "Link":"https://www.bookbardenver.com",
+"City":"Denver", 
+"State":"CO"   
+ 
+  },{  "Name":"Bookworm of Edwards", "Link":"https://www.bookwormofedwards.com", 
+"City":"Edwards", 
+"State":"CO"   
+ 
+  },{  "Name":"Boulder Book Store", "Link":"https://www.boulderbookstore.net" 
+"City":"Boulder", 
+"State":"CO"   
+ 
+  },{  "Name":"Explore Booksellers & Bistro", "Link":"https://www.explorebooksellers.com" 
+"City":"Aspen", 
+"State":"CO"   
+ 
+  },{  "Name":"Maria's Bookshop", "Link":"https://www.mariasbookshop.com", 
+"City":"Durango", 
+"State":"CO"   
+ 
+  },{  "Name":"Off the Beaten Path Bookstore", "Link":"https://www.steamboatbooks.com",
+"City":"Steamboat Springs", 
+"State":"CO"   
+ 
+  },{  "Name":"Old Firehouse Books", "Link":"https://www.oldfirehousebooks.com", 
+"City":"Fort Collins", 
+"State":"CO"   
+ 
+  },{  "Name":"Ouray Bookshop", "Link":"https://www.ouraybookshop.com", 
+"City":"Ouray", 
+"State":"CO"   
+ 
+  },{  "Name":"Tattered Cover Book Store", "Link":"https://www.tatteredcover.com", 
+"City":"Denver", 
+"State":"CO"  
+ 
+  },{  "Name":"Bank Square Books", "Link":"https://www.banksquarebooks.com", 
+"City":"Mystic", 
+"State":"CT"   
+ 
+  },{  "Name":"Barrett Bookstore", "Link":"https://www.barrettbookstore.com", 
+"City":"Darien", 
+"State":"CT"   
+ 
+  },{  "Name":"Elm Street Books", "Link":"https://www.elmstreetbooks.com", 
+"City":"New Canaan", 
+"State":"CT"   
+ 
+  },{  "Name":"Hickory Stick Bookshop", "Link":"https://www.hickorystickbookshop.com", 
+"City":"Washington Depot", 
+"State":"CT"   
+ 
+  },{  "Name":"R.J. Julia Booksellers", "Link":"https://www.rjjulia.com", 
+"City":"Madison", 
+"State":"CT"   
+ 
+  },{  "Name":"River Bend Bookshop", "Link":"https://www.riverbendbookshop.com",
+"City":"Glastonbury", 
+"State":"CT"   
+ 
+  },{  "Name":"That Book Store", "Link":"https://www.thatbookstore.com", 
+"City":"Wethersfield", 
+"State":"CT"   
+
+  },{  "Name":"Browseabout Books", "Link":"https://www.browseaboutbooks.com", 
+"City":"Rehoboth Beach", 
+"State":"DE"   
+
+  },{  "Name":"East City Bookshop",  "Link":"https://www.eastcitybookshop.com",
+"City":"Washington", 
+"State":"DC"  
+ 
+  },{  "Name":"Politics and Prose Bookstore", "Link":"https://www.politics-prose.com", 
+"City":"Washington", 
+"State":"DC"   
+ 
+  },{  "Name":"Reiter's Books / Students Book Company", "Link":"https://www.reiters.com", 
+"City":"Washington", 
+"State":"DC"   
+
+  },{  "Name":"Books & Books", "Link":"https://shop.booksandbooks.com", 
+"City":"Coral Gables", 
+"State":"FL"   
+ 
+  },{  "Name":"Books & Books at the Studios", "Link":"https://shop.booksandbookskw.com",
+"City":"Key West", 
+"State":"FL"  
+ 
+  },{  "Name":"Bookstore 1 Sarasota", "Link":"https://bookstore1sarasota.mybooksandmore.com", 
+"City":"Sarasota", 
+"State":"FL"   
+ 
+  },{  "Name":"Copperfish Books", "Link":"https://www.copperfishbooks.com", 
+"City":"Punta Gorda", 
+"State":"FL"   
+ 
+  },{  "Name":"Kizzy's Books & More", "Link":"https://www.kizzysbooksandmore.com",
+"City":"Winter Garden", 
+"State":"FL"   
+ 
+  },{  "Name":"Marilyn Martyouze Bookstore", "Link":"https://bookstore.marilynmartyouze.com", 
+"City":"Tampa", 
+"State":"FL"   
+ 
+  },{  "Name":"Midtown Reader", "Link":"https://www.midtownreader-shop.com", 
+"City":"Tallahassee", 
+"State":"FL"   
+ 
+  },{  "Name":"San Marco Books and More", "Link":"https://www.sanmarcobooksandmore.com", 
+"City":"Jacksonville", 
+"State":"FL"   
+ 
+  },{  "Name":"Sundog Books", "Link":"https://www.sundogbooks.com", 
+"City":"Santa Rosa Beach", 
+"State":"FL"   
+ 
+  },{  "Name":"The Writer's Block Bookstore", "Link":"https://www.writersblockbookstore.com", 
+"City":"Winter Park", 
+"State":"FL"   
+
+  },{  "Name":"Avid Bookshop", "Link":"https://www.avidbookshop.com", 
+"City":"Athens", 
+"State":"GA"   
+ 
+  },{  "Name":"Charis Books & More", "Link":"https://www.charisbooksandmore.com",
+"City":"Decatur", 
+"State":"GA"   
+ 
+  },{  "Name":"E. Shaver, Bookseller", "Link":"https://www.eshaverbooks.com", 
+"City":"Savannah", 
+"State":"GA"   
+ 
+  },{  "Name":"Flipping Books and Stuff", "Link":"https://www.flippingbooksandstuff.com", 
+"City":"Moreland", 
+"State":"GA"   
+ 
+  },{  "Name":"Hudson Booksellers", "Link":"https://www.hudsonbooksellers.com", 
+"City":"Marietta", 
+"State":"GA"   
+ 
+  },{  "Name":"Read It Again Books", "Link":"https://www.read-it-again.com", 
+"City":"Suwanee", 
+"State":"GA"   
+ 
+  },{  "Name":"Story on the Square". "Link":"https://www.storyonthesquare.com",
+"City":"McDonough", 
+"State":"GA"   
+ 
+  },{  "Name":"[ash-ling] Booksellers", "Link":"https://www.ashlingbooksellers.com",
+"City":"Toccoa", 
+"State":"GA"   
+
+  },{  "Name":"Kona Stories", "Link":"https://www.konastories.com",
+"City":"Kailua Kona", 
+"State":"HI"   
+ 
+  },{  "Name":"BookPeople of Moscow", "Link":"https://www.bookpeopleofmoscow.com", 
+"City":"Moscow", 
+"State":"ID"   
+ 
+  },{  "Name":"Iconoclast Books & Gifts", "Link":"https://www.iconoclastbooks.com", 
+"City":"Hailey", 
+"State":"ID"   
+ 
+  },{  "Name":"Rediscovered Books" "Link":"https://www.rdbooks.org"
+"City":"Boise", 
+"State":"ID"   
+ 
+  },{  "Name":"The Well-Read Moose", "Link":"https://www.wellreadmoose-shop.com",
+"City":"Coeur d'Alene", 
+"State":"ID"   
+
+  },{  "Name":"Anderson's Bookshops", "Link":"https://www.andersonsbookshop.com",
+"City":"Naperville", 
+"State":"IL"   
+ 
+  },{  "Name":"Barbara's Bookstore @ Macy's", "Link":"https://www.barbarasbookstore.com", 
+"City":"Chicago", 
+"State":"IL"   
+ 
+  },{  "Name":"Bookends & Beginnings", "Link":"https://www.bookendsandbeginnings.com",
+"City":"Evanston", 
+"State":"IL"   
+ 
+  },{  "Name":"Bookie's", "Link":"https://www.bookiesbookstores.com", 
+"City":"Chicago", 
+"State":"IL"   
+ 
+  },{  "Name":"Books On First", "Link":"https://www.booksonfirst.com", 
+"City":"Dixon", 
+"State":"IL"   
+ 
+  },{  "Name":"Centuries & Sleuths Bookstore", "Link":"https://www.centuriesandsleuths.com",
+"City":"Forest Park", 
+"State":"IL"   
+ 
+  },{  "Name":"City Lit Books", "Link":"https://www.citylitbooks.com", 
+"City":"Chicago", 
+"State":"IL"   
+ 
+  },{  "Name":"Hartfield Book Company", "Link":"https://shop.hartfieldbookco.com",
+"City":"Monticello", 
+"State":"IL"   
+ 
+  },{  "Name":"Lake Forest Book Store", "Link":"https://www.lakeforestbookstore.com", 
+"City":"Lake Forest", 
+"State":"IL"   
+ 
+  },{  "Name":"Read Between the Lynes", "Link":"https://www.readbetweenthelynes.com", 
+"City":"Woodstock", 
+"State":"IL"   
+ 
+  },{  "Name":"RoscoeBooks", "Link":"https://www.roscoebooks.com", 
+"City":"Chicago", 
+"State":"IL"   
+ 
+  },{  "Name":"The Book Cellar", "Link":"https://www.bookcellarinc.com", 
+"City":",Chicago", 
+"State":"IL"   
+ 
+  },{  "Name":"The Book Stall", "Link":"https://shop.thebookstall.com", 
+"City":"Winnetka", 
+"State":"IL"  
+ 
+  },{  "Name":"The Book Table", "Link":"https://www.booktable.net" 
+"City":"Oak Park", 
+"State":"IL"   
+ 
+  },{  "Name":"Unabridged Books", "Link":"https://unabridgedbookstore.com", 
+"City":"Chicago", 
+"State":"IL"   
+ 
+  },{  "Name":"Volumes Bookcafe", "Link":"https://www.volumesbooks.com", 
+"City":"Chicago", 
+"State":"IL"   
+ 
+  },{  "Name":"Women & Children First", "Link":"https://www.womenandchildrenfirst.com", 
+"City":"Chicago", 
+"State":"IL"   
+
+  },{  "Name":"Kids Ink Children's Bookstore", "Link":"https://kidsinkbooks.com", 
+"City":"Indianapolis", 
+"State":"IN"   
+ 
+  },{  "Name":"The Brain Lair", "Link":"https://www.shop.brainlairbooks.com", 
+"City":"South Bend", 
+"State":"IN"   
+ 
+  },{  "Name":"Viewpoint Books", "Link":"https://www.viewpointbooks.com", 
+"City":"Columbus", 
+"State":"IN"   
+ 
+  },{  "Name":"Village Lights Bookstore", "Link":"https://www.villagelightsbooks.com", 
+"City":"Madison", 
+"State":"IN"   
+ Iowa
+  },{  "Name":"Dragonfly Books "Link":"https://www.dragonflybooks.com 
+"City":Decorah, 
+"State":"IA   
+ 
+  },{  "Name":"Prairie Lights Books "Link":"https://www.prairielightsbooks.com 
+"City":Iowa City, 
+"State":"IA   
+ Kansas
+  },{  "Name":"Rainy Day Books "Link":"https://www.RainyDayBooks.com 
+"City":Fairway, 
+"State":"KS   
+ 
+  },{  "Name":"Raven Book Store "Link":"https://www.ravenbookstore.com 
+"City":Lawrence, 
+"State":"KS   
+ 
+  },{  "Name":"Watermark Books & Cafe "Link":"https://www.watermarkbooks.com 
+"City":Wichita, 
+"State":"KS   
+ Kentucky
+  },{  "Name":"Carmichael's Bookstore "Link":"https://www.carmichaelsbookstore.com 
+"City":Louisville, 
+"State":"KY   
+ Louisiana
+  },{  "Name":"Cavalier House Books "Link":"https://www.cavalierhousebooks.com 
+"City":Denham Springs, 
+"State":"LA   
+ 
+  },{  "Name":"Garden District Book Shop "Link":"https://www.gardendistrictbookshop.com 
+"City":New Orleans, 
+"State":"LA   
+ 
+  },{  "Name":"Looziana Book Company "Link":"https://www.looziana.com 
+"City":Denham Springs, 
+"State":"LA   
+ 
+  },{  "Name":"Octavia Books "Link":"https://www.octaviabooks.com 
+"City":New Orleans, 
+"State":"LA   
+ Maine
+  },{  "Name":"Devaney, Doak & Garrett Booksellers "Link":"https://www.ddgbooks.com 
+"City":Farmington, 
+"State":"ME   
+ 
+  },{  "Name":"Longfellow Books "Link":"https://www.longfellowbooks.com 
+"City":Portland, 
+"State":"ME   
+ 
+  },{  "Name":"PRINT: A Bookstore "Link":"https://www.printbookstore.com 
+"City":Portland, 
+"State":"ME   
+ 
+  },{  "Name":"Sherman's Books & Stationery "Link":"https://www.shermans.com 
+"City":Damariscotta, 
+"State":"ME   
+ Maryland
+  },{  "Name":"Mystery Loves Company "Link":"https://www.mysterylovescompany.com 
+"City":Oxford, 
+"State":"MD   
+ 
+  },{  "Name":"Novel Books "Link":"https://www.anovelbookshop.com 
+"City":Clarksburg, 
+"State":"MD   
+ 
+  },{  "Name":"The Ivy Bookshop "Link":"https://www.theivybookshop.com 
+"City":Baltimore, 
+"State":"MD   
+ Massachusetts
+  },{  "Name":"An Unlikely Story "Link":"https://www.anunlikelystory.com 
+"City":Plainville, 
+"State":"MA   
+ 
+  },{  "Name":"Belmont Books "Link":"https://www.belmontbooks.com 
+"City":Belmont, 
+"State":"MA   
+ 
+  },{  "Name":"Broadside Bookshop "Link":"https://www.broadsidebooks.com 
+"City":Northampton, 
+"State":"MA   
+ 
+  },{  "Name":"Brookline Booksmith "Link":"https://www.brooklinebooksmith-shop.com 
+"City":Brookline, 
+"State":"MA   
+ 
+  },{  "Name":"Buttonwood Books and Toys "Link":"https://www.buttonwoodbooksandtoys.com 
+"City":Cohasset, 
+"State":"MA   
+ 
+  },{  "Name":"Copper Dog Books "Link":"https://www.copperdogbooks.com 
+"City":Beverly, 
+"State":"MA   
+ 
+  },{  "Name":"East End Books Ptown "Link":"https://www.eastendbooksptown.com 
+"City":Provincetown, 
+"State":"MA   
+ 
+  },{  "Name":"Eight Cousins "Link":"https://www.eightcousins.com 
+"City":Falmouth, 
+"State":"MA   
+ 
+  },{  "Name":"Harvard Book Store "Link":"https://shop.harvard.com 
+"City":Cambridge, 
+"State":"MA   
+ 
+  },{  "Name":"HugoBookstores "Link":"https://hugobookstores.com 
+"City":Marblehead, 
+"State":"MA   
+ 
+  },{  "Name":"Jabberwocky Bookshop & Cafe "Link":"https://www.jabberwockybookshop.com 
+"City":Newburyport, 
+"State":"MA   
+ 
+  },{  "Name":"Nantucket Bookworks "Link":"https://www.nantucketbookpartners.com 
+"City":Nantucket, 
+"State":"MA   
+ 
+  },{  "Name":"New England Mobile Book Fair "Link":"https://www.nebookfair.com 
+"City":Newton Highlands, 
+"State":"MA   
+ 
+  },{  "Name":"Odyssey Bookshop "Link":"https://www.odysseybks.com 
+"City":South Hadley, 
+"State":"MA   
+ 
+  },{  "Name":"Porter Square Books "Link":"https://www.portersquarebooks.com 
+"City":Cambridge, 
+"State":"MA   
+ 
+  },{  "Name":"Readmore Books "Link":"https://www.readmorebooks.com 
+"City":Taunton, 
+"State":"MA   
+ 
+  },{  "Name":"Storybook Cove "Link":"https://www.storybookcove.com 
+"City":Hanover, 
+"State":"MA   
+ 
+  },{  "Name":"The Bookloft "Link":"https://www.thebookloft.com 
+"City":Great Barrington, 
+"State":"MA   
+ 
+  },{  "Name":"The Concord Bookshop "Link":"https://www.concordbookshop.com 
+"City":Concord, 
+"State":"MA   
+ 
+  },{  "Name":"Titcomb's Bookshop "Link":"https://www.titcombsbookshop.com 
+"City":East Sandwich, 
+"State":"MA   
+ 
+  },{  "Name":"Trident Booksellers & Cafe "Link":"https://www.tridentbookscafe.com 
+"City":Boston, 
+"State":"MA   
+ 
+  },{  "Name":"Wellesley Books "Link":"https://store.wellesleybooks.com 
+"City":Wellesley, 
+"State":"MA   
+ Michigan
+  },{  "Name":"2 Dandelions Bookshop "Link":"https://www.2dandelionsbookshop.com 
+"City":Brighton, 
+"State":"MI   
+ 
+  },{  "Name":"Bestsellers Books & Coffee Co. "Link":"https://www.bestsellersbookstore.com 
+"City":Mason, 
+"State":"MI   
+ 
+  },{  "Name":"Bookbug "Link":"https://www.bookbugkalamazoo.com 
+"City":Kalamazoo, 
+"State":"MI   
+ 
+  },{  "Name":"Brilliant Books "Link":"https://www.brilliant-books.net 
+"City":Traverse City, 
+"State":"MI   
+ 
+  },{  "Name":"Common Language Bookstore "Link":"https://www.glbtbooks.com 
+"City":Ann Arbor, 
+"State":"MI   
+ 
+  },{  "Name":"Forever Books "Link":"https://www.foreverbooks.net 
+"City":St. Joseph, 
+"State":"MI   
+ 
+  },{  "Name":"Horizon Books "Link":"https://www.horizonbooks.com 
+"City":Traverse City, 
+"State":"MI   
+ 
+  },{  "Name":"Literati Bookstore "Link":"https://www.literatibookstore.com 
+"City":Ann Arbor, 
+"State":"MI   
+ 
+  },{  "Name":"Lowry's Books "Link":"https://www.lowrysbooks.com 
+"City":Three Rivers, 
+"State":"MI   
+ 
+  },{  "Name":"McLean & Eakin Booksellers "Link":"https://www.mcleanandeakin.com 
+"City":Petoskey, 
+"State":"MI   
+ 
+  },{  "Name":"Nicola's Books "Link":"https://www.nicolasbooks.com 
+"City":Ann Arbor, 
+"State":"MI   
+ 
+  },{  "Name":"Pages Bookshop "Link":"https://www.pagesbkshop.com 
+"City":Detroit, 
+"State":"MI   
+ 
+  },{  "Name":"Saturn Booksellers "Link":"https://www.saturnbooksellers.com 
+"City":Gaylord, 
+"State":"MI   
+ 
+  },{  "Name":"Schuler Books "Link":"https://www.schulerbooks.com 
+"City":Grand Rapids, 
+"State":"MI   
+ 
+  },{  "Name":"Snowbound Books "Link":"https://www.snowboundbooks.com 
+"City":Marquette, 
+"State":"MI   
+ Minnesota
+  },{  "Name":"Red Balloon Bookshop "Link":"https://www.redballoonbookshop.com 
+"City":St. Paul, 
+"State":"MN   
+ 
+  },{  "Name":"Valley Bookseller "Link":"https://www.valleybookseller.com 
+"City":Stillwater, 
+"State":"MN   
+ 
+  },{  "Name":"Wild Rumpus "Link":"https://www.wildrumpusbooks.com 
+"City":Minneapolis, 
+"State":"MN   
+ Mississippi
+  },{  "Name":"Pass Christian Books "Link":"https://www.passbooksonline.com 
+"City":Pass Christian, 
+"State":"MS   
+ 
+  },{  "Name":"Square Books "Link":"https://www.squarebooks.com 
+"City":Oxford, 
+"State":"MS   
+ 
+  },{  "Name":"Turnrow Book Co. "Link":"https://www.turnrowbooks.com 
+"City":Greenwood, 
+"State":"MS   
+ Missouri
+  },{  "Name":"Left Bank Books "Link":"https://www.left-bank.com 
+"City":St. Louis, 
+"State":"MO   
+ 
+  },{  "Name":"Subterranean Books "Link":"https://store.subbooks.com 
+"City":St. Louis, 
+"State":"MO   
+ Montana
+  },{  "Name":"Chapter One Book Store "Link":"https://www.chapter1bookstore.com 
+"City":Hamilton, 
+"State":"MT   
+ 
+  },{  "Name":"Country Bookshelf "Link":"https://www.countrybookshelf.com 
+"City":Bozeman, 
+"State":"MT   
+ 
+  },{  "Name":"Fact & Fiction Downtown "Link":"https://www.factandfictionbooks.com 
+"City":Missoula, 
+"State":"MT   
+ Nebraska
+  },{  "Name":"The Bookworm of Omaha "Link":"https://www.bookwormomaha.com 
+"City":Omaha, 
+"State":"NE   
+ 
+  },{  "Name":"The Plains Trading Co. "Link":"https://www.plainstrading.com 
+"City":Valentine, 
+"State":"NE   
+ Nevada
+  },{  "Name":"Sundance Bookstore "Link":"https://www.sundancebookstore.com 
+"City":Reno, 
+"State":"NV   
+ New Hampshire
+  },{  "Name":"Gibson's Bookstore "Link":"https://www.gibsonsbookstore.com 
+"City":Concord, 
+"State":"NH   
+ 
+  },{  "Name":"Innisfree Bookshop "Link":"https://www.innisfreebookshop.com 
+"City":Meredith, 
+"State":"NH   
+ 
+  },{  "Name":"MainStreet BookEnds of Warner "Link":"https://www.mainstreetbookends.com 
+"City":Warner, 
+"State":"NH   
+ 
+  },{  "Name":"Morgan Hill Bookstore "Link":"https://www.morganhillbookstore.com 
+"City":New London, 
+"State":"NH   
+ 
+  },{  "Name":"The Toadstool Bookshop "Link":"https://www.toadbooks.com 
+"City":Peterborough,, 
+"State":"NH   
+ 
+  },{  "Name":"Water Street Bookstore "Link":"https://www.waterstreetbooks.com 
+"City":Exeter, 
+"State":"NH   
+ New Jersey
+  },{  "Name":"BookTowne "Link":"https://www.booktowne.com 
+"City":Manasquan, 
+"State":"NJ   
+ 
+  },{  "Name":"Inkwood Books "Link":"https://www.inkwoodnj.com 
+"City":Haddonfield, 
+"State":"NJ   
+ 
+  },{  "Name":"Little City Books "Link":"https://www.littlecitybooks.com 
+"City":Hoboken, 
+"State":"NJ   
+ 
+  },{  "Name":"River Road Books "Link":"https://www.riverroadbooks.net 
+"City":Fair Haven, 
+"State":"NJ   
+ 
+  },{  "Name":"Watchung Booksellers "Link":"https://www.watchungbooksellers.com 
+"City":Montclair, 
+"State":"NJ   
+ 
+  },{  "Name":"[words] Bookstore "Link":"https://store.wordsbookstore.com 
+"City":Maplewood, 
+"State":"NJ   
+ New Mexico
+  },{  "Name":"Bookworks "Link":"https://www.bkwrks.com 
+"City":Albuquerque, 
+"State":"NM   
+ 
+  },{  "Name":"Collected Works Bookstore & Coffeehouse "Link":"https://shop.collectedworksbookstore.com 
+"City":Santa Fe, 
+"State":"NM   
+ New York
+  },{  "Name":"A to Z Books "Link":"https://shopatozbooks.com 
+"City":Buffalo, 
+"State":"NY   
+ 
+  },{  "Name":"Bank Street Bookstore "Link":"https://www.bankstreetbooks.com 
+"City":New York, 
+"State":"NY   
+ 
+  },{  "Name":"Battenkill Books "Link":"https://www.battenkillbooks.com 
+"City":Cambridge, 
+"State":"NY   
+ 
+  },{  "Name":"Book Culture "Link":"https://www.bookculture.com 
+"City":New York, 
+"State":"NY   
+ 
+  },{  "Name":"Book House of Stuyvesant Plaza "Link":"https://www.bhny.com 
+"City":Albany, 
+"State":"NY   
+ 
+  },{  "Name":"BookHampton "Link":"https://www.bookhampton.com 
+"City":East Hampton, 
+"State":"NY   
+ 
+  },{  "Name":"Bravo's Book Nook at the Players Theatre "Link":"https://www.bravosbooknook.com 
+"City":New York, 
+"State":"NY   
+ 
+  },{  "Name":"Bronx River Books "Link":"https://www.bronxriverbooks.com 
+"City":Scarsdale, 
+"State":"NY   
+ 
+  },{  "Name":"Chautauqua Bookstore "Link":"https://www.chautauquabookstore.com 
+"City":Chautauqua, 
+"State":"NY   
+ 
+  },{  "Name":"Community Bookstore "Link":"https://www.communitybookstore.net 
+"City":Brooklyn, 
+"State":"NY   
+ 
+  },{  "Name":"Greenlight Bookstore "Link":"https://www.greenlightbookstore.com 
+"City":Brooklyn, 
+"State":"NY   
+ 
+  },{  "Name":"Kew & Willow Books "Link":"https://www.kewandwillow.com 
+"City":Kew Gardens, 
+"State":"NY   
+ 
+  },{  "Name":"Lift Bridge Book Shop "Link":"https://www.liftbridgebooks.com 
+"City":Brockport, 
+"State":"NY   
+ 
+  },{  "Name":"McNally Jackson Books "Link":"https://www.mcnallyjackson.com 
+"City":New York, 
+"State":"NY   
+ 
+  },{  "Name":"Oblong Books and Music "Link":"https://www.oblongbooks.com 
+"City":Millerton, 
+"State":"NY   
+ 
+  },{  "Name":"Split Rock Books "Link":"https://www.splitrockbks.com 
+"City":Cold Spring, 
+"State":"NY   
+ 
+  },{  "Name":"The BookMark Shoppe "Link":"https://www.bookmarkshoppe.com 
+"City":Brooklyn, 
+"State":"NY   
+ 
+  },{  "Name":"The Bookstore Plus Music & Art "Link":"https://www.thebookstoreplus.com 
+"City":Lake Placid, 
+"State":"NY   
+ 
+  },{  "Name":"The Open Door Bookstore "Link":"https://www.opendoor-bookstore.com 
+"City":Schenectady, 
+"State":"NY   
+ 
+  },{  "Name":"The River's End Bookstore "Link":"https://www.riversendbookstore.com 
+"City":Oswego, 
+"State":"NY   
+ 
+  },{  "Name":"The Voracious Reader "Link":"https://shop.thevoraciousreader.com 
+"City":New Rochelle, 
+"State":"NY   
+ 
+  },{  "Name":"WORD "Link":"https://www.wordbookstores.com 
+"City":Brooklyn, 
+"State":"NY   
+ 
+  },{  "Name":"Womrath Bookshop "Link":"https://womrathbookshop.mybooksandmore.com 
+"City":Bronxville, 
+"State":"NY   
+ 
+  },{  "Name":"Word Up Community Bookshop - Libreria Comunitaria "Link":"https://www.wordupbooks.com 
+"City":New York, 
+"State":"NY   
+ North Carolina
+  },{  "Name":"Bookmarks "Link":"https://www.bookmarksnc.org 
+"City":Winston-Salem, 
+"State":"NC   
+ 
+  },{  "Name":"Buxton Village Books "Link":"https://www.buxtonvillagebooks.com 
+"City":Buxton, 
+"State":"NC   
+ 
+  },{  "Name":"City Lights Bookstore "Link":"https://www.citylightsnc.com 
+"City":Sylva, 
+"State":"NC   
+ 
+  },{  "Name":"Duck's Cottage "Link":"https://www.duckscottage.com 
+"City":Duck, 
+"State":"NC   
+ 
+  },{  "Name":"Flyleaf Books "Link":"https://www.flyleafbooks.com 
+"City":Chapel Hill, 
+"State":"NC   
+ 
+  },{  "Name":"Golden Fig Books "Link":"https://www.goldenfigbooks.com 
+"City":Durham, 
+"State":"NC   
+ 
+  },{  "Name":"Highland Books "Link":"https://www.highlandbooksonline.com 
+"City":Brevard, 
+"State":"NC   
+ 
+  },{  "Name":"Malaprop's Bookstore/Cafe "Link":"https://www.malaprops.com 
+"City":Asheville, 
+"State":"NC   
+ 
+  },{  "Name":"Page 158 Books "Link":"https://www.page158books.com 
+"City":Wake Forest, 
+"State":"NC   
+ 
+  },{  "Name":"Park Road Books "Link":"https://www.parkroadbooks.com 
+"City":Charlotte, 
+"State":"NC   
+ 
+  },{  "Name":"Quail Ridge Books "Link":"https://www.quailridgebooks.com 
+"City":Raleigh, 
+"State":"NC   
+ 
+  },{  "Name":"Scuppernong Books "Link":"https://scuppernongbooks.com 
+"City":Greensboro, 
+"State":"NC   
+ 
+  },{  "Name":"The Country Bookshop "Link":"https://www.thecountrybookshop.biz 
+"City":Southern Pines, 
+"State":"NC   
+ 
+  },{  "Name":"The Regulator Bookshop "Link":"https://www.regulatorbookshop.com 
+"City":Durham, 
+"State":"NC   
+ 
+  },{  "Name":"Two Sisters Bookery "Link":"https://www.twosistersbookerync.com 
+"City":Wilmington, 
+"State":"NC   
+ 
+  },{  "Name":"Wonderland Bookshop "Link":"https://www.wonderlandbookshopnc.com 
+"City":Greensboro, 
+"State":"NC   
+ North Dakota
+  },{  "Name":"Main Street Books "Link":"https://www.mainstreetbooksminot.com 
+"City":Minot, 
+"State":"ND   
+ Ohio
+  },{  "Name":"Gramercy Books "Link":"https://gramercybooksbexley.com 
+"City":Bexley, 
+"State":"OH   
+ 
+  },{  "Name":"Mac's Backs "Link":"https://www.macsbacks.com 
+"City":Cleveland Heights, 
+"State":"OH   
+ 
+  },{  "Name":"Prologue Bookshop "Link":"https://store.prologuebookshop.com 
+"City":Columbus, 
+"State":"OH   
+ 
+  },{  "Name":"The Book Loft of German Village "Link":"https://www.bookloft.com 
+"City":Columbus, 
+"State":"OH   
+ 
+  },{  "Name":"The Book Rack "Link":"https://www.cincybookrack.com 
+"City":Cincinnati, 
+"State":"OH   
+ 
+  },{  "Name":"The Learned Owl Book Shop "Link":"https://www.learnedowl.com 
+"City":Hudson, 
+"State":"OH   
+ Oklahoma
+  },{  "Name":"Best of Books "Link":"https://www.bestofbooksok.com 
+"City":Edmond, 
+"State":"OK   
+ 
+  },{  "Name":"Bliss Books & Bindery "Link":"https://www.blissbooksandbindery.com 
+"City":Stillwater, 
+"State":"OK   
+ 
+  },{  "Name":"Whirlwind Book Bar "Link":"https://www.whirlwindbookbar.com 
+"City":Altus, 
+"State":"OK   
+ Oregon
+  },{  "Name":"Annie Bloom's Books "Link":"https://www.annieblooms.com 
+"City":Portland, 
+"State":"OR   
+ 
+  },{  "Name":"Broadway Books "Link":"https://www.broadwaybooks.net 
+"City":Portland, 
+"State":"OR   
+ 
+  },{  "Name":"Klindt's Booksellers "Link":"https://www.klindtsbooks.com 
+"City":The Dalles, 
+"State":"OR   
+ 
+  },{  "Name":"Roundabout Books "Link":"https://www.roundaboutbookshop.com 
+"City":Bend, 
+"State":"OR   
+ 
+  },{  "Name":"Sunriver Books & Music "Link":"https://www.sunriverbooks.com 
+"City":Sunriver, 
+"State":"OR   
+ 
+  },{  "Name":"The Book Nook "Link":"https://www.booknookcanby.com 
+"City":Canby, 
+"State":"OR   
+ 
+  },{  "Name":"Third Street Books "Link":"https://www.thirdstreetbooks.com 
+"City":McMinnville, 
+"State":"OR   
+ 
+  },{  "Name":"Waucoma Bookstore "Link":"https://www.waucomabookstore.com 
+"City":Hood River, 
+"State":"OR   
+ 
+  },{  "Name":"Winter River Books "Link":"https://www.winterriverbooks.com 
+"City":Bandon, 
+"State":"OR   
+ Pennsylvania
+  },{  "Name":"Aaron's Books "Link":"https://www.aaronsbooks.com 
+"City":Lititz, 
+"State":"PA   
+ 
+  },{  "Name":"City of Asylum Pittsburgh "Link":"https://www.cityofasylumbooks.org 
+"City":Pittsburgh, 
+"State":"PA   
+ 
+  },{  "Name":"Farley's Bookshop "Link":"https://www.farleysbookshop.com 
+"City":New Hope, 
+"State":"PA   
+ 
+  },{  "Name":"Head House Books "Link":"https://www.headhousebooks.com 
+"City":Philadelphia, 
+"State":"PA   
+ 
+  },{  "Name":"Jewish Kids Bookstore "Link":"https://www.jkbac.com 
+"City":Moosic, 
+"State":"PA   
+ 
+  },{  "Name":"Joseph Fox Bookshop "Link":"https://www.foxbookshop.com 
+"City":Philadelphia, 
+"State":"PA   
+ 
+  },{  "Name":"Leana's Books & More "Link":"https://www.leanasbooks.com 
+"City":Hermitage, 
+"State":"PA   
+ 
+  },{  "Name":"Let's Play Books! "Link":"https://www.letsplaybooks.com 
+"City":Emmaus, 
+"State":"PA   
+ 
+  },{  "Name":"Main Point Books "Link":"https://www.mainpointbooks.com 
+"City":Wayne, 
+"State":"PA   
+ 
+  },{  "Name":"Mystery Lovers Bookshop "Link":"https://www.mysterylovers.com 
+"City":Oakmont, 
+"State":"PA   
+ 
+  },{  "Name":"Newtown Bookshop "Link":"https://www.newtownbookshop.com 
+"City":Newtown, 
+"State":"PA   
+ 
+  },{  "Name":"Penguin Bookshop "Link":"https://www.penguinbookshop.com 
+"City":Sewickley, 
+"State":"PA   
+ 
+  },{  "Name":"Penn Book Center "Link":"https://www.pennbookcenter.com 
+"City":Philadelphia, 
+"State":"PA   
+ 
+  },{  "Name":"The Doylestown Bookshop "Link":"https://www.doylestownbookshop.com 
+"City":Doylestown, 
+"State":"PA   
+ 
+  },{  "Name":"The Otto Bookstore "Link":"https://www.ottobookstore.com 
+"City":Williamsport, 
+"State":"PA   
+ 
+  },{  "Name":"Towne Book Center & Cafe "Link":"https://www.townebc.com 
+"City":Collegeville, 
+"State":"PA   
+ Rhode Island
+  },{  "Name":"Barrington Books "Link":"https://www.barringtonbooksretold.com 
+"City":Barrington, 
+"State":"RI   
+ 
+  },{  "Name":"Books on the Square "Link":"https://www.booksq.com 
+"City":Providence, 
+"State":"RI   
+ 
+  },{  "Name":"Island Bound Bookstore "Link":"https://www.islandboundbookstore.com 
+"City":Block Island, 
+"State":"RI   
+ 
+  },{  "Name":"Wakefield Books "Link":"https://www.wakefieldbooks.com 
+"City":Wakefield, 
+"State":"RI   
+ South Carolina
+  },{  "Name":"Books on Broad "Link":"https://www.booksonbroad.com 
+"City":Camden, 
+"State":"SC   
+ Tennessee
+  },{  "Name":"A Little Bookish "Link":"https://www.alittlebookish.com 
+"City":Ooltewah, 
+"State":"TN   
+ 
+  },{  "Name":"Duck River Books "Link":"https://shop.duckriverbooks.com 
+"City":Columbia, 
+"State":"TN   
+ 
+  },{  "Name":"Novel. "Link":"https://www.novelmemphis.com 
+"City":Memphis, 
+"State":"TN   
+ 
+  },{  "Name":"Parnassus Books "Link":"https://www.parnassusbooks.net 
+"City":Nashville, 
+"State":"TN   
+ Texas
+  },{  "Name":"Blue Willow Bookshop "Link":"https://www.bluewillowbookshop.com 
+"City":Houston, 
+"State":"TX   
+ 
+  },{  "Name":"BookPeople "Link":"https://www.bookpeople.com 
+"City":Austin, 
+"State":"TX   
+ 
+  },{  "Name":"BookWoman "Link":"https://www.ebookwoman.com 
+"City":Austin, 
+"State":"TX   
+ 
+  },{  "Name":"Brazos Bookstore "Link":"https://www.brazosbookstore.com 
+"City":Houston, 
+"State":"TX   
+ 
+  },{  "Name":"Interabang Books "Link":"https://www.interabangbooks.com 
+"City":Dallas, 
+"State":"TX   
+ 
+  },{  "Name":"Katy Budget Books "Link":"https://www.katybooks.com 
+"City":Houston, 
+"State":"TX   
+ 
+  },{  "Name":"Murder By the Book "Link":"https://www.murderbooks.com 
+"City":Houston, 
+"State":"TX   
+ 
+  },{  "Name":"Nowhere Bookshop "Link":"https://www.nowherebookshop.com 
+"City":San Antonio, 
+"State":"TX   
+ 
+  },{  "Name":"Patchouli Joe's Books & Indulgences "Link":"https://www.patchoulijoesbooks.com 
+"City":Leander, 
+"State":"TX   
+ 
+  },{  "Name":"The Dock Bookshop "Link":"https://www.thedockbookshop.com 
+"City":Fort Worth, 
+"State":"TX   
+ 
+  },{  "Name":"The Twig Book Shop "Link":"https://www.thetwig.com 
+"City":San Antonio, 
+"State":"TX   
+ Utah
+  },{  "Name":"The Book Bungalow "Link":"https://thebookbungalow.com 
+"City":St. George, 
+"State":"UT   
+ 
+  },{  "Name":"The King's English Bookshop "Link":"https://www.kingsenglish.com 
+"City":Salt Lake City, 
+"State":"UT   
+ 
+  },{  "Name":"Weller Book Works "Link":"https://www.wellerbookworks.com 
+"City":Salt Lake City, 
+"State":"UT   
+ Vermont
+  },{  "Name":"Bartleby's Books "Link":"https://shop.myvermontbookstore.com 
+"City":Wilmington, 
+"State":"VT   
+ 
+  },{  "Name":"Bear Pond Books "Link":"https://www.bearpondbooks.com 
+"City":Montpelier, 
+"State":"VT   
+ 
+  },{  "Name":"Crow Bookshop "Link":"https://www.crowbooks.com 
+"City":Burlington, 
+"State":"VT   
+ 
+  },{  "Name":"Northshire Bookstore "Link":"https://www.northshire.com 
+"City":Manchester Center, 
+"State":"VT   
+ 
+  },{  "Name":"Norwich Bookstore "Link":"https://www.norwichbookstore.com 
+"City":Norwich, 
+"State":"VT   
+ 
+  },{  "Name":"Phoenix Books "Link":"https://www.phoenixbooks.biz 
+"City":Essex Junction, 
+"State":"VT   
+ 
+  },{  "Name":"The Bennington Bookshop "Link":"https://www.benningtonbookshop.com 
+"City":Bennington, 
+"State":"VT   
+ 
+  },{  "Name":"The Flying Pig Bookstore "Link":"https://www.flyingpigbooks.com 
+"City":Shelburne, 
+"State":"VT   
+ 
+  },{  "Name":"The Yankee Bookshop "Link":"https://www.yankeebookshop.com 
+"City":Woodstock, 
+"State":"VT   
+ 
+  },{  "Name":"Vermont Book Shop "Link":"https://www.vermontbookshop.com 
+"City":Middlebury, 
+"State":"VT   
+ 
+  },{  "Name":"Village Square Booksellers "Link":"https://www.villagesquarebooks.com 
+"City":Bellows Falls, 
+"State":"VT   
+ Virginia
+  },{  "Name":"Book No Further "Link":"https://www.booknofurther.com 
+"City":Roanoke, 
+"State":"VA   
+ 
+  },{  "Name":"Book People "Link":"https://www.bookpeoplerichmond.com 
+"City":Richmond, 
+"State":"VA   
+ 
+  },{  "Name":"Books and Crannies "Link":"https://www.booksandcranniesva.com 
+"City":Martinsville, 
+"State":"VA   
+ 
+  },{  "Name":"One More Page Books "Link":"https://www.onemorepagebooks.com 
+"City":Arlington, 
+"State":"VA   
+ 
+  },{  "Name":"Over the Moon Bookstore & Artisan Gallery "Link":"https://www.overthemoonbookstore.com 
+"City":Crozet, 
+"State":"VA   
+ 
+  },{  "Name":"Prince Books "Link":"https://www.prince-books.com 
+"City":Norfolk, 
+"State":"VA   
+ 
+  },{  "Name":"Scrawl Books "Link":"https://www.scrawlbooks.com 
+"City":Reston, 
+"State":"VA   
+ 
+  },{  "Name":"Sundial Books "Link":"https://www.sundialbooks.net 
+"City":Chincoteague, 
+"State":"VA   
+ 
+  },{  "Name":"The Fountain Bookstore "Link":"https://www.fountainbookstore.com 
+"City":Richmond, 
+"State":"VA   
+ 
+  },{  "Name":"Winchester Book Gallery "Link":"https://www.winchesterbookgallery.com 
+"City":Winchester, 
+"State":"VA   
+ Washington
+  },{  "Name":"A Book For All Seasons "Link":"https://www.abookforallseasons.com 
+"City":Leavenworth, 
+"State":"WA   
+ 
+  },{  "Name":"Ada's Technical Books "Link":"https://www.adasbooks.com 
+"City":Seattle, 
+"State":"WA   
+ 
+  },{  "Name":"Auntie's Bookstore "Link":"https://www.auntiesbooks.com 
+"City":Spokane, 
+"State":"WA   
+ 
+  },{  "Name":"Book 'n' Brush "Link":"https://www.booknbrush.com 
+"City":Chehalis, 
+"State":"WA   
+ 
+  },{  "Name":"Browsers Bookshop "Link":"https://browsersolympia.com 
+"City":Olympia, 
+"State":"WA   
+ 
+  },{  "Name":"Eagle Harbor Book Company "Link":"https://www.eagleharborbooks.com 
+"City":Bainbridge Island, 
+"State":"WA   
+ 
+  },{  "Name":"Griffin Bay Bookstore "Link":"https://griffinbaybook.com 
+"City":Friday Harbor, 
+"State":"WA   
+ 
+  },{  "Name":"Inklings Bookshop "Link":"https://www.inklingsbookshop.com 
+"City":Yakima, 
+"State":"WA   
+ 
+  },{  "Name":"Island Books "Link":"https://www.mercerislandbooks.com 
+"City":Mercer Island, 
+"State":"WA   
+ 
+  },{  "Name":"King's Books "Link":"https://www.kingsbookstore.com 
+"City":Tacoma, 
+"State":"WA   
+ 
+  },{  "Name":"Liberty Bay Books "Link":"https://www.libertybaybooks.com 
+"City":Poulsbo, 
+"State":"WA   
+ 
+  },{  "Name":"Orca Books "Link":"https://www.orcabooks.com 
+"City":Olympia, 
+"State":"WA   
+ 
+  },{  "Name":"Port Book & News "Link":"https://www.portbooknews.com 
+"City":Port Angeles, 
+"State":"WA   
+ 
+  },{  "Name":"Queen Anne Book Company "Link":"https://www.qabookco.com 
+"City":Seattle, 
+"State":"WA   
+ 
+  },{  "Name":"Riverwalk Books "Link":"https://www.riverwalkbooks.com 
+"City":Chelan, 
+"State":"WA   
+ 
+  },{  "Name":"Secret Garden Bookshop "Link":"https://www.secretgardenbooks.com 
+"City":Seattle, 
+"State":"WA   
+ 
+  },{  "Name":"The Elliott Bay Book Company "Link":"https://www.elliottbaybook.com 
+"City":Seattle, 
+"State":"WA   
+ 
+  },{  "Name":"Third Place Books "Link":"https://www.thirdplacebooks.com 
+"City":Lake Forest Park, 
+"State":"WA   
+ 
+  },{  "Name":"Trail's End Bookstore "Link":"https://www.trailsendbookstore.com 
+"City":Winthrop, 
+"State":"WA   
+ 
+  },{  "Name":"Village Books "Link":"https://www.VillageBooks.com 
+"City":Bellingham, 
+"State":"WA   
+ 
+  },{  "Name":"Watermark Book Co. "Link":"https://www.watermarkbookcompany.com 
+"City":Anacortes, 
+"State":"WA   
+ Wisconsin
+  },{  "Name":"A Room Of One's Own Bookstore "Link":"https://www.roomofonesown.com 
+"City":Madison, 
+"State":"WI   
+ 
+  },{  "Name":"Books & Company "Link":"https://www.booksco.com 
+"City":Oconomowoc, 
+"State":"WI   
+ 
+  },{  "Name":"Boswell Book Company "Link":"https://www.boswellbooks.com 
+"City":Milwaukee, 
+"State":"WI   
+ 
+  },{  "Name":"Lion's Tooth "Link":"https://www.lionstoothmke.com 
+"City":Milwaukee, 
+"State":"WI   
+ 
+  },{  "Name":"Northwind Book & Fiber "Link":"https://www.northwindbook.com 
+"City":Spooner, 
+"State":"WI   
+ 
+  },{  "Name":"Redbery Books "Link":"https://www.redberybooks.com 
+"City":Cable, 
+"State":"WI   
+ 
+  },{  "Name":"River Dog Book Co. "Link":"https://riverdogbookco.com 
+"City":Beaver Dam, 
+"State":"WI   
+ 
+  },{  "Name":"Yardstick "Link":"https://www.yardstickalgoma.com 
+"City":Algoma, 
+"State":"WI   
+ Wyoming
+  },{  "Name":"Storyteller "Link":"https://www.storytellerwyo.com 
+"City":Thermopolis, 
+"State":"WY   
+ 
+  },{  "Name":"Whistle-Stop Mercantile "Link":"https://www.whistlestopbooks.com 
+"City":Douglas, 
+"State":"WY   
+ 
+  },{  "Name":"Wind City Books "Link":"https://www.windcitybooks.com 
+"City":Casper, 
+"State":"WY   
+ </fieldset> <h2>IndieLite Sites</h2><div class="ilstores"><fieldset><legend>Alaska
+  },{  "Name":"Writer's Block Bookstore & Cafe "Link":"https://writersblockak.indielite.org 
+"City":Anchorage, 
+"State":"AK   
+ Arkansas
+  },{  "Name":"Bookish "Link":"https://bookishfs.indielite.org 
+"City":Fort Smith, 
+"State":"AR   
+ 
+  },{  "Name":"Nightbird Books "Link":"https://nightbirdbooks.indielite.org 
+"City":Fayetteville, 
+"State":"AR   
+ California
+  },{  "Name":"Barn Owl Books "Link":"https://barnowlbookshop.indielite.org 
+"City":Quincy, 
+"State":"CA   
+ 
+  },{  "Name":"BookSmart "Link":"https://mybooksmart.indielite.org 
+"City":Morgan Hill, 
+"State":"CA   
+ 
+  },{  "Name":"Bookshop Benicia "Link":"https://bookshopbenicia.indielite.org 
+"City":Benicia, 
+"State":"CA   
+ 
+  },{  "Name":"Creating Conversations "Link":"https://creatingconversations.indielite.org 
+"City":Redondo Beach, 
+"State":"CA   
+ 
+  },{  "Name":"Eclectuals "Link":"https://eclectuals.indielite.org 
+"City":Lakewood, 
+"State":"CA   
+ Colorado
+  },{  "Name":"32nd Avenue Books, Toys and Gifts "Link":"https://32ndavenuebooks.indielite.org 
+"City":Denver, 
+"State":"CO   
+ 
+  },{  "Name":"Next Page Books & Nosh "Link":"https://nextpagebooks.indielite.org 
+"City":Frisco, 
+"State":"CO   
+ Connecticut
+  },{  "Name":"Byrd's Books "Link":"https://byrdsbooks.indielite.org 
+"City":Bethel, 
+"State":"CT   
+ Florida
+  },{  "Name":"Family Book Shop "Link":"https://familybookshopdeland.indielite.org 
+"City":DeLand, 
+"State":"FL   
+ 
+  },{  "Name":"Pyramid Books "Link":"https://pyramidbooks.indielite.org 
+"City":Boynton Beach, 
+"State":"FL   
+ 
+  },{  "Name":"Story & Song Bookstore Bistro "Link":"https://storyandsongbookstore.indielite.org 
+"City":Fernandina Beach, 
+"State":"FL   
+ 
+  },{  "Name":"Third House Books & Coffee "Link":"https://thirdhousebooks.indielite.org 
+"City":Gainesville, 
+"State":"FL   
+ Georgia
+  },{  "Name":"Horton's Books & Gifts "Link":"https://hortonsbooks.mybooksandmore.com 
+"City":Carrollton, 
+"State":"GA   
+ 
+  },{  "Name":"Little Shop of Stories "Link":"https://littleshopofstories.indielite.org 
+"City":Decatur, 
+"State":"GA   
+ Illinois
+  },{  "Name":"Book Bin "Link":"https://bookbinnorthbrook.indielite.org 
+"City":Northbrook, 
+"State":"IL   
+ 
+  },{  "Name":"Lit. on Fire Used Books "Link":"https://litonfire.indielite.org 
+"City":Peoria, 
+"State":"IL   
+ 
+  },{  "Name":"Love's Sweet Arrow "Link":"https://lovessweetarrow.indielite.org 
+"City":Tinley Park, 
+"State":"IL   
+ 
+  },{  "Name":"The Bookstore of Glen Ellyn "Link":"https://bookstoreofge.indielite.org 
+"City":Glen Ellyn, 
+"State":"IL   
+ Indiana
+  },{  "Name":"4 Kids Books & Toys "Link":"https://4kidsbooks.indielite.org 
+"City":Zionsville, 
+"State":"IN   
+ Iowa
+  },{  "Name":"Book People "Link":"https://bookpeoplesc.indielite.org 
+"City":Sioux City, 
+"State":"IA   
+ 
+  },{  "Name":"Book Vault "Link":"https://bookvault.indielite.org 
+"City":Oskaloosa, 
+"State":"IA   
+ 
+  },{  "Name":"River Lights Bookstore "Link":"https://riverlights.indielite.org 
+"City":Dubuque, 
+"State":"IA   
+ Kansas
+  },{  "Name":"Bluebird Books "Link":"https://bluebirdbookstore.indielite.org 
+"City":Hutchinson, 
+"State":"KS   
+ 
+  },{  "Name":"Ellen Plumb's City Bookstore "Link":"https://ellenplumbs.indielite.org 
+"City":Emporia, 
+"State":"KS   
+ 
+  },{  "Name":"Rivendell Bookstore "Link":"https://rivendellbookstore.indielite.org 
+"City":Abilene, 
+"State":"KS   
+ 
+  },{  "Name":"Signs of Life "Link":"https://signsoflifebooks.indielite.org 
+"City":Lawrence, 
+"State":"KS   
+ Kentucky
+  },{  "Name":"Poor Richard's Bookstore "Link":"https://poorrichardsbooksky.indielite.org 
+"City":Frankfort, 
+"State":"KY   
+ Maryland
+  },{  "Name":"A Likely Story "Link":"https://www.sykesvillebooks.com 
+"City":Sykesville, 
+"State":"MD   
+ Massachusetts
+  },{  "Name":"BookEnds "Link":"https://bookendswinchester.indielite.org 
+"City":Winchester, 
+"State":"MA   
+ Michigan
+  },{  "Name":"Crazy Wisdom Bookstore & Tearoom "Link":"https://shopcrazywisdom.indielite.org 
+"City":Ann Arbor, 
+"State":"MI   
+ 
+  },{  "Name":"The Bookman "Link":"https://bookmanbookstore.indielite.org 
+"City":Grand Haven, 
+"State":"MI   
+ 
+  },{  "Name":"The Cottage Book Shop "Link":"https://cottagebooks.indielite.org 
+"City":Glen Arbor, 
+"State":"MI   
+ Minnesota
+  },{  "Name":"Babycake's Book Stack "Link":"https://babycakesbookstack.indielite.org 
+"City":St. Paul, 
+"State":"MN   
+ 
+  },{  "Name":"Beagle and Wolf Books & Bindery "Link":"https://beagleandwolf.indielite.org 
+"City":Park Rapids, 
+"State":"MN   
+ 
+  },{  "Name":"Drury Lane Books "Link":"https://drurylanebooks.indielite.org 
+"City":Grand Marais, 
+"State":"MN   
+ 
+  },{  "Name":"Excelsior Bay Books "Link":"https://excelsiorbaybooks.indielite.org 
+"City":Excelsior, 
+"State":"MN   
+ 
+  },{  "Name":"Once Upon A Crime "Link":"https://onceuponacrimebooks.indielite.org 
+"City":Minneapolis, 
+"State":"MN   
+ Missouri
+  },{  "Name":"Main Street Books "Link":"https://mainstreetbooks.indielite.org 
+"City":St. Charles, 
+"State":"MO   
+ 
+  },{  "Name":"The Novel Neighbor "Link":"https://thenovelneighbor.indielite.org 
+"City":Webster Groves, 
+"State":"MO   
+ Nebraska
+  },{  "Name":"Chapters Books & Gifts "Link":"https://chaptersbooksandgifts.mybooksandmore.com 
+"City":Seward, 
+"State":"NE   
+ 
+  },{  "Name":"Indigo Bridge Books and Cafe "Link":"https://indigobridgebooks.indielite.org 
+"City":Lincoln, 
+"State":"NE   
+ New Hampshire
+  },{  "Name":"RiverRun Bookstore "Link":"https://riverrunbookstore.mybooksandmore.com 
+"City":Portsmouth, 
+"State":"NH   
+ New Jersey
+  },{  "Name":"Sparta Books "Link":"https://spartabooks.indielite.org 
+"City":Sparta, 
+"State":"NJ   
+ New York
+  },{  "Name":"Boogie Down Books "Link":"https://boogiedownbooks.indielite.org 
+"City":Bronx, 
+"State":"NY   
+ 
+  },{  "Name":"Briars & Brambles Books "Link":"https://briarsandbramblesbooks.indielite.org 
+"City":Windham, 
+"State":"NY   
+ 
+  },{  "Name":"The Golden Notebook "Link":"https://goldennotebook.indielite.org 
+"City":Woodstock, 
+"State":"NY   
+ North Carolina
+  },{  "Name":"Adventure Bound Books "Link":"https://adventureboundbooks.mybooksandmore.com 
+"City":Morganton, 
+"State":"NC   
+ 
+  },{  "Name":"Foggy Pine Books "Link":"https://foggypinebooks.mybooksandmore.com 
+"City":Boone, 
+"State":"NC   
+ 
+  },{  "Name":"Page After Page Bookstore "Link":"https://pageafterpagebookstore.indielite.org 
+"City":Elizabeth City, 
+"State":"NC   
+ 
+  },{  "Name":"Read With Me, A Children's Book & Art Shop "Link":"https://readwithme.indielite.org 
+"City":Raleigh, 
+"State":"NC   
+ 
+  },{  "Name":"Sassafras on Sutton "Link":"https://sassafrasonsutton.indielite.org 
+"City":Black Mountain, 
+"State":"NC   
+ 
+  },{  "Name":"Sunrise Books "Link":"https://www.sunrisebookshp.com 
+"City":High Point, 
+"State":"NC   
+ North Dakota
+  },{  "Name":"Ferguson Books & More "Link":"https://fergusonbooks.mybooksandmore.com 
+"City":Grand Forks, 
+"State":"ND   
+ Ohio
+  },{  "Name":"Books 'N' More "Link":"https://booksnmore.indielite.org 
+"City":Wilmington, 
+"State":"OH   
+ 
+  },{  "Name":"Paragraphs Bookstore "Link":"https://paragraphsbookstore.indielite.org 
+"City":Mount Vernon, 
+"State":"OH   
+ 
+  },{  "Name":"The Bookshelf "Link":"https://cincybookshelf.indielite.org 
+"City":Cincinnati, 
+"State":"OH   
+ Oklahoma
+  },{  "Name":"Brace Books & More "Link":"https://bracebooks.indielite.org 
+"City":Ponca City, 
+"State":"OK   
+ Oregon
+  },{  "Name":"Another Read Through "Link":"https://anotherreadthrough.indielite.org 
+"City":Portland, 
+"State":"OR   
+ 
+  },{  "Name":"Beach Books "Link":"https://beachbooks37.indielite.org 
+"City":Seaside, 
+"State":"OR   
+ 
+  },{  "Name":"Herringbone Books "Link":"https://herringbonebooks.indielite.org 
+"City":Redmond, 
+"State":"OR   
+ 
+  },{  "Name":"Maggie Mae's Kids Bookshop "Link":"https://maggiemaesbooks.indielite.org 
+"City":Gresham, 
+"State":"OR   
+ Pennsylvania
+  },{  "Name":"From My Shelf Books & Gifts "Link":"https://wellsborobookstore.indielite.org 
+"City":Wellsboro, 
+"State":"PA   
+ 
+  },{  "Name":"Riverstone Books "Link":"https://riverstonebookstore.indielite.org 
+"City":Pittsburgh, 
+"State":"PA   
+ 
+  },{  "Name":"The Tiny Bookstore "Link":"https://tinybookspgh.indielite.org 
+"City":Pittsburgh, 
+"State":"PA   
+ 
+  },{  "Name":"Wellington Square Bookshop "Link":"https://wellingtonsquarebooks.indielite.org 
+"City":Exton, 
+"State":"PA   
+ Rhode Island
+  },{  "Name":"Island Books "Link":"https://islandbooksri.indielite.org 
+"City":Middletown, 
+"State":"RI   
+ South Dakota
+  },{  "Name":"Mitzi's Books "Link":"https://mitzisbooks.indielite.org 
+"City":Rapid City, 
+"State":"SD   
+ Tennessee
+  },{  "Name":"Star Line Books "Link":"https://starlinebooks.indielite.org 
+"City":Chattanooga, 
+"State":"TN   
+ 
+  },{  "Name":"Union Avenue Books "Link":"https://unionavebooks.indielite.org 
+"City":Knoxville, 
+"State":"TN   
+ Texas
+  },{  "Name":"Bibliobar "Link":"https://bibliobar.indielite.org 
+"City":Garland, 
+"State":"TX   
+ 
+  },{  "Name":"Sententia Vera Bookshop "Link":"https://sententiavera.indielite.org 
+"City":Dripping Springs, 
+"State":"TX   
+ 
+  },{  "Name":"Texian Books "Link":"https://texianbooks.indielite.org 
+"City":Victoria, 
+"State":"TX   
+ Vermont
+  },{  "Name":"Next Chapter Bookstore "Link":"https://nextchapterbooksvt.indielite.org 
+"City":Barre, 
+"State":"VT   
+ Virginia
+  },{  "Name":"Givens Books "Link":"https://givensbooks.mybooksandmore.com 
+"City":Lynchburg, 
+"State":"VA   
+ Washington
+  },{  "Name":"Bookworm Tri-Cities "Link":"https://bookwormtricities.indielite.org 
+"City":Kennewick, 
+"State":"WA   
+ 
+  },{  "Name":"Edmonds Bookshop "Link":"https://edmondsbookshop.indielite.org 
+"City":Edmonds, 
+"State":"WA   
+ 
+  },{  "Name":"Page 2 Books "Link":"https://page2books.indielite.org 
+"City":Burien, 
+"State":"WA   
+ Wisconsin
+  },{  "Name":"Apostle Islands Booksellers "Link":"https://apostleislandsbooksellers.mybooksandmore.com 
+"City":Bayfield, 
+"State":"WI   
+ 
+  },{  "Name":"BayShore Books "Link":"https://bayshorebooksllc.indielite.org 
+"City":Oconto, 
+"State":"WI   
+ 
+  },{  "Name":"Chapter2Books "Link":"https://chapter2books.indielite.org 
+"City":Hudson, 
+"State":"WI   
+ 
+  },{  "Name":"Fair Isle Books "Link":"https://fairisle.mybooksandmore.com 
+"City":Washington Island, 
+"State":"WI   
+ 
+  },{  "Name":"Travelin' Storyseller "Link":"https://travelinstoryseller.indielite.org 
+"City":River Falls, 
+"State":"WI   
+ </fieldset>
