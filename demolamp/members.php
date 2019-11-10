@@ -17,6 +17,67 @@ if (isset($_GET['view'])) {
     echo "<h3>$name Profile</h3>";
     showProfile($view);
     echo "<a href='messages.php?view=$view'>View $name messages</a>";
+    
+    
+    // **** Move messages here
+    echo "<div id=messagesOuter>";
+    echo "<div id='messagesContainer'>";
+        echo "<h3 id='messagesTitle'>$name1 Messages</h3>";
+        date_default_timezone_set('UTC');
+        
+        $query  = "SELECT * FROM messages WHERE recip='$view' ORDER BY time DESC LIMIT 10";
+        $result = queryMysql($query);
+        $num    = $result->num_rows;
+    
+        for ($j = 0 ; $j < $num ; ++$j)
+        {
+          $row = $result->fetch_array(MYSQLI_ASSOC);
+            
+            // save the time
+            //if ($messageDate != NULL){
+            $_SESSION["messageDate"] = $row['time'];
+            
+
+          if ($row['pm'] == 0 || $row['auth'] == $user || $row['recip'] == $user) {
+              echo "<div class=messageContent>";
+              echo date('M jS \'y g:ia:', $row['time']);
+              echo " <a href='messages.php?view=" . $row['auth'] . "'>" . $row['auth']. "</a> ";
+
+              if ($row['pm'] == 0)
+                  echo "wrote a <em>public post</em>:<div>&quot;" . $row['message'] . "&quot; ";
+              else
+                  echo "wrote a <em>private note</em>:<br><div>&quot;" . $row['message']. "&quot; ";
+
+              if ($row['recip'] == $user)
+                  echo "[<a href='messages.php?view=$view" . "&erase=" . $row['id'] . "'>Delete</a>]";
+              echo "</div>";
+              echo "</div>";
+          }
+        }
+    echo "</div>";
+        
+        
+        
+    //    mysql> SELECT * FROM (
+    //    ->     SELECT * FROM Last10RecordsDemo ORDER BY id DESC LIMIT 10
+    //    -> )Var1
+    //    ->
+    //    -> ORDER BY id ASC;
+
+        
+        // -----------
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     die(require 'footer.php');
 }
 
@@ -66,5 +127,6 @@ for ($j = 0 ; $j < $num ; ++$j) {
         echo " [<a href='members.php?remove=" . $row['user'] . "'>drop</a>]";
 }
 echo "</ul>";
+
 require_once 'footer.php';
 ?>
