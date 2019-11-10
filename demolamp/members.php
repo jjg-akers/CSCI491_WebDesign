@@ -28,11 +28,15 @@ if (isset($_GET['view'])) {
         $query  = "SELECT * FROM messages WHERE recip='$view' ORDER BY time DESC LIMIT 10";
         $result = queryMysql($query);
         $num    = $result->num_rows;
-
+    
         for ($j = 0 ; $j < $num ; ++$j)
         {
           $row = $result->fetch_array(MYSQLI_ASSOC);
-
+            
+            // save the time
+            //if ($messageDate != NULL){
+            $_SESSION["messageDate"] = $row['time'];
+            
 
           if ($row['pm'] == 0 || $row['auth'] == $user || $row['recip'] == $user) {
               echo "<div class=messageContent>";

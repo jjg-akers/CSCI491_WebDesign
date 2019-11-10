@@ -33,6 +33,8 @@ window.onload=function(){
         
         
         if (scrollHt - scrollTp === clientHt){
+            // add more message divs
+            // query content from DB and add into divs
         
             x.style.backgroundColor = "red";
             

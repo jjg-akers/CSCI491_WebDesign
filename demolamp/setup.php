@@ -49,12 +49,12 @@ createTable('profiles',
             zipCode CHAR(5),
             INDEX(user(6))');
             
-            createTable('bookStores',
+createTable('bookStores',
             'name VARCHAR(80),
             link VARCHAR(80),
             city VARCHAR(80),
             state CHAR(2),
-            INDEX(state(2))')
+            INDEX(state(2))');
 ?>
 
     <p>The database is ready to go.</p>
