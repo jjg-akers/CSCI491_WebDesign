@@ -25,7 +25,7 @@ if (isset($_GET['view'])) {
         echo "<h3 id='messagesTitle'>$name1 Messages</h3>";
         date_default_timezone_set('UTC');
         
-        $query  = "SELECT * FROM messages WHERE recip='$view' ORDER BY time DESC LIMIT 10";
+        $query  = "SELECT * FROM messages WHERE recip='$view' ORDER BY time DESC LIMIT 5";
         $result = queryMysql($query);
         $num    = $result->num_rows;
     
@@ -36,6 +36,7 @@ if (isset($_GET['view'])) {
             // save the time
             //if ($messageDate != NULL){
             $_SESSION["messageDate"] = $row['time'];
+            echo $_SESSION['messageDate'];
             
 
           if ($row['pm'] == 0 || $row['auth'] == $user || $row['recip'] == $user) {
