@@ -7,6 +7,9 @@ if (!$loggedin) {
 }
 
 if (isset($_GET['view'])) {
+    echo "<div>";
+    echo "isset true";
+    echo "</div>";
     $view = sanitizeString($_GET['view']);
 
     if ($view == $user)
@@ -18,7 +21,7 @@ if (isset($_GET['view'])) {
     showProfile($view);
     echo "<a href='messages.php?view=$view'>View $name messages</a>";
     
-    
+    echo "<div id='hidden'>$view</div>";
     // **** Move messages here
     echo "<div id=messagesOuter>";
     echo "<div id='messagesContainer'>";
