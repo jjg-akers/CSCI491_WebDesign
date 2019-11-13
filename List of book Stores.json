@@ -387,145 +387,145 @@
 "City":"Madison", 
 "State":"IN"   
  Iowa
-  },{  "Name":"Dragonfly Books "Link":"https://www.dragonflybooks.com 
-"City":Decorah, 
-"State":"IA   
+  },{  "Name":"Dragonfly Books", "Link":"https://www.dragonflybooks.com", 
+"City":"Decorah", 
+"State":"IA"   
  
-  },{  "Name":"Prairie Lights Books "Link":"https://www.prairielightsbooks.com 
-"City":Iowa City, 
-"State":"IA   
- Kansas
-  },{  "Name":"Rainy Day Books "Link":"https://www.RainyDayBooks.com 
-"City":Fairway, 
-"State":"KS   
+  },{  "Name":"Prairie Lights Books", "Link":"https://www.prairielightsbooks.com", 
+"City":"Iowa City", 
+"State":"IA"   
+
+  },{  "Name":"Rainy Day Books", "Link":"https://www.RainyDayBooks.com", 
+"City":"Fairway", 
+"State":"KS"   
  
-  },{  "Name":"Raven Book Store "Link":"https://www.ravenbookstore.com 
-"City":Lawrence, 
-"State":"KS   
+  },{  "Name":"Raven Book Store", "Link":"https://www.ravenbookstore.com", 
+"City":"Lawrence", 
+"State":"KS"   
  
-  },{  "Name":"Watermark Books & Cafe "Link":"https://www.watermarkbooks.com 
-"City":Wichita, 
-"State":"KS   
- Kentucky
-  },{  "Name":"Carmichael's Bookstore "Link":"https://www.carmichaelsbookstore.com 
-"City":Louisville, 
-"State":"KY   
- Louisiana
-  },{  "Name":"Cavalier House Books "Link":"https://www.cavalierhousebooks.com 
-"City":Denham Springs, 
-"State":"LA   
+  },{  "Name":"Watermark Books & Cafe", "Link":"https://www.watermarkbooks.com", 
+"City":"Wichita", 
+"State":"KS"   
  
-  },{  "Name":"Garden District Book Shop "Link":"https://www.gardendistrictbookshop.com 
-"City":New Orleans, 
-"State":"LA   
+  },{  "Name":"Carmichael's Bookstore", "Link":"https://www.carmichaelsbookstore.com", 
+"City":"Louisville", 
+"State":"KY"   
  
-  },{  "Name":"Looziana Book Company "Link":"https://www.looziana.com 
-"City":Denham Springs, 
-"State":"LA   
+  },{  "Name":"Cavalier House Books", "Link":"https://www.cavalierhousebooks.com", 
+"City":"Denham Springs", 
+"State":"LA"   
  
-  },{  "Name":"Octavia Books "Link":"https://www.octaviabooks.com 
-"City":New Orleans, 
-"State":"LA   
- Maine
-  },{  "Name":"Devaney, Doak & Garrett Booksellers "Link":"https://www.ddgbooks.com 
-"City":Farmington, 
-"State":"ME   
+  },{  "Name":"Garden District Book Shop", "Link":"https://www.gardendistrictbookshop.com", 
+"City":"New Orleans", 
+"State":"LA"   
  
-  },{  "Name":"Longfellow Books "Link":"https://www.longfellowbooks.com 
-"City":Portland, 
-"State":"ME   
+  },{  "Name":"Looziana Book Company", "Link":"https://www.looziana.com", 
+"City":"Denham Springs", 
+"State":"LA"   
  
-  },{  "Name":"PRINT: A Bookstore "Link":"https://www.printbookstore.com 
-"City":Portland, 
-"State":"ME   
+  },{  "Name":"Octavia Books", "Link":"https://www.octaviabooks.com",
+"City":"New Orleans", 
+"State":"LA"   
+
+  },{  "Name":"Devaney, Doak & Garrett Booksellers", "Link":"https://www.ddgbooks.com", 
+"City":"Farmington", 
+"State":"ME"   
  
-  },{  "Name":"Sherman's Books & Stationery "Link":"https://www.shermans.com 
-"City":Damariscotta, 
-"State":"ME   
- Maryland
-  },{  "Name":"Mystery Loves Company "Link":"https://www.mysterylovescompany.com 
-"City":Oxford, 
-"State":"MD   
+  },{  "Name":"Longfellow Books", "Link":"https://www.longfellowbooks.com", 
+"City":"Portland", 
+"State":"ME"   
  
-  },{  "Name":"Novel Books "Link":"https://www.anovelbookshop.com 
-"City":Clarksburg, 
-"State":"MD   
+  },{  "Name":"PRINT: A Bookstore", "Link":"https://www.printbookstore.com",
+"City":"Portland", 
+"State":"ME"   
  
-  },{  "Name":"The Ivy Bookshop "Link":"https://www.theivybookshop.com 
-"City":Baltimore, 
-"State":"MD   
- Massachusetts
-  },{  "Name":"An Unlikely Story "Link":"https://www.anunlikelystory.com 
-"City":Plainville, 
-"State":"MA   
+  },{  "Name":"Sherman's Books & Stationery", "Link":"https://www.shermans.com", 
+"City":"Damariscotta", 
+"State":"ME"   
+
+  },{  "Name":"Mystery Loves Company", "Link":"https://www.mysterylovescompany.com", 
+"City":"Oxford", 
+"State":"MD"   
  
-  },{  "Name":"Belmont Books "Link":"https://www.belmontbooks.com 
-"City":Belmont, 
-"State":"MA   
+  },{  "Name":"Novel Books", "Link":"https://www.anovelbookshop.com", 
+"City":"Clarksburg", 
+"State":"MD"   
  
-  },{  "Name":"Broadside Bookshop "Link":"https://www.broadsidebooks.com 
-"City":Northampton, 
-"State":"MA   
+  },{  "Name":"The Ivy Bookshop", "Link":"https://www.theivybookshop.com",
+"City":"Baltimore", 
+"State":"MD"   
  
-  },{  "Name":"Brookline Booksmith "Link":"https://www.brooklinebooksmith-shop.com 
-"City":Brookline, 
-"State":"MA   
+  },{  "Name":"An Unlikely Story", "Link":"https://www.anunlikelystory.com", 
+"City":"Plainville", 
+"State":"MA"  
  
-  },{  "Name":"Buttonwood Books and Toys "Link":"https://www.buttonwoodbooksandtoys.com 
-"City":Cohasset, 
-"State":"MA   
+  },{  "Name":"Belmont Books", "Link":"https://www.belmontbooks.com", 
+"City":"Belmont", 
+"State":"MA".   
  
-  },{  "Name":"Copper Dog Books "Link":"https://www.copperdogbooks.com 
-"City":Beverly, 
-"State":"MA   
+  },{  "Name":"Broadside Bookshop", "Link":"https://www.broadsidebooks.com",
+"City":"Northampton", 
+"State":"MA",   
  
-  },{  "Name":"East End Books Ptown "Link":"https://www.eastendbooksptown.com 
-"City":Provincetown, 
-"State":"MA   
+  },{  "Name":"Brookline Booksmith", "Link":"https://www.brooklinebooksmith-shop.com", 
+"City":"Brookline", 
+"State":"MA"   
  
-  },{  "Name":"Eight Cousins "Link":"https://www.eightcousins.com 
-"City":Falmouth, 
-"State":"MA   
+  },{  "Name":"Buttonwood Books and Toys", "Link":"https://www.buttonwoodbooksandtoys.com",
+"City":"Cohasset", 
+"State":"MA"   
  
-  },{  "Name":"Harvard Book Store "Link":"https://shop.harvard.com 
-"City":Cambridge, 
-"State":"MA   
+  },{  "Name":"Copper Dog Books", "Link":"https://www.copperdogbooks.com",
+"City":"Beverly", 
+"State":"MA"   
  
-  },{  "Name":"HugoBookstores "Link":"https://hugobookstores.com 
-"City":Marblehead, 
-"State":"MA   
+  },{  "Name":"East End Books Ptown:", "Link":"https://www.eastendbooksptown.com", 
+"City":"Provincetown", 
+"State":"MA"   
  
-  },{  "Name":"Jabberwocky Bookshop & Cafe "Link":"https://www.jabberwockybookshop.com 
-"City":Newburyport, 
-"State":"MA   
+  },{  "Name":"Eight Cousins", "Link":"https://www.eightcousins.com", 
+"City":"Falmouth", 
+"State":"MA"   
  
-  },{  "Name":"Nantucket Bookworks "Link":"https://www.nantucketbookpartners.com 
-"City":Nantucket, 
-"State":"MA   
+  },{  "Name":"Harvard Book Store", "Link":"https://shop.harvard.com",
+"City":"Cambridge", 
+"State":"MA"  
  
-  },{  "Name":"New England Mobile Book Fair "Link":"https://www.nebookfair.com 
-"City":Newton Highlands, 
-"State":"MA   
+  },{  "Name":"HugoBookstores", "Link":"https://hugobookstores.com"
+"City":"Marblehead", 
+"State":"MA"   
  
-  },{  "Name":"Odyssey Bookshop "Link":"https://www.odysseybks.com 
-"City":South Hadley, 
-"State":"MA   
+  },{  "Name":"Jabberwocky Bookshop & Cafe", "Link":"https://www.jabberwockybookshop.com", 
+"City":"Newburyport", 
+"State":"MA"   
  
-  },{  "Name":"Porter Square Books "Link":"https://www.portersquarebooks.com 
-"City":Cambridge, 
-"State":"MA   
+  },{  "Name":"Nantucket Bookworks", "Link":"https://www.nantucketbookpartners.com", 
+"City":"Nantucket", 
+"State":"MA"   
  
-  },{  "Name":"Readmore Books "Link":"https://www.readmorebooks.com 
-"City":Taunton, 
-"State":"MA   
+  },{  "Name":"New England Mobile Book Fair", "Link":"https://www.nebookfair.com", 
+"City":"Newton Highlands", 
+"State":"MA"   
  
-  },{  "Name":"Storybook Cove "Link":"https://www.storybookcove.com 
-"City":Hanover, 
-"State":"MA   
+  },{  "Name":"Odyssey Bookshop", "Link":"https://www.odysseybks.com", 
+"City":"South Hadley", 
+"State":"MA"   
  
-  },{  "Name":"The Bookloft "Link":"https://www.thebookloft.com 
-"City":Great Barrington, 
-"State":"MA   
+  },{  "Name":"Porter Square Books", "Link":"https://www.portersquarebooks.com", 
+"City":"Cambridge", 
+"State":"MA"   
+ 
+  },{  "Name":"Readmore Books", "Link":"https://www.readmorebooks.com", 
+"City":"Taunton", 
+"State":"MA"   
+ 
+  },{  "Name":"Storybook Cove", "Link":"https://www.storybookcove.com", 
+"City":"Hanover", 
+"State":"MA"   
+ 
+  },{  "Name":"The Bookloft", "Link":"https://www.thebookloft.com", 
+"City":"Great Barrington", 
+"State":"MA"   
  
   },{  "Name":"The Concord Bookshop "Link":"https://www.concordbookshop.com 
 "City":Concord, 
