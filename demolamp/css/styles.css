@@ -1,96 +1,116 @@
 /*
-Google Font Alternatives (kind of lame ones though)
+Google Fonts:
+Primary
+font-family: 'Poppins', sans-serif;
+Secondary
+font-family: 'Roboto', sans-serif;
 
-Futura - Muli
-Helvetica - Source Sans Pro
-Optima - Arsenal
-Garmond - Lora
-Playfair Display - Bodini
-
-font-family: 'Muli', sans-serif;
-font-family: 'Source Sans Pro', sans-serif;
-font-family: 'Arsenal', sans-serif;
-font-family: 'Lora', serif;
-font-family: 'Playfair Display', serif;
+Color:
+#1a8096
 */
 
 html {
     font-size: 16px;
-    font-family: 'Arsenal', sans-serif;
+    font-family: 'Roboto', sans-serif;
     color: #222;
     background-color: white;
 }
 
 #wrapper {
     margin: auto;
-    max-width: 800px;
-    border-color: #222;
-    border-style: dotted;
-    border-width: 0 5px;
     padding: 0 5px;
 }
 
 header {
-    background-color: white;
-    background-color: crimson;
     height: 140px;
     position: relative;
 }
 
-#logo {
-    font-family: 'Playfair Display', serif;
-    padding: 20px 0;
-    width: 200px;
-    margin: 0 40px;
-    font-variant: small-caps;
-    letter-spacing: .05em;
-    font-size: 1.5em;
-    text-align: center;
-    color: white;
-    line-height: 1.0em;
+#logodiv{
+    margin-top:10px;
+    margin-left: 43%;
 }
+#logodiv img {
+    width: 150px;
+    position: absolute;
+    margin-top: 15px;
+    z-index: 2;
+}
+
 
 nav {
-    position: absolute;
-    width: 100%;
-    bottom: 0;
+  position: absolute;
+  table-layout: fixed;
+  width: 100%;
+  padding-top: 40px;
+
 }
 
+#right-side{
+  float: right;
+  vertical-align: middle;
+  padding-right: 30px;
+  margin-left: 0px;
+}
+
+
+
 nav ul {
-    font-family: 'Muli', sans-serif;
+    font-family: 'Poppins', sans-serif;
     list-style-type: none;
     overflow: hidden;
     color: #ddd;
     background-color: #222;
-    margin: 0;
+    margin-left: 0;
     padding: 0;
 }
 
 nav li {
     float: left;
+    display:inline;
 }
 
 nav li a {
     display: block;
     color: white;
     text-align: center;
-    padding: 14px 16px;
+    padding: 14px 30px;
     text-decoration: none;
 }
 
 nav li a:hover {
-    background-color: crimson;
+    background-color: #1a8096;
 }
 
+
 #content {
+    margin-top: 5%;
     min-height: 200px;
     padding: 0 50px;
     background-color: white;
-    padding-bottom: 80px;
+   
+}
+
+
+/*MAIN PAGE*/
+
+#content #homeprofile{
+    background-color: #1a8096;
+    float:left;
+    width:30%;
+    padding: 0px 20px 30px 20px;
+    position: absolute;
+
+}
+
+#content #homeprofile .userpic {
+    position: absolute;
+    top: -32%;
+    left: 35%;
 }
 
 .username {
-    font-family: 'Lora', serif;
+    font-family: 'Poppins', serif;
     font-size: 1.2em;
     font-style: italic;
     text-align: right;
@@ -118,11 +138,11 @@ textarea {
 }
 
 footer {
-    font-family: 'Muli', sans-serif;
+    font-family: 'Roboto', sans-serif;
     padding: 20px;
-    color: #ddd;
-    background-color: #222;
+    color: #454545;
     font-size: .9em;
+    text-align: center;
 }
 
 footer a {
@@ -132,27 +152,26 @@ footer a {
 /* New CSS */
 
 #messagesOuter{
+    margin-left: 5%;
     border-style: solid;
     height: 100%;
     position: relative;
-    top: 10%;
-    left: 25%;
+    left: 35%;
     width: 50%;
     border-bottom-style: none;
-    
-    
 }
-#messagesContainer {
+
+#content #messagesContainer {
+    padding-top: 0px;
+    margin-top:0px;
     width: 90%;
-    margin: auto;
     height: 400px;
     position: relative;
-    top: 10%;
     overflow: scroll;
     background-color: gainsboro;
     border-style: solid;
     border-width: 1px;
-    overflow: scroll;
+    overflow-x:hidden;
 
 
 }

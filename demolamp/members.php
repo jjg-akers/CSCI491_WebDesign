@@ -7,23 +7,22 @@ if (!$loggedin) {
 }
 
 if (isset($_GET['view'])) {
-    echo "<div>";
-    echo "isset true";
-    echo "</div>";
+
     $view = sanitizeString($_GET['view']);
 
     if ($view == $user)
         $name = "Your";
     else
         $name = "$view's";
-
+    echo"<div id='homeprofile'>";
     echo "<h3>$name Profile</h3>";
     showProfile($view);
-    echo "<a href='messages.php?view=$view'>View $name messages</a>";
+    echo "<a href='messages.php?view=$view'>View $name messages</a></div>";
     
-    echo "<div id='hidden'>$view</div>";
+    echo "<div id='hidden'></div>";
     // **** Move messages here
-    echo "<div id=messagesOuter>";
+    echo "<div id='messagesOuter'>";
+
     echo "<div id='messagesContainer'>";
         echo "<h3 id='messagesTitle'>$name1 Messages</h3>";
         date_default_timezone_set('UTC');
