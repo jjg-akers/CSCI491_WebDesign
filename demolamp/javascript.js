@@ -12,42 +12,93 @@ function C(i) {
 
 
 window.onload=function(){
-    var x = document.getElementById("messagesContainer");
-    
-    
+    // wrap listener in an if statement so it only attemps when on correct pages
+    if (document.getElementById("messagesContainer")){
+        var getView = document.getElementById("hidden").textContent;
+        console.log(getView);
+//        let searchParams = new URLSearchParams(window.location.search);
+//        
+//        let param = searchParams.get('view')
+//        console.log(searchParams);
+        
+        // call phph with value set
+        //var getView = "<?php echo sanitizeString($_GET['view']); ?>";
+        //var getView = "<?php echo $view ?>";
+        //console.log(getView);
+        //var $_GET = JSON.parse("<?php echo json_encode($_GET); ?>");
+        
+        //$_GET['view']; ?>";
+        //var val = "echo $_GET['view']";
+        //console.log(getView);
+        // get container element
+        var x = document.getElementById("messagesContainer");
 
-    x.addEventListener("scroll", function(){
+        x.addEventListener("scroll", function(){
+
+            var scrollTop = x.scrollTop;
+            var offsetHeight = x.offsetHeight;
+            var clientHt = x.clientHeight;
+
+            var scrollHt = x.scrollHeight;
+            var scrollTp = x.scrollTop;
+            /*if (offsetHeight <= scrollTop + clientHeight) */ 
+
+            /*console.log("HT" + scrollHt);
+            console.log("Tp" + scrollTp);
+            console.log("client" + clientHt);*/
+            console.log("dif" + (scrollHt - scrollTp));
+
+
+            if (scrollHt - scrollTp === clientHt){
+                
+                console.log("in if");
+                // add more message divs
+                // query content from DB and add into divs
+                var requestURL = "dbRequest.php?view=" + getView;
+
+                $.ajax({method: "GET", url: requestURL}).done(function( data ) {
+                    // parse result
+                    var result = $.parseJSON(data);
+                    console.log(data);
+                    
+                    // loop through the returned values and create new messages
+                    $.each(result, function(key, value){
+                        
+                        //if (value['pm'] == 0 || value['auth'] == $user)
+                        
+                        var newMessage = "<div class='messageContent'> Date: "
+                        newMessage += value['time'];
+                        newMessage += " <a href='messages.php?view=";
+                        newMessage += value['auth'] + "'>" + value['auth'] + "</a> ";
+                        if (value['pm'] == 0){
+                            newMessage += "wrote a <em> public post</em>:<div>\"";
+                            newMessage += value['message'] + "&quot; ";
+                        } else {
+                            newMessage += "wrote a <em>private note</em>:<br><div>\"";
+                            newMessage += value['message'] + "&quot; ";
+
+                        }
+
+                        newMessage += "</div>";
+
+                        newMessage += "</div>"
+
+                        $('#messagesContainer').append(newMessage);
+
+                        //console.log("first");
+                        //console.log(value['time']);
+                        //console.log("key" + key);
+                        //console.log("value: " + value);
+                        //alert(value['time']);
+                    });
+                    //console.log("something")
+                });
+
+                //x.style.backgroundColor = "red";
+            }
+        });
+    }
         
-        var scrollTop = x.scrollTop;
-        var offsetHeight = x.offsetHeight;
-        var clientHt = x.clientHeight;
-    
-        var scrollHt = x.scrollHeight;
-        var scrollTp = x.scrollTop;
-        /*if (offsetHeight <= scrollTop + clientHeight) */ 
-        
-        /*console.log("HT" + scrollHt);
-        console.log("Tp" + scrollTp);
-        console.log("client" + clientHt);*/
-        console.log("dif" + (scrollHt - scrollTp));
-        
-        
-        if (scrollHt - scrollTp === clientHt){
-            // add more message divs
-            // query content from DB and add into divs
-        
-            x.style.backgroundColor = "red";
-            
-            $('#messagesContainer').append("<div class='messageContent'>1</div>\
-                        <div class='messageContent'>2</div>\
-                        <div class='messageContent'>3</div>\
-                        <div class='messageContent'>4</div>\
-                        ");
-            
-            
-        }
-        
-                       });
 }
 
 
