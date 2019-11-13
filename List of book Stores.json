@@ -479,7 +479,7 @@
 "City":"Beverly", 
 "State":"MA"   
  
-  },{  "Name":"East End Books Ptown:, "Link":"https://www.eastendbooksptown.com", 
+  },{  "Name":"East End Books Ptown:", "Link":"https://www.eastendbooksptown.com", 
 "City":"Provincetown", 
 "State":"MA"   
  
@@ -491,41 +491,41 @@
 "City":"Cambridge", 
 "State":"MA"  
  
-  },{  "Name":"HugoBookstores "Link":"https://hugobookstores.com 
-"City":Marblehead, 
-"State":"MA   
+  },{  "Name":"HugoBookstores", "Link":"https://hugobookstores.com"
+"City":"Marblehead", 
+"State":"MA"   
  
-  },{  "Name":"Jabberwocky Bookshop & Cafe "Link":"https://www.jabberwockybookshop.com 
-"City":Newburyport, 
-"State":"MA   
+  },{  "Name":"Jabberwocky Bookshop & Cafe", "Link":"https://www.jabberwockybookshop.com", 
+"City":"Newburyport", 
+"State":"MA"   
  
-  },{  "Name":"Nantucket Bookworks "Link":"https://www.nantucketbookpartners.com 
-"City":Nantucket, 
-"State":"MA   
+  },{  "Name":"Nantucket Bookworks", "Link":"https://www.nantucketbookpartners.com", 
+"City":"Nantucket", 
+"State":"MA"   
  
-  },{  "Name":"New England Mobile Book Fair "Link":"https://www.nebookfair.com 
-"City":Newton Highlands, 
-"State":"MA   
+  },{  "Name":"New England Mobile Book Fair", "Link":"https://www.nebookfair.com", 
+"City":"Newton Highlands", 
+"State":"MA"   
  
-  },{  "Name":"Odyssey Bookshop "Link":"https://www.odysseybks.com 
-"City":South Hadley, 
-"State":"MA   
+  },{  "Name":"Odyssey Bookshop", "Link":"https://www.odysseybks.com", 
+"City":"South Hadley", 
+"State":"MA"   
  
-  },{  "Name":"Porter Square Books "Link":"https://www.portersquarebooks.com 
-"City":Cambridge, 
-"State":"MA   
+  },{  "Name":"Porter Square Books", "Link":"https://www.portersquarebooks.com", 
+"City":"Cambridge", 
+"State":"MA"   
  
-  },{  "Name":"Readmore Books "Link":"https://www.readmorebooks.com 
-"City":Taunton, 
-"State":"MA   
+  },{  "Name":"Readmore Books", "Link":"https://www.readmorebooks.com", 
+"City":"Taunton", 
+"State":"MA"   
  
-  },{  "Name":"Storybook Cove "Link":"https://www.storybookcove.com 
-"City":Hanover, 
-"State":"MA   
+  },{  "Name":"Storybook Cove", "Link":"https://www.storybookcove.com", 
+"City":"Hanover", 
+"State":"MA"   
  
-  },{  "Name":"The Bookloft "Link":"https://www.thebookloft.com 
-"City":Great Barrington, 
-"State":"MA   
+  },{  "Name":"The Bookloft", "Link":"https://www.thebookloft.com", 
+"City":"Great Barrington", 
+"State":"MA"   
  
   },{  "Name":"The Concord Bookshop "Link":"https://www.concordbookshop.com 
 "City":Concord, 
