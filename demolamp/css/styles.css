@@ -187,6 +187,10 @@ footer a {
     background-color: gainsboro;
 }
 
-.hidden {
+#hidden {
     display: none;
+    margin: none;
+    border: none;
+    padding: none;
+    
 }

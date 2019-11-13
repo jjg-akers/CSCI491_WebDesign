@@ -7,7 +7,7 @@ if (!$loggedin) {
 }
 
 if (isset($_GET['view'])) {
-
+    
     $view = sanitizeString($_GET['view']);
 
     if ($view == $user)
@@ -19,7 +19,7 @@ if (isset($_GET['view'])) {
     showProfile($view);
     echo "<a href='messages.php?view=$view'>View $name messages</a></div>";
     
-    echo "<div id='hidden'></div>";
+    
     // **** Move messages here
     echo "<div id='messagesOuter'>";
 
@@ -38,7 +38,7 @@ if (isset($_GET['view'])) {
             // save the time
             //if ($messageDate != NULL){
             $_SESSION["messageDate"] = $row['time'];
-            echo $_SESSION['messageDate'];
+            //echo $_SESSION['messageDate'];
             
 
           if ($row['pm'] == 0 || $row['auth'] == $user || $row['recip'] == $user) {
@@ -57,6 +57,7 @@ if (isset($_GET['view'])) {
               echo "</div>";
           }
         }
+    echo "<div id='hidden'>$view</div>";
     echo "</div>";
         
         

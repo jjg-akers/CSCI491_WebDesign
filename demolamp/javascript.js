@@ -15,7 +15,7 @@ window.onload=function(){
     // wrap listener in an if statement so it only attemps when on correct pages
     if (document.getElementById("messagesContainer")){
         var getView = document.getElementById("hidden").textContent;
-        console.log(getView);
+        //console.log(getView);
 //        let searchParams = new URLSearchParams(window.location.search);
 //        
 //        let param = searchParams.get('view')
@@ -51,10 +51,12 @@ window.onload=function(){
 
             if (scrollHt - scrollTp === clientHt){
                 
-                console.log("in if");
+                //console.log("in if");
                 // add more message divs
                 // query content from DB and add into divs
                 var requestURL = "dbRequest.php?view=" + getView;
+                console.log("request: ", requestURL);
+                console.log("something esle");
 
                 $.ajax({method: "GET", url: requestURL}).done(function( data ) {
                     // parse result
