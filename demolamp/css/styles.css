@@ -6,7 +6,8 @@ Secondary
 font-family: 'Roboto', sans-serif;
 
 Color:
-#1a8096
+Primary: #1a8096
+toned: #e8f2f4
 */
 
 html {
@@ -204,4 +205,33 @@ footer a {
     padding: none;
 }
 
+/*Log in*/
 
+input[type=text] {
+  width: 30%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+input[type=text]:focus {
+  background-color:#a3ccd5;
+}
+
+input[type=password] {
+  width: 30%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+input[type=button], input[type=submit], input[type=reset] {
+  background-color: #1a8096;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 16px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+}
