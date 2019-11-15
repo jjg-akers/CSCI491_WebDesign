@@ -17,7 +17,7 @@ echo <<<_INIT
         <script src='javascript.js?v1'></script>
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
        <link href="https://fonts.googleapis.com/css?family=Poppins|Roboto&display=swap" rel="stylesheet">
-        <link rel='stylesheet' href='css/styles.css?v25'>
+        <link rel='stylesheet' href='css/styles.css?v26'>
         <title>$clubstr: $userstr</title>
         </head>
 _INIT;
@@ -46,7 +46,7 @@ echo <<<_LOGGEDIN
 
             <nav><ul>
                 <li><a href='members.php?view=$user'>Home</a></li>
-                <li><a href='messages.php'>Messages</a></li>
+                <li><a href='messages.php'>Reviews</a></li>
                 <li><a href='members.php'>Members</a></li>
             
                 <li id="right-side"><a href='logout.php'>Log out</a></li>

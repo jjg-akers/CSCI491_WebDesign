@@ -27,13 +27,13 @@ if ($view != "") {
         $name2 = "$view's";
   }
 
-  echo "<h3>$name1 Messages</h3>";
+  echo "<h3>$name1 Reviews</h3>";
   // showProfile($view);
 
   echo <<<_END
   <form method='post' action='messages.php?view=$view'>
     <fieldset data-role="controlgroup" data-type="horizontal">
-        <legend>Type here to leave a message</legend>
+        <legend>Type here to leave a review</legend>
         <input type='radio' name='pm' id='public' value='0' checked='checked'>
         <label for="public">Public Post</label>
         <input type='radio' name='pm' id='private' value='1'>
@@ -41,7 +41,7 @@ if ($view != "") {
         <textarea name='text'></textarea><br>
     </fieldset>
 
-    <input data-transition='slide' type='submit' value='Post Message'>
+    <input data-transition='slide' type='submit' value='Post Review'>
 </form><br>
 _END;
 

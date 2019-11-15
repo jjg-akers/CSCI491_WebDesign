@@ -7,7 +7,7 @@ if (!$loggedin) {
 }
 
 if (isset($_GET['view'])) {
-
+    
     $view = sanitizeString($_GET['view']);
 
     if ($view == $user)
@@ -15,16 +15,18 @@ if (isset($_GET['view'])) {
     else
         $name = "$view's";
     echo"<div id='homeprofile'>";
-    echo "<h3>$name Profile</h3>";
+    echo "<h3>$name Profile</h3>
+    <h4>Currently Reading:</h4>";
     showProfile($view);
-    echo "<a href='messages.php?view=$view'>View $name messages</a></div>";
+    echo "<h4>Reading Goal:</h4><br>";
+    echo "<a href='messages.php?view=$view'>View $name Reviews</a></div>";
     
-    echo "<div id='hidden'></div>";
+    
     // **** Move messages here
     echo "<div id='messagesOuter'>";
 
     echo "<div id='messagesContainer'>";
-        echo "<h3 id='messagesTitle'>$name1 Messages</h3>";
+        echo "<h3 id='messagesTitle'>$name1</h3>";
         date_default_timezone_set('UTC');
         
         $query  = "SELECT * FROM messages WHERE recip='$view' ORDER BY time DESC LIMIT 5";
@@ -38,7 +40,7 @@ if (isset($_GET['view'])) {
             // save the time
             //if ($messageDate != NULL){
             $_SESSION["messageDate"] = $row['time'];
-            echo $_SESSION['messageDate'];
+            //echo $_SESSION['messageDate'];
             
 
           if ($row['pm'] == 0 || $row['auth'] == $user || $row['recip'] == $user) {
@@ -57,6 +59,7 @@ if (isset($_GET['view'])) {
               echo "</div>";
           }
         }
+    echo "<div id='hidden'>$view</div>";
     echo "</div>";
         
         
