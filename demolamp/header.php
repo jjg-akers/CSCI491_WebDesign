@@ -46,7 +46,7 @@ echo <<<_LOGGEDIN
 
             <nav><ul>
                 <li><a href='members.php?view=$user'>Home</a></li>
-                <li><a href='messages.php'>Messages</a></li>
+                <li><a href='messages.php'>Reviews</a></li>
                 <li><a href='members.php'>Members</a></li>
             
                 <li id="right-side"><a href='logout.php'>Log out</a></li>
