@@ -35,6 +35,12 @@ $time = $_SESSION['messageDate'];
     }
 
     //$query  = "SELECT * FROM messages WHERE recip='$view' and time < '$time' ORDER BY time DESC LIMIT 10";
+    if ($view == $user) {
+        $query = "SELECT * FROM messages INNER JOIN friends ON messages.auth = friends.user WHERE friend = '$view' and time < '$time' ORDER BY time DESC LIMIT 5";
+    } else {
+        $query  = "SELECT * FROM messages WHERE recip='$view' and time < '$time' ORDER BY time DESC LIMIT 5";
+
+    }
 
     $result = queryMysql($query);
     $num    = $result->num_rows;

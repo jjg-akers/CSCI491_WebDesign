@@ -37,9 +37,14 @@ if (isset($_GET['view'])) {
 
     
         //  WHERE friends.friend = me
-        
-        //$query  = "SELECT * FROM messages WHERE recip='$view' ORDER BY time DESC LIMIT 5";
+    // check who's page is being viewed. if user is viewing their home page, load their friends revies.
+    // Else, if user if looking at someone else's profile, load the other person's posts
+    if ($view == $user) {
         $query = "SELECT * FROM messages INNER JOIN friends ON messages.auth = friends.user WHERE friend = '$view' ORDER BY time DESC LIMIT 5";
+    } else {
+        $query  = "SELECT * FROM messages WHERE recip='$view' ORDER BY time DESC LIMIT 5";
+    }
+        
         $result = queryMysql($query);
         $num    = $result->num_rows;
     
