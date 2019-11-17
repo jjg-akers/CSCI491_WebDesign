@@ -11,12 +11,14 @@ else
 
 if (isset($_POST['text'])) {
     $text = sanitizeString($_POST['text']);
+    $author = sanitizeString($_POST['bookAuthor']);
+    $title = sanitizeString($_POST['bookTitle']);
 
     if ($text != "") {
         $pm   = substr(sanitizeString($_POST['pm']),0,1);
         $time = time();
         //queryMysql("INSERT INTO messages VALUES(NULL, '$user','$view', '$pm', $time, '$text')");
-        queryMysql("INSERT INTO messages (auth, recip, pm, time, message) VALUES('$user','$view', '$pm', $time, '$text')");
+        queryMysql("INSERT INTO messages (auth, recip, pm, time, message, bookTitle, bookAutor) VALUES('$user','$view', '$pm', $time, '$text', '$title', '$author')");
     }
 }
 
@@ -40,6 +42,10 @@ if ($view != "") {
         <input type='radio' name='pm' id='private' value='1'>
         <label for="private">Private Note</label><br><br>
         <textarea name='text'></textarea><br>
+        <labe for="bookTitle">Book Title</label>
+        <input type='text' name='bookTitle' id='bookTitle' placeholder='Title' required>
+        <labe for="bookAuthor">Author</label>
+        <input type='text' name='bookAuthor' id='bookAuthor' placeholder='Author' required>
     </fieldset>
 
     <input data-transition='slide' type='submit' value='Post Review'>
@@ -60,13 +66,17 @@ $num    = $result->num_rows;
 for ($j = 0 ; $j < $num ; ++$j)
 {
   $row = $result->fetch_array(MYSQLI_ASSOC);
+//    $a = $row['bookTitle'];
+//    $b = $row['bookAutor'];
+//    echo "<div> title: $a</div>";
+//    echo "<div> author: $b</div>";
 
   if ($row['pm'] == 0 || $row['auth'] == $user || $row['recip'] == $user) {
       echo date('M jS \'y g:ia:', $row['time']);
       echo " <a href='messages.php?view=" . $row['auth'] . "'>" . $row['auth']. "</a> ";
-
+      
       if ($row['pm'] == 0)
-          echo "wrote a <em>public post</em>:<div>&quot;" . $row['message'] . "&quot; ";
+          echo "wrote a <em>public review</em>:<div>For: " . $row['bookTitle'] . "<br>By: " . $row['bookAutor'] . "<br>&quot;" . $row['message'] . "&quot; ";
       else
           echo "wrote a <em>private note</em>:<br><div>&quot;" . $row['message']. "&quot; ";
 
