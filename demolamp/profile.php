@@ -4,12 +4,17 @@
 if (!$loggedin) die("</div></body></html>");
 
 $result = queryMysql("SELECT * FROM profiles WHERE user='$user'");
-    //$a = $result->fetch_array(MYSQLI_ASSOC);
-    //$book = $a[
-    //echo "<div> sometin </div>";
+    //$numberOfResults = $result->num_rows;
+    $a = $result->fetch_array(MYSQLI_ASSOC);
+    $texta = stripslashes($a['text']);
+    $book = $a['currentBookAuthor'];
+    $bookG = stripslashes($a['bookGoal']);
+
+
+    //echo "<div> first result: number - $numberOfResults, text - $texta, book - $book, bookG $bookG </div>";
     
 if (isset($_POST['text'])) {
-    echo "<div> in if isset for textfield</div>";
+    //echo "<div> in if isset for textfield</div>";
     $text = sanitizeString($_POST['text']);
     $text = preg_replace('/\s\s+/', ' ', $text);
     //echo "<div> text: $text </div>";
@@ -21,9 +26,10 @@ if (isset($_POST['text'])) {
     else queryMysql("INSERT INTO profiles (user, text) VALUES('$user', '$text')");
 } 
 else {
-    if ($result->num_rows) {
-        $row  = $result->fetch_array(MYSQLI_ASSOC);
-        $text = stripslashes($row['text']);
+    if ($result->num_rows && texta != "") {
+        //$row  = $result->fetch_array(MYSQLI_ASSOC);
+        //$text = stripslashes($row['text']);
+        $text = $texta;
     }
     else $text = "";
 }
@@ -31,7 +37,7 @@ $text = stripslashes(preg_replace('/\s\s+/', ' ', $text));
     
 // currently reading
 if (($_POST['currentBook']) != "") {
-    echo "<div> in if isset </div>";
+    //echo "<div> in if isset </div>";
     $currentBook = sanitizeString($_POST['currentBook']);
     $currentBook = preg_replace('/\s\s+/', ' ', $currentBook);
 
@@ -43,12 +49,12 @@ if (($_POST['currentBook']) != "") {
     else queryMysql("INSERT INTO profiles (user, currentBookAuthor) VALUES('$user', '$currentBook')");
 }
 else {
-    if ($result->num_rows) {
-        $row  = $result->fetch_array(MYSQLI_ASSOC);
-        $currentBook = stripslashes($row['currentBookAuthor']);
-        //$bookGoal = stripslashes($row['bookGoal']);
+    if ($result->num_rows && $book != "") {
+        //$row  = $result->fetch_array(MYSQLI_ASSOC);
+        //$currentBook = stripslashes($row['currentBookAuthor']);
+        $currentBook = stripslashes($book);
 
-        echo "<div> book: $currentBook </div>";
+        //echo "<div> book: $currentBook </div>";
     }
     else $currentBook = "Enter A Book";
 }
@@ -56,7 +62,7 @@ else {
     //name='bookGoal'
 // reading goal
 if (($_POST['bookGoal']) != 0) {
-    echo "<div> in if isset bookGoal </div>";
+    //echo "<div> in if isset bookGoal </div>";
     $bookGoal = sanitizeString($_POST['bookGoal']);
     $bookGoal = preg_replace('/\s\s+/', ' ', $bookGoal);
 
@@ -68,22 +74,17 @@ if (($_POST['bookGoal']) != 0) {
     else queryMysql("INSERT INTO profiles (user, bookGoal) VALUES('$user', '$bookGoal')");
 }
 else {
-    if ($result->num_rows) {
-        $row  = $result->fetch_array(MYSQLI_ASSOC);
-        $bookGoal = stripslashes($row['bookGoal']);
-        echo "<div> bookGoal: $bookGoal </div>";
+    if ($result->num_rows && $bookG != "") {
+        //$row  = $result->fetch_array(MYSQLI_ASSOC);
+        //$bookGoal = stripslashes($row['bookGoal']);
+        $bookGoal = stripslashes($bookG);
+
+        //echo "<div> bookGoal: $bookGoal </div>";
     }
     else $bookGoal = 0;
 }
     
-    
-    
-    
-    
-    
-    
-    
-    
+// OLD COLD ********
 //    if (isset($_POST['text'])) {
 //        echo "<div> in if isset </div>";
 //        $text = sanitizeString($_POST['text']);
@@ -105,6 +106,7 @@ else {
 //    }
 //
 //$text = stripslashes(preg_replace('/\s\s+/', ' ', $text));
+//*******************
 
 if (isset($_FILES['image']['name'])) {
     $saveto = "userpics/$user.jpg";
