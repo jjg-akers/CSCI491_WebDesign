@@ -28,8 +28,18 @@ if (isset($_GET['view'])) {
     echo "<div id='messagesContainer'>";
         echo "<h3 id='messagesTitle'>$name1</h3>";
         date_default_timezone_set('UTC');
+    
+        //  select * FROM messages INNER JOIN friends
+        //  ON messages.auth = friends.user
+        //  WHERE friend = me
         
-        $query  = "SELECT * FROM messages WHERE recip='$view' ORDER BY time DESC LIMIT 5";
+        
+
+    
+        //  WHERE friends.friend = me
+        
+        //$query  = "SELECT * FROM messages WHERE recip='$view' ORDER BY time DESC LIMIT 5";
+        $query = "SELECT * FROM messages INNER JOIN friends ON messages.auth = friends.user WHERE friend = '$view' ORDER BY time DESC LIMIT 5";
         $result = queryMysql($query);
         $num    = $result->num_rows;
     
@@ -98,6 +108,29 @@ elseif (isset($_GET['remove'])) {
     $remove = sanitizeString($_GET['remove']);
     queryMysql("DELETE FROM friends WHERE user='$remove' AND friend='$user'");
 }
+    
+    //if i follow someone, user will get set to the person i am following,
+    //  and i will get set to friend
+    
+    // so i want to pull alll user's where i am listed as friend.
+    
+    // pull all users where i am listed as friend, join that table
+    //  on the user with messages table 'auth',
+    // sort the results by date
+    //  print results
+    
+    // SELECT * From messages JOIN friends 'user' = messages 'auth
+    
+    // SELECT user FROM friends WHERE friend = me
+    //SELECT * FROM messages WHERE auth = the list above
+    
+    //  select * FROM messages INNER JOIN friends
+    //  ON messages.auth = friends.user
+    //  WHERE friend = me
+    
+    
+    
+    //  WHERE friends.friend = me
 
 $result = queryMysql("SELECT user FROM members ORDER BY user");
 $num    = $result->num_rows;

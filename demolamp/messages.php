@@ -15,7 +15,8 @@ if (isset($_POST['text'])) {
     if ($text != "") {
         $pm   = substr(sanitizeString($_POST['pm']),0,1);
         $time = time();
-        queryMysql("INSERT INTO messages VALUES(NULL, '$user','$view', '$pm', $time, '$text')");
+        //queryMysql("INSERT INTO messages VALUES(NULL, '$user','$view', '$pm', $time, '$text')");
+        queryMysql("INSERT INTO messages (auth, recip, pm, time, message) VALUES('$user','$view', '$pm', $time, '$text')");
     }
 }
 

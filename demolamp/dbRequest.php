@@ -34,8 +34,8 @@ $time = $_SESSION['messageDate'];
         $view = $user;
     }
 
-    $query  = "SELECT * FROM messages WHERE recip='$view' and time < '$time' ORDER BY time DESC LIMIT 10";
-    //$query  = "SELECT * FROM messages WHERE recip='$view' ORDER BY time DESC LIMIT 10";
+    //$query  = "SELECT * FROM messages WHERE recip='$view' and time < '$time' ORDER BY time DESC LIMIT 10";
+
     $result = queryMysql($query);
     $num    = $result->num_rows;
     
