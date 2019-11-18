@@ -17,7 +17,7 @@ echo <<<_INIT
         <script src='javascript.js?v1'></script>
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
        <link href="https://fonts.googleapis.com/css?family=Poppins|Roboto&display=swap" rel="stylesheet">
-        <link rel='stylesheet' href='css/styles.css?v26'>
+        <link rel='stylesheet' href='css/styles.css?v27'>
         <title>$clubstr: $userstr</title>
         </head>
 _INIT;

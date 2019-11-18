@@ -70,7 +70,7 @@ window.onload=function(){
                         
                         var newMessage = "<div class='messageContent'> Date: "
                         newMessage += value['time'];
-                        newMessage += " <a href='messages.php?view=";
+                        newMessage += " <a href='members.php?view=";
                         newMessage += value['auth'] + "'>" + value['auth'] + "</a> ";
                         if (value['pm'] == 0){
                             newMessage += "wrote a <em> public post</em>:<div>\"";

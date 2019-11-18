@@ -25,11 +25,15 @@ if (isset($_GET['view'])) {
     <h4>Currently Reading: $book</h4>";
     showProfile($view);
     echo "<h4>Reading Goal: $goal</h4><br>";
-    echo "<a href='messages.php?view=$view'>View $name Reviews</a></div>";
+    //echo "<a href='messages.php?view=$view'>View $name Reviews</a></div>";
+    echo "</div>";
     
     
     // **** Move messages here
     echo "<div id='messagesOuter'>";
+    if ($view != $user){
+        echo "<h3 id='reviewTitle'>Reviews By " . $view . "</h3>";
+    }
 
     echo "<div id='messagesContainer'>";
         echo "<h3 id='messagesTitle'>$name1</h3>";
@@ -66,13 +70,20 @@ if (isset($_GET['view'])) {
 
           if ($row['pm'] == 0 || $row['auth'] == $user || $row['recip'] == $user) {
               echo "<div class=messageContent>";
-              echo date('M jS \'y g:ia:', $row['time']);
-              echo " <a href='messages.php?view=" . $row['auth'] . "'>" . $row['auth']. "</a> ";
+              echo date('M jS \'y g:ia', $row['time']);
+              echo "<br>";
+              //echo " <a href='messages.php?view=" . $row['auth'] . "'>" . $row['auth']. "</a> ";
+              if ($view == $user){
 
-              if ($row['pm'] == 0)
-                  echo "wrote a <em>public post</em>:<div>&quot;" . $row['message'] . "&quot; ";
-              else
-                  echo "wrote a <em>private note</em>:<br><div>&quot;" . $row['message']. "&quot; ";
+                  echo " <a href='members.php?view=" . $row['auth'] . "'>" . $row['auth']. "</a> Reviewed:<br>";
+              }
+
+              echo "<div class='bookInfo'><span>" . $row['bookTitle'] . "</span> " . "<span>By " . $row['bookAutor'] . "</span></div><div>&quot;" . $row['message'] . "&quot; ";
+              
+//              if ($row['pm'] == 0)
+//                  echo "wrote a <em>Reviewed</em>:<div>&quot;" . $row['message'] . "&quot; ";
+//              else
+//                  echo "wrote a <em>private note</em>:<br><div>&quot;" . $row['message']. "&quot; ";
 
               if ($row['recip'] == $user)
                   echo "[<a href='messages.php?view=$view" . "&erase=" . $row['id'] . "'>Delete</a>]";

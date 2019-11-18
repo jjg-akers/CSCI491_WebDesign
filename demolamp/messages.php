@@ -73,7 +73,7 @@ for ($j = 0 ; $j < $num ; ++$j)
 
   if ($row['pm'] == 0 || $row['auth'] == $user || $row['recip'] == $user) {
       echo date('M jS \'y g:ia:', $row['time']);
-      echo " <a href='messages.php?view=" . $row['auth'] . "'>" . $row['auth']. "</a> ";
+      echo " <a href='members.php?view=" . $row['auth'] . "'>" . $row['auth']. "</a> ";
       
       if ($row['pm'] == 0)
           echo "wrote a <em>public review</em>:<div>For: " . $row['bookTitle'] . "<br>By: " . $row['bookAutor'] . "<br>&quot;" . $row['message'] . "&quot; ";
@@ -81,7 +81,7 @@ for ($j = 0 ; $j < $num ; ++$j)
           echo "wrote a <em>private note</em>:<br><div>&quot;" . $row['message']. "&quot; ";
 
       if ($row['recip'] == $user)
-          echo "[<a href='messages.php?view=$view" . "&erase=" . $row['id'] . "'>Delete</a>]";
+          echo "[<a href='members.php?view=$view" . "&erase=" . $row['id'] . "'>Delete</a>]";
       echo "</div>";
   }
 }
