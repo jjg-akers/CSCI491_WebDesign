@@ -7,28 +7,54 @@ if (!$loggedin) {
 }
 
 if (isset($_GET['view'])) {
-    echo "<div>";
-    echo "isset true";
-    echo "</div>";
+    
     $view = sanitizeString($_GET['view']);
+    $profileQuery = queryMysql("SELECT currentBookAuthor, bookGoal FROM profiles WHERE user = '$view'");
+    $profileQuery = $profileQuery->fetch_array(MYSQLI_ASSOC);
+    $book = $profileQuery['currentBookAuthor'];
+    $goal = $profileQuery['bookGoal'];
+    
+    //$row = $result->fetch_array(MYSQLI_ASSOC);
 
     if ($view == $user)
         $name = "Your";
     else
         $name = "$view's";
-
-    echo "<h3>$name Profile</h3>";
+    echo"<div id='homeprofile'>";
+    echo "<h3>$name Profile</h3>
+    <h4>Currently Reading: $book</h4>";
     showProfile($view);
-    echo "<a href='messages.php?view=$view'>View $name messages</a>";
+    echo "<h4>Reading Goal: $goal</h4><br>";
+    //echo "<a href='messages.php?view=$view'>View $name Reviews</a></div>";
+    echo "</div>";
     
-    echo "<div id='hidden'>$view</div>";
+    
     // **** Move messages here
-    echo "<div id=messagesOuter>";
+    echo "<div id='messagesOuter'>";
+    if ($view != $user){
+        echo "<h3 id='reviewTitle'>Reviews By " . $view . "</h3>";
+    }
+
     echo "<div id='messagesContainer'>";
-        echo "<h3 id='messagesTitle'>$name1 Messages</h3>";
+        echo "<h3 id='messagesTitle'>$name1</h3>";
         date_default_timezone_set('UTC');
+    
+        //  select * FROM messages INNER JOIN friends
+        //  ON messages.auth = friends.user
+        //  WHERE friend = me
         
+        
+
+    
+        //  WHERE friends.friend = me
+    // check who's page is being viewed. if user is viewing their home page, load their friends revies.
+    // Else, if user if looking at someone else's profile, load the other person's posts
+    if ($view == $user) {
+        $query = "SELECT * FROM messages INNER JOIN friends ON messages.auth = friends.user WHERE friend = '$view' ORDER BY time DESC LIMIT 5";
+    } else {
         $query  = "SELECT * FROM messages WHERE recip='$view' ORDER BY time DESC LIMIT 5";
+    }
+        
         $result = queryMysql($query);
         $num    = $result->num_rows;
     
@@ -39,18 +65,25 @@ if (isset($_GET['view'])) {
             // save the time
             //if ($messageDate != NULL){
             $_SESSION["messageDate"] = $row['time'];
-            echo $_SESSION['messageDate'];
+            //echo $_SESSION['messageDate'];
             
 
           if ($row['pm'] == 0 || $row['auth'] == $user || $row['recip'] == $user) {
               echo "<div class=messageContent>";
-              echo date('M jS \'y g:ia:', $row['time']);
-              echo " <a href='messages.php?view=" . $row['auth'] . "'>" . $row['auth']. "</a> ";
+              echo date('M jS \'y g:ia', $row['time']);
+              echo "<br>";
+              //echo " <a href='messages.php?view=" . $row['auth'] . "'>" . $row['auth']. "</a> ";
+              if ($view == $user){
 
-              if ($row['pm'] == 0)
-                  echo "wrote a <em>public post</em>:<div>&quot;" . $row['message'] . "&quot; ";
-              else
-                  echo "wrote a <em>private note</em>:<br><div>&quot;" . $row['message']. "&quot; ";
+                  echo " <a href='members.php?view=" . $row['auth'] . "'>" . $row['auth']. "</a> Reviewed:<br>";
+              }
+
+              echo "<div class='bookInfo'><span>" . $row['bookTitle'] . "</span> " . "<span>By " . $row['bookAutor'] . "</span></div><div>&quot;" . $row['message'] . "&quot; ";
+              
+//              if ($row['pm'] == 0)
+//                  echo "wrote a <em>Reviewed</em>:<div>&quot;" . $row['message'] . "&quot; ";
+//              else
+//                  echo "wrote a <em>private note</em>:<br><div>&quot;" . $row['message']. "&quot; ";
 
               if ($row['recip'] == $user)
                   echo "[<a href='messages.php?view=$view" . "&erase=" . $row['id'] . "'>Delete</a>]";
@@ -58,6 +91,7 @@ if (isset($_GET['view'])) {
               echo "</div>";
           }
         }
+    echo "<div id='hidden'>$view</div>";
     echo "</div>";
         
         
@@ -96,6 +130,29 @@ elseif (isset($_GET['remove'])) {
     $remove = sanitizeString($_GET['remove']);
     queryMysql("DELETE FROM friends WHERE user='$remove' AND friend='$user'");
 }
+    
+    //if i follow someone, user will get set to the person i am following,
+    //  and i will get set to friend
+    
+    // so i want to pull alll user's where i am listed as friend.
+    
+    // pull all users where i am listed as friend, join that table
+    //  on the user with messages table 'auth',
+    // sort the results by date
+    //  print results
+    
+    // SELECT * From messages JOIN friends 'user' = messages 'auth
+    
+    // SELECT user FROM friends WHERE friend = me
+    //SELECT * FROM messages WHERE auth = the list above
+    
+    //  select * FROM messages INNER JOIN friends
+    //  ON messages.auth = friends.user
+    //  WHERE friend = me
+    
+    
+    
+    //  WHERE friends.friend = me
 
 $result = queryMysql("SELECT user FROM members ORDER BY user");
 $num    = $result->num_rows;
