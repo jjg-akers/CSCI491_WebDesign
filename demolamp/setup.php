@@ -51,10 +51,11 @@ createTable('profiles',
             
 createTable('bookStores',
             'name VARCHAR(80),
-            link VARCHAR(80),
-            city VARCHAR(80),
-            state CHAR(2),
-            INDEX(state(2))');
+            Link VARCHAR(80),
+            Lity VARCHAR(80),
+            State CHAR(2),
+            INDEX(state(2))
+			engine=CONNECT table_type=JSON File_name='ListofStores.json';');
 ?>
 
     <p>The database is ready to go.</p>
