@@ -4,8 +4,9 @@ session_start();
 // initialize a SESSION varaible to track the date/time of messages
 $_SESSION["messageDate"] = NULL;
 
-$clubstr = 'Csci-491 Demo Lamp Stack Site';
+$clubstr = 'Indie Reads';
 $userstr = 'Welcome Guest';
+$logo = '';
 
 echo <<<_INIT
 <!DOCTYPE html> 
@@ -15,8 +16,8 @@ echo <<<_INIT
         <meta name='viewport' content='width=device-width, initial-scale=1'> 
         <script src='javascript.js?v1'></script>
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-        <link href="https://fonts.googleapis.com/css?family=Arsenal|Lora|Muli|Source+Sans+Pro|Playfair+Display&display=swap" rel="stylesheet">
-        <link rel='stylesheet' href='css/styles.css?v21'>
+       <link href="https://fonts.googleapis.com/css?family=Poppins|Roboto&display=swap" rel="stylesheet">
+        <link rel='stylesheet' href='css/styles.css?v27'>
         <title>$clubstr: $userstr</title>
         </head>
 _INIT;
@@ -35,7 +36,9 @@ echo <<<_HEADER_OPEN
     <body>
         <div id="wrapper">
         <header>
-            <div id='logo'>$clubstr</div>
+            <div id='logodiv'>
+<img border="0" alt="Indie Reads Logo" src="images/indiereads_logo.png">
+            </div>
 _HEADER_OPEN;
 
 if ($loggedin) {
@@ -43,11 +46,13 @@ echo <<<_LOGGEDIN
 
             <nav><ul>
                 <li><a href='members.php?view=$user'>Home</a></li>
+                <li><a href='messages.php'>Reviews</a></li>
                 <li><a href='members.php'>Members</a></li>
-                <li><a href='friends.php'>Friends</a></li>
-                <li><a href='messages.php'>Messages</a></li>
-                <li><a href='profile.php'>Edit Profile</a></li>
-                <li><a href='logout.php'>Log out</a></li>
+            
+                <li id="right-side"><a href='logout.php'>Log out</a></li>
+                <li id="right-side"><a href='profile.php'>Profile</a></li>          <li id="right-side"><a href='mystorewebsite.com'>Browse</a></li>
+                
+
             </ul></nav>
 _LOGGEDIN;
 } else {
@@ -57,14 +62,13 @@ echo <<<_GUEST
                 <li><a href='index.php'>Home</a></li>
                 <li><a href='signup.php'>Sign Up</a></li>
                 <li><a href='login.php'>Log In</a></li>
-            </ul></nav>
+            </ul></nav> 
 _GUEST;
  }
 
 echo <<<_HEADER_CLOSE
 
         </header>
-        <div class='username'>$userstr</div>
         <div id="content">
 _HEADER_CLOSE;
 
