@@ -11,7 +11,44 @@ function C(i) {
 }
 
 
+
+
+
+
+
+
 window.onload=function(){
+    
+    if (document.getElementById("storeSearch")){
+        var searchButton = document.getElementById("storeSearch");
+        searchButton.addEventListener("click", function(){
+            
+            
+            
+            var queryCity = document.getElementById("citySearch").value;
+            var queryState = document.getElementById("stateSearch").value;
+            
+            
+            window.alert(queryCity + " " + queryState);
+            //    $('#citySearch').val + $('#stateSearch').val;
+            //window.alert('soething');
+            //console.log(queryString);
+            //if (!$queryString == ""){
+                //window.alert($queryString);
+                //query database
+            //} else {
+                //alert("Select a State");
+            //}
+                                      
+          } ) // end function
+    }
+    
+    
+    
+    
+    
+    
+    
     // wrap listener in an if statement so it only attemps when on correct pages
     if (document.getElementById("messagesContainer")){
         var getView = document.getElementById("hidden").textContent;

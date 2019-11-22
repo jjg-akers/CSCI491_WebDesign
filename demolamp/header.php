@@ -14,10 +14,10 @@ echo <<<_INIT
     <head>
         <meta charset='utf-8'>
         <meta name='viewport' content='width=device-width, initial-scale=1'> 
-        <script src='javascript.js?v1'></script>
+        <script src='javascript.js?v10'></script>
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
        <link href="https://fonts.googleapis.com/css?family=Poppins|Roboto&display=swap" rel="stylesheet">
-        <link rel='stylesheet' href='css/styles.css?v27'>
+        <link rel='stylesheet' href='css/styles.css?v28'>
         <title>$clubstr: $userstr</title>
         </head>
 _INIT;
