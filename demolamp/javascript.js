@@ -17,19 +17,120 @@ function C(i) {
 
 
 
+
 window.onload=function(){
     
     if (document.getElementById("storeSearch")){
         var searchButton = document.getElementById("storeSearch");
         searchButton.addEventListener("click", function(){
+            if ($('#storeSearch').text() != 'Search') {
+                console.log($('#storeSearch').text());
+                $('#storeSearch').text('Search');
+                $("#store").toggle();
+                $(".secretForm").toggle();;
+                
+            } else {
+            
+            // clear the drop down menu
+            $('#currentStore').html("");
+            
             
             
             
             var queryCity = document.getElementById("citySearch").value;
             var queryState = document.getElementById("stateSearch").value;
             
+            // if query City and State are set, 
+                //querey with both
+            // otherwise
+                // query with only city
             
-            window.alert(queryCity + " " + queryState);
+            // set up request URL
+            if (queryCity != "" && queryState != ""){
+                var reqURL = "bookStoreReq.php?city=" +queryCity + "&state=" + queryState;
+                console.log(reqURL);
+            } else if (queryState != ""){
+                var reqURL = "bookStoreReq.php?state=" + queryState;
+            }
+            
+            //send ajax
+            $.ajax({method: "GET", url: reqURL}).done(function( data ) {
+                var reqResults = $.parseJSON(data);
+                //console.log(data);
+                //window.alert("the query: " + data);
+
+                
+                            // add the options returned from the search
+                //<option value="AL">Alabama</option>
+
+                // loop through the returned values and create new messages
+                $.each(reqResults, function(key, value){
+                    var newOption = "<option value=" + "'" + value['name'] + "'>";
+                    newOption += value['name'];
+                    newOption += "</option>";
+                    $('#currentStore').append(newOption);
+                    console.log("option: " + newOption);
+                })
+                $("#store").toggle();
+                $(".secretForm").toggle();;
+                $('#storeSearch').text('Reset Search')
+                
+                
+                //reset on selection
+                var selection = document.getElementById('selection');
+                selection.addEventListener('click', function() {
+                    $('#storeSearch').text('Search');
+                    $("#store").toggle();
+                    $(".secretForm").toggle();;
+                });
+                
+                //$('.secretForm').css("display", "block");
+                
+                
+                
+            });
+            
+            }
+//                        
+//                        //if (value['pm'] == 0 || value['auth'] == $user)
+//                        
+//                        var newMessage = "<div class='messageContent'> Date: "
+//                        newMessage += value['time'];
+//                        newMessage += " <a href='members.php?view=";
+//                        newMessage += value['auth'] + "'>" + value['auth'] + "
+            
+            
+            
+            // query content from DB and add into divs
+             //   var requestURL = "dbRequest.php?city=" + getView;
+                //console.log("request: ", requestURL);
+                //console.log("something esle");
+//
+//                $.ajax({method: "GET", url: requestURL}).done(function( data ) {
+//                    // parse result
+//                    var result = $.parseJSON(data);
+//                    console.log(data);
+//                    
+//                    // loop through the returned values and create new messages
+//                    $.each(result, function(key, value){
+//                        
+//                        //if (value['pm'] == 0 || value['auth'] == $user)
+//                        
+//                        var newMessage = "<div class='messageContent'> Date: "
+//                        newMessage += value['time'];
+//                        newMessage += " <a href='members.php?view=";
+//                        newMessage += value['auth'] + "'>" + value['auth'] + "</a> 
+//            
+//            
+//            
+            
+            
+            
+            
+            
+            
+            
+            //window.alert();
             //    $('#citySearch').val + $('#stateSearch').val;
             //window.alert('soething');
             //console.log(queryString);
@@ -92,8 +193,8 @@ window.onload=function(){
                 // add more message divs
                 // query content from DB and add into divs
                 var requestURL = "dbRequest.php?view=" + getView;
-                console.log("request: ", requestURL);
-                console.log("something esle");
+                //console.log("request: ", requestURL);
+                //console.log("something esle");
 
                 $.ajax({method: "GET", url: requestURL}).done(function( data ) {
                     // parse result
