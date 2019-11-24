@@ -41,19 +41,20 @@ createTable('profiles',
             favBook VARCHAR(80),
             favGenre VARCHAR(80),
             currentBookAuthor VARCHAR(80),
-            bookGoal INT,
+            bookGoal VARCHAR(80),
             bookGoalProgress INT,
             yourStore VARCHAR(80),
             city VARCHAR(80),
             state CHAR(2),
             zipCode CHAR(5),
+            storeURL VARCHAR(80),
             INDEX(user(6))');
             
 createTable('bookStores',
             'name VARCHAR(80),
-            link VARCHAR(80),
-            city VARCHAR(80),
-            state CHAR(2),
+            Link VARCHAR(80),
+            Lity VARCHAR(80),
+            State CHAR(2),
             INDEX(state(2))');
 ?>
 

@@ -76,7 +76,7 @@ for ($j = 0 ; $j < $num ; ++$j)
       echo " <a href='members.php?view=" . $row['auth'] . "'>" . $row['auth']. "</a> ";
       
       if ($row['pm'] == 0)
-          echo "wrote a <em>public review</em>:<div>For: " . $row['bookTitle'] . "<br>By: " . $row['bookAutor'] . "<br>&quot;" . $row['message'] . "&quot; ";
+          echo "wrote a <em>public review</em>:<div>For: " . $row['bookTitle'] . "<br>by: " . $row['bookAutor'] . "<br>&quot;" . $row['message'] . "&quot; ";
       else
           echo "wrote a <em>private note</em>:<br><div>&quot;" . $row['message']. "&quot; ";
 

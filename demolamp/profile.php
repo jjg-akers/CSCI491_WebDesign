@@ -61,7 +61,7 @@ else {
 
     //name='bookGoal'
 // reading goal
-if (($_POST['bookGoal']) != 0) {
+if (($_POST['bookGoal']) != "") {
     //echo "<div> in if isset bookGoal </div>";
     $bookGoal = sanitizeString($_POST['bookGoal']);
     $bookGoal = preg_replace('/\s\s+/', ' ', $bookGoal);
@@ -81,7 +81,7 @@ else {
 
         //echo "<div> bookGoal: $bookGoal </div>";
     }
-    else $bookGoal = 0;
+    else $bookGoal = "Set Your Goal";
 }
     
 // OLD COLD ********
@@ -150,6 +150,80 @@ if (isset($_FILES['image']['name'])) {
 }
 
 echo <<<_END
+    
+    <div id='bookStoreSearch'>
+    
+
+            <label for="currentStore" class='secretForm'>Select Bookstore: </label>
+            <select id='currentStore' class='secretForm' name='currentStore'>
+            </select>
+            <button id='selection' class='secretForm'>Set</button>
+
+    
+        <div id='store'>
+            <label for="site-search">Search For A Bookstore: </label>
+            <input type="search" id="citySearch" name="citySearch" placeholder='Bozeman'
+            aria-label="Search through site content">
+            <select id='stateSearch' class=' name='stateSearch'>
+            <option value="AL">Alabama</option>
+            <option value="AK">Alaska</option>
+            <option value="AZ">Arizona</option>
+            <option value="AR">Arkansas</option>
+            <option value="CA">California</option>
+            <option value="CO">Colorado</option>
+            <option value="CT">Connecticut</option>
+            <option value="DE">Delaware</option>
+            <option value="DC">District Of Columbia</option>
+            <option value="FL">Florida</option>
+            <option value="GA">Georgia</option>
+            <option value="HI">Hawaii</option>
+            <option value="ID">Idaho</option>
+            <option value="IL">Illinois</option>
+            <option value="IN">Indiana</option>
+            <option value="IA">Iowa</option>
+            <option value="KS">Kansas</option>
+            <option value="KY">Kentucky</option>
+            <option value="LA">Louisiana</option>
+            <option value="ME">Maine</option>
+            <option value="MD">Maryland</option>
+            <option value="MA">Massachusetts</option>
+            <option value="MI">Michigan</option>
+            <option value="MN">Minnesota</option>
+            <option value="MS">Mississippi</option>
+            <option value="MO">Missouri</option>
+            <option value="MT">Montana</option>
+            <option value="NE">Nebraska</option>
+            <option value="NV">Nevada</option>
+            <option value="NH">New Hampshire</option>
+            <option value="NJ">New Jersey</option>
+            <option value="NM">New Mexico</option>
+            <option value="NY">New York</option>
+            <option value="NC">North Carolina</option>
+            <option value="ND">North Dakota</option>
+            <option value="OH">Ohio</option>
+            <option value="OK">Oklahoma</option>
+            <option value="OR">Oregon</option>
+            <option value="PA">Pennsylvania</option>
+            <option value="RI">Rhode Island</option>
+            <option value="SC">South Carolina</option>
+            <option value="SD">South Dakota</option>
+            <option value="TN">Tennessee</option>
+            <option value="TX">Texas</option>
+            <option value="UT">Utah</option>
+            <option value="VT">Vermont</option>
+            <option value="VA">Virginia</option>
+            <option value="WA">Washington</option>
+            <option value="WV">West Virginia</option>
+            <option value="WI">Wisconsin</option>
+            <option value="WY">Wyoming</option>
+            </select>
+        </div>
+        <button id='storeSearch'>Search</button>
+        <div id='storeSet'>
+        </div>
+    </div>
+    
+    
     <form method='post' action='profile.php' enctype='multipart/form-data'>
         <h3>Enter or edit your bio</h3>
         <textarea name='text'>$text</textarea><br>
@@ -157,11 +231,21 @@ echo <<<_END
         <input type='text' name='currentBook' placeholder='$currentBook'><br>
         <label for='bookGoal'>My Reading Goal:</label>
         <input type='text' name='bookGoal' placeholder='$bookGoal'> <br>
+    
+    
+        
+    
         <h3>Upload an image</h3>
         Image: <br>
         <input type='file' name='image' size='14'><br><br>
         <input type='submit' value='Save Profile'>
     </form>
+    
+    
+    
+
+    <br>
+    
 _END;
 
 echo "<br><hr>";

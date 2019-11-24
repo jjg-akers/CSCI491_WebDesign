@@ -1,9 +1,9 @@
 <?php
 $dbhost  = 'localhost';
 
-$dbname  = 'db04';   // Modify these...
-$dbuser  = 'user04';   // ...variables according
-$dbpass  = '04cowp';   // ...to your installation
+$dbname  = 'db65';   // Modify these...
+$dbuser  = 'user65';   // ...variables according
+$dbpass  = '65caps';   // ...to your installation
 
 
 $connection = new mysqli($dbhost, $dbuser, $dbpass, $dbname);
@@ -49,7 +49,23 @@ function showProfile($user) {
     if ($result->num_rows) {
         $row = $result->fetch_array(MYSQLI_ASSOC);
         echo stripslashes($row['text']) . "<br style='clear:left;'><br>";
+        echo "<div id='profilePreview'>";
+        echo "Currently Reading: " . $row['currentBookAuthor'] . "<br>";
+        echo "Book Goal: " . $row['bookGoal'] . "<br>";
+        //echo "Your Store: " . $row['yourStore'] . "<br>";
+        echo "Your Store: <a id='URLLink' target='_blank' href=" . $row['storeURL'] . ">" . $row['yourStore'] . "</a>";
+        echo "</div>";
     }
     else echo "<p>Nothing to see here, yet</p><br>";
+}
+    
+function getBrowse($user){
+    $result = queryMysql("SELECT storeURL FROM profiles WHERE user='$user'");
+    $row = $result->fetch_array(MYSQLI_ASSOC);
+    if ($result->num_rows){
+        return $row['storeURL'];
+    }else{
+        return 'Browse.php';
+    }
 }
 ?>
