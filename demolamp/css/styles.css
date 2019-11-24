@@ -255,3 +255,10 @@ input[type=button], input[type=submit], input[type=reset] {
 #store {
     display: inline-block;
 }
+
+#bookStoreSearch {
+    border-style: solid;
+    margin-top: 10px;
+    padding: 10px;
+    
+}

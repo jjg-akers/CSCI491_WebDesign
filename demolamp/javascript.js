@@ -25,9 +25,10 @@ window.onload=function(){
         searchButton.addEventListener("click", function(){
             if ($('#storeSearch').text() != 'Search') {
                 console.log($('#storeSearch').text());
+                console.log("something");
                 $('#storeSearch').text('Search');
                 $("#store").toggle();
-                $(".secretForm").toggle();;
+                $(".secretForm").css("display", "none");
                 
             } else {
             
@@ -71,26 +72,20 @@ window.onload=function(){
                     $('#currentStore').append(newOption);
                     console.log("option: " + newOption);
                 })
-                $("#store").toggle();
-                $(".secretForm").toggle();;
-                $('#storeSearch').text('Reset Search')
-                
-                
-                //reset on selection
-                var selection = document.getElementById('selection');
-                selection.addEventListener('click', function() {
-                    $('#storeSearch').text('Search');
-                    $("#store").toggle();
-                    $(".secretForm").toggle();;
-                });
+
                 
                 //$('.secretForm').css("display", "block");
                 
                 
                 
-            });
+                });  // end ajax
+
+                $("#store").toggle();
+                $(".secretForm").toggle();;
+                $('#storeSearch').text('Reset Search')
             
             }
+
 //                        
 //                        //if (value['pm'] == 0 || value['auth'] == $user)
 //                        
@@ -141,7 +136,16 @@ window.onload=function(){
                 //alert("Select a State");
             //}
                                       
-          } ) // end function
+          } ) // end event listener for search button
+        
+                                    //reset on selection
+        var selection = document.getElementById('selection');
+        selection.addEventListener('click', function() {
+            $('#storeSearch').text('Search');
+            $('#store').toggle();
+            $('.secretForm').toggle();
+            $('#currentStore').html("");
+        });
     }
     
     
