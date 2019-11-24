@@ -81,7 +81,7 @@ if (isset($_GET['view'])) {
                   echo " <a href='members.php?view=" . $row['auth'] . "'>" . $row['auth']. "</a> Reviewed:<br>";
               }
 
-              echo "<div class='bookInfo'><span>" . $row['bookTitle'] . "</span> " . "<span>By " . $row['bookAutor'] . "</span></div><div>&quot;" . $row['message'] . "&quot; ";
+              echo "<div class='bookInfo'><span id='bookTitle'>" . $row['bookTitle'] .  " </span> " . " <span> by " . $row['bookAutor'] . "</span></div><div>&quot;" . $row['message'] . "&quot; ";
               
 //              if ($row['pm'] == 0)
 //                  echo "wrote a <em>Reviewed</em>:<div>&quot;" . $row['message'] . "&quot; ";
