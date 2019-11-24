@@ -12,12 +12,6 @@ function C(i) {
 
 
 
-
-
-
-
-
-
 window.onload=function(){
     
     if (document.getElementById("storeSearch")){

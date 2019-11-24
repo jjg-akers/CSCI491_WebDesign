@@ -9,6 +9,10 @@ $result = queryMysql("SELECT * FROM profiles WHERE user='$user'");
     $texta = stripslashes($a['text']);
     $book = $a['currentBookAuthor'];
     $bookG = stripslashes($a['bookGoal']);
+    //echo "<div> top bookG: ";
+    //echo $bookG;
+    //echo $a['bookGoal'];
+    //echo "</div>";
 
 
     //echo "<div> first result: number - $numberOfResults, text - $texta, book - $book, bookG $bookG </div>";
@@ -37,19 +41,25 @@ $text = stripslashes(preg_replace('/\s\s+/', ' ', $text));
     
 // currently reading
 if (($_POST['currentBook']) != "") {
-    //echo "<div> in if isset </div>";
+    //echo "<div> in if isset currentBook </div>";
     $currentBook = sanitizeString($_POST['currentBook']);
     $currentBook = preg_replace('/\s\s+/', ' ', $currentBook);
 
-    if ($result->num_rows)
+    if ($result->num_rows) {
+        //echo "<div> in if result num rows current book '$currentBook'</div>";
         //$row = $result->fetch_array(MYSQLI_ASSOC);
         queryMysql("UPDATE profiles SET currentBookAuthor='$currentBook' where user='$user'");
         //echo "<div> after query </div>";
 
-    else queryMysql("INSERT INTO profiles (user, currentBookAuthor) VALUES('$user', '$currentBook')");
+    } else {
+        //echo "<div> in else INSERT currentbook </div>";
+
+        queryMysql("INSERT INTO profiles (user, currentBookAuthor) VALUES('$user', '$currentBook')");
+    }
 }
 else {
     if ($result->num_rows && $book != "") {
+        //echo "<div> in else currentbook </div>";
         //$row  = $result->fetch_array(MYSQLI_ASSOC);
         //$currentBook = stripslashes($row['currentBookAuthor']);
         $currentBook = stripslashes($book);
@@ -66,15 +76,28 @@ if (($_POST['bookGoal']) != "") {
     $bookGoal = sanitizeString($_POST['bookGoal']);
     $bookGoal = preg_replace('/\s\s+/', ' ', $bookGoal);
 
-    if ($result->num_rows)
+    if ($result->num_rows){
+        //echo "<div> in resul num rows, bookGoal </div>";
         //$row = $result->fetch_array(MYSQLI_ASSOC);
         queryMysql("UPDATE profiles SET bookGoal='$bookGoal' where user='$user'");
         //echo "<div> after query </div>";
 
-    else queryMysql("INSERT INTO profiles (user, bookGoal) VALUES('$user', '$bookGoal')");
+    } else {
+        //echo "<div> in else INSERT </div>";
+
+        queryMysql("INSERT INTO profiles (user, bookGoal) VALUES('$user', '$bookGoal')");
+    }
 }
 else {
-    if ($result->num_rows && $bookG != "") {
+    //echo "<div> in first else bookGoal </div>";
+    //echo "<div> numrows: ";
+    //echo $result->num_rows;
+    //echo "bookG: ";
+    //echo $bookG;
+    //echo "</div>";
+    if ($result->num_rows && $bookG != NULL) {
+        //echo "<div> in else bookGoal </div>";
+
         //$row  = $result->fetch_array(MYSQLI_ASSOC);
         //$bookGoal = stripslashes($row['bookGoal']);
         $bookGoal = stripslashes($bookG);
@@ -162,7 +185,7 @@ echo <<<_END
     
         <div id='store'>
             <label for="site-search">Search For A Bookstore: </label>
-            <input type="search" id="citySearch" name="citySearch" placeholder='Bozeman'
+            <input type="search" id="citySearch" name="citySearch" placeholder='City'
             aria-label="Search through site content">
             <select id='stateSearch' class=' name='stateSearch'>
             <option value="AL">Alabama</option>
@@ -232,18 +255,11 @@ echo <<<_END
         <label for='bookGoal'>My Reading Goal:</label>
         <input type='text' name='bookGoal' placeholder='$bookGoal'> <br>
     
-    
-        
-    
         <h3>Upload an image</h3>
         Image: <br>
         <input type='file' name='image' size='14'><br><br>
         <input type='submit' value='Save Profile'>
     </form>
-    
-    
-    
-
     <br>
     
 _END;

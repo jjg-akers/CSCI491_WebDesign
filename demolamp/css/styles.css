@@ -310,5 +310,8 @@ input[type=button], input[type=submit], input[type=reset] {
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
   background: #0a333c;
->>>>>>> upstream/style
+}
+
+#URLLink {
+    color: black;
 }
