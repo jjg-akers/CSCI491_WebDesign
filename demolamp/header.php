@@ -17,7 +17,7 @@ echo <<<_INIT
         <script src='javascript.js?v1'></script>
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
        <link href="https://fonts.googleapis.com/css?family=Poppins|Roboto&display=swap" rel="stylesheet">
-        <link rel='stylesheet' href='css/styles.css?v27'>
+        <link rel='stylesheet' href='css/styles.css?v29.111'>
         <title>$clubstr: $userstr</title>
         </head>
 _INIT;
@@ -37,7 +37,7 @@ echo <<<_HEADER_OPEN
         <div id="wrapper">
         <header>
             <div id='logodiv'>
-<img border="0" alt="Indie Reads Logo" src="images/indiereads_logo.png">
+<img border="0" alt="Indie Reads Logo" src="images/Indiereadslogo.png">
             </div>
 _HEADER_OPEN;
 
@@ -50,7 +50,7 @@ echo <<<_LOGGEDIN
                 <li><a href='members.php'>Members</a></li>
             
                 <li id="right-side"><a href='logout.php'>Log out</a></li>
-                <li id="right-side"><a href='profile.php'>Profile</a></li>          <li id="right-side"><a href='mystorewebsite.com'>Browse</a></li>
+                <li id="right-side"><a href='profile.php'>Profile</a></li>          <li id="right-side"><a href='browse.php'>Browse</a></li>
                 
 
             </ul></nav>
