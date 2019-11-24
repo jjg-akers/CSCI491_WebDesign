@@ -247,3 +247,18 @@ input[type=button], input[type=submit], input[type=reset] {
 .bookInfo{
     display: inline-block;
 }
+
+.secretForm {
+    display: none;
+}
+
+#store {
+    display: inline-block;
+}
+
+#bookStoreSearch {
+    border-style: solid;
+    margin-top: 10px;
+    padding: 10px;
+    
+}

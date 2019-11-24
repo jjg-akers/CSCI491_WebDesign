@@ -23,7 +23,9 @@ if (isset($_GET['view'])) {
     echo"<div id='homeprofile'>";
     echo "<h3>$name Profile</h3>
     <h4>Currently Reading: $book</h4>";
+    
     showProfile($view);
+    
     echo "<h4>Reading Goal: $goal</h4><br>";
     //echo "<a href='messages.php?view=$view'>View $name Reviews</a></div>";
     echo "</div>";

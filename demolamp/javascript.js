@@ -11,7 +11,153 @@ function C(i) {
 }
 
 
+
+
+
+
+
+
+
 window.onload=function(){
+    
+    if (document.getElementById("storeSearch")){
+        var reqResults;
+        var storeResults = {};
+        //var storeName;
+        //var storeURL;
+        
+        var searchButton = document.getElementById("storeSearch");
+        searchButton.addEventListener("click", function(){
+            if ($('#storeSearch').text() != 'Search') {
+                console.log($('#storeSearch').text());
+                console.log("something");
+                $('#storeSearch').text('Search');
+                $("#store").toggle();
+                $(".secretForm").css("display", "none");
+                
+            } else {
+            
+            // clear the drop down menu
+            $('#currentStore').html("");
+            
+            
+            
+            
+            var queryCity = document.getElementById("citySearch").value;
+            var queryState = document.getElementById("stateSearch").value;
+            
+            // if query City and State are set, 
+                //querey with both
+            // otherwise
+                // query with only city
+            
+            // set up request URL
+            if (queryCity != "" && queryState != ""){
+                var reqURL = "bookStoreReq.php?city=" +queryCity + "&state=" + queryState;
+                //console.log(reqURL);
+            } else if (queryState != ""){
+                var reqURL = "bookStoreReq.php?state=" + queryState;
+            }
+            
+            //send ajax
+            $.ajax({method: "GET", url: reqURL}).done(function( data ) {
+                reqResults = $.parseJSON(data);
+                //console.log(data);
+                //window.alert("the query: " + data);
+
+                
+                            // add the options returned from the search
+                //<option value="AL">Alabama</option>
+
+                // loop through the returned values and create new messages
+                $.each(reqResults, function(key, value){
+                    
+                    //capitals.set("AR", "Little Rock");
+                    storeName = value['name'];
+                    storeURL = value['link'];
+                    storeResults[storeName] = storeURL;
+                    
+                    //var keys = storeResu
+                    
+                    //console.log('storeResults: ' + Object.keys(storeResults));
+                                //Object.keys(storeResults));
+                    //storeName = value['name'];
+                    //storeURL = value['link'];
+                    //console.log('storename: ' + storeName + ' link: ' + storeURL);
+
+                    
+                    var newOption = "<option value=" + "'" + value['name'] + "'>";
+                    newOption += value['name'];
+                    newOption += "</option>";
+                    $('#currentStore').append(newOption);
+                    console.log("option: " + newOption);
+                })
+
+                
+                //$('.secretForm').css("display", "block");
+                
+                
+                
+                });  // end ajax
+                
+                // hide search and show results of search
+                $("#store").toggle();
+                $(".secretForm").toggle();
+                $('#storeSearch').text('Reset Search');
+            
+            }         
+                                     
+          } ) // end event listener for search button
+        
+        // Send store info to DB when user hits set button
+        var selection = document.getElementById('selection');
+        selection.addEventListener('click', function() {
+            
+            // get the value chosen from drop down
+            var storeChoiceStr = $("#currentStore :selected").text();
+            var storeChoiceURL = storeResults[storeChoiceStr];
+            
+            //console.log("storeChoice: " + storeChoiceStr);
+            //console.log(storeResults[storeChoiceStr]);
+            
+            // make ajax post to store choice in database
+            
+            $.ajax({method: "POST", url: "bookStorePost.php", data: {"yourStore": storeChoiceStr, "storeURL": storeChoiceURL},
+             }).done(function( data ) { 
+                var postResult = $.parseJSON(data); 
+                
+                //var str = '';
+                
+//                // check for successful
+//                if(postResult == 1) {
+//                  str = 'User record saved successfully.';
+//                
+//                }else if( postResult == 2) {
+//                  str == 'All fields are required.';
+//                } else{
+//                  str = 'User data could not be saved. Please try again'; 
+//                }
+                
+                console.log('post result: ' + postResult);
+                
+                // send
+            }) // end function
+            
+            
+            //reset on selection
+            $('#storeSearch').text('Search');
+            $('#store').toggle();
+            $('.secretForm').toggle();
+            $('#currentStore').html("");
+        });
+    }
+    
+    
+    
+    
+    
+    
+    
     // wrap listener in an if statement so it only attemps when on correct pages
     if (document.getElementById("messagesContainer")){
         var getView = document.getElementById("hidden").textContent;
@@ -55,8 +201,8 @@ window.onload=function(){
                 // add more message divs
                 // query content from DB and add into divs
                 var requestURL = "dbRequest.php?view=" + getView;
-                console.log("request: ", requestURL);
-                console.log("something esle");
+                //console.log("request: ", requestURL);
+                //console.log("something esle");
 
                 $.ajax({method: "GET", url: requestURL}).done(function( data ) {
                     // parse result
