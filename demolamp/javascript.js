@@ -21,6 +21,11 @@ function C(i) {
 window.onload=function(){
     
     if (document.getElementById("storeSearch")){
+        var reqResults;
+        var storeResults = {};
+        //var storeName;
+        //var storeURL;
+        
         var searchButton = document.getElementById("storeSearch");
         searchButton.addEventListener("click", function(){
             if ($('#storeSearch').text() != 'Search') {
@@ -49,14 +54,14 @@ window.onload=function(){
             // set up request URL
             if (queryCity != "" && queryState != ""){
                 var reqURL = "bookStoreReq.php?city=" +queryCity + "&state=" + queryState;
-                console.log(reqURL);
+                //console.log(reqURL);
             } else if (queryState != ""){
                 var reqURL = "bookStoreReq.php?state=" + queryState;
             }
             
             //send ajax
             $.ajax({method: "GET", url: reqURL}).done(function( data ) {
-                var reqResults = $.parseJSON(data);
+                reqResults = $.parseJSON(data);
                 //console.log(data);
                 //window.alert("the query: " + data);
 
@@ -66,6 +71,21 @@ window.onload=function(){
 
                 // loop through the returned values and create new messages
                 $.each(reqResults, function(key, value){
+                    
+                    //capitals.set("AR", "Little Rock");
+                    storeName = value['name'];
+                    storeURL = value['link'];
+                    storeResults[storeName] = storeURL;
+                    
+                    //var keys = storeResu
+                    
+                    //console.log('storeResults: ' + Object.keys(storeResults));
+                                //Object.keys(storeResults));
+                    //storeName = value['name'];
+                    //storeURL = value['link'];
+                    //console.log('storename: ' + storeName + ' link: ' + storeURL);
+
+                    
                     var newOption = "<option value=" + "'" + value['name'] + "'>";
                     newOption += value['name'];
                     newOption += "</option>";
@@ -79,68 +99,52 @@ window.onload=function(){
                 
                 
                 });  // end ajax
-
+                
+                // hide search and show results of search
                 $("#store").toggle();
-                $(".secretForm").toggle();;
-                $('#storeSearch').text('Reset Search')
+                $(".secretForm").toggle();
+                $('#storeSearch').text('Reset Search');
             
-            }
-
-//                        
-//                        //if (value['pm'] == 0 || value['auth'] == $user)
-//                        
-//                        var newMessage = "<div class='messageContent'> Date: "
-//                        newMessage += value['time'];
-//                        newMessage += " <a href='members.php?view=";
-//                        newMessage += value['auth'] + "'>" + value['auth'] + "
-            
-            
-            
-            // query content from DB and add into divs
-             //   var requestURL = "dbRequest.php?city=" + getView;
-                //console.log("request: ", requestURL);
-                //console.log("something esle");
-//
-//                $.ajax({method: "GET", url: requestURL}).done(function( data ) {
-//                    // parse result
-//                    var result = $.parseJSON(data);
-//                    console.log(data);
-//                    
-//                    // loop through the returned values and create new messages
-//                    $.each(result, function(key, value){
-//                        
-//                        //if (value['pm'] == 0 || value['auth'] == $user)
-//                        
-//                        var newMessage = "<div class='messageContent'> Date: "
-//                        newMessage += value['time'];
-//                        newMessage += " <a href='members.php?view=";
-//                        newMessage += value['auth'] + "'>" + value['auth'] + "</a> 
-//            
-//            
-//            
-            
-            
-            
-            
-            
-            
-            
-            //window.alert();
-            //    $('#citySearch').val + $('#stateSearch').val;
-            //window.alert('soething');
-            //console.log(queryString);
-            //if (!$queryString == ""){
-                //window.alert($queryString);
-                //query database
-            //} else {
-                //alert("Select a State");
-            //}
-                                      
+            }         
+                                     
           } ) // end event listener for search button
         
-                                    //reset on selection
+        // Send store info to DB when user hits set button
         var selection = document.getElementById('selection');
         selection.addEventListener('click', function() {
+            
+            // get the value chosen from drop down
+            var storeChoiceStr = $("#currentStore :selected").text();
+            var storeChoiceURL = storeResults[storeChoiceStr];
+            
+            //console.log("storeChoice: " + storeChoiceStr);
+            //console.log(storeResults[storeChoiceStr]);
+            
+            // make ajax post to store choice in database
+            
+            $.ajax({method: "POST", url: "bookStorePost.php", data: {"yourStore": storeChoiceStr, "storeURL": storeChoiceURL},
+             }).done(function( data ) { 
+                var postResult = $.parseJSON(data); 
+                
+                //var str = '';
+                
+//                // check for successful
+//                if(postResult == 1) {
+//                  str = 'User record saved successfully.';
+//                
+//                }else if( postResult == 2) {
+//                  str == 'All fields are required.';
+//                } else{
+//                  str = 'User data could not be saved. Please try again'; 
+//                }
+                
+                console.log('post result: ' + postResult);
+                
+                // send
+            }) // end function
+            
+            
+            //reset on selection
             $('#storeSearch').text('Search');
             $('#store').toggle();
             $('.secretForm').toggle();

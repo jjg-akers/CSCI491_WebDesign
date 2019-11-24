@@ -168,14 +168,16 @@ echo <<<_END
     </form>
     
     <div id='bookStoreSearch'>
-        <label for="currentStore" class='secretForm'>Select Bookstore: </label>
-        <select id='currentStore' class='secretForm' name='currentStore'>
-        </select>
-        <button id='selection' class='secretForm'>Set</button>
     
+
+            <label for="currentStore" class='secretForm'>Select Bookstore: </label>
+            <select id='currentStore' class='secretForm' name='currentStore'>
+            </select>
+            <button id='selection' class='secretForm'>Set</button>
+
     
         <div id='store'>
-            <label for="site-search">Search For Your Bookstore: </label>
+            <label for="site-search">Search For A Bookstore: </label>
             <input type="search" id="citySearch" name="citySearch" placeholder='Bozeman'
             aria-label="Search through site content">
             <select id='stateSearch' class=' name='stateSearch'>
@@ -233,6 +235,8 @@ echo <<<_END
             </select>
         </div>
         <button id='storeSearch'>Search</button>
+        <div id='storeSet'>
+        </div>
     </div>
     
 

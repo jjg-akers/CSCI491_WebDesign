@@ -47,6 +47,7 @@ createTable('profiles',
             city VARCHAR(80),
             state CHAR(2),
             zipCode CHAR(5),
+            storeURL VARCHAR(80),
             INDEX(user(6))');
             
 createTable('bookStores',

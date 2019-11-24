@@ -49,6 +49,12 @@ function showProfile($user) {
     if ($result->num_rows) {
         $row = $result->fetch_array(MYSQLI_ASSOC);
         echo stripslashes($row['text']) . "<br style='clear:left;'><br>";
+        echo "<div id='profilePreview'>";
+        echo "Currently Reading: " . $row['currentBookAuthor'] . "<br>";
+        echo "Book Goal: " . $row['bookGoal'] . "<br>";
+        echo "Your Store: " . $row['yourStore'] . "<br>";
+        echo "Store URL: " . $row['storeURL'];
+        echo "</div>";
     }
     else echo "<p>Nothing to see here, yet</p><br>";
 }
