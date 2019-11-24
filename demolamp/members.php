@@ -9,10 +9,10 @@ if (!$loggedin) {
 if (isset($_GET['view'])) {
     
     $view = sanitizeString($_GET['view']);
-    $profileQuery = queryMysql("SELECT currentBookAuthor, bookGoal FROM profiles WHERE user = '$view'");
-    $profileQuery = $profileQuery->fetch_array(MYSQLI_ASSOC);
-    $book = $profileQuery['currentBookAuthor'];
-    $goal = $profileQuery['bookGoal'];
+    //$profileQuery = queryMysql("SELECT currentBookAuthor, bookGoal FROM profiles WHERE user = '$view'");
+    //$profileQuery = $profileQuery->fetch_array(MYSQLI_ASSOC);
+    //$book = $profileQuery['currentBookAuthor'];
+    //$goal = $profileQuery['bookGoal'];
     
     //$row = $result->fetch_array(MYSQLI_ASSOC);
 
@@ -21,12 +21,13 @@ if (isset($_GET['view'])) {
     else
         $name = "$view's";
     echo"<div id='homeprofile'>";
-    echo "<h3>$name Profile</h3>
-    <h4>Currently Reading: $book</h4>";
+    echo "<h3>$name Profile</h3>";
+    echo "<hr>";
+    //<h4>Currently Reading: $book</h4>";
     
     showProfile($view);
     
-    echo "<h4>Reading Goal: $goal</h4><br>";
+    //echo "<h4>Reading Goal: $goal</h4><br>";
     //echo "<a href='messages.php?view=$view'>View $name Reviews</a></div>";
     echo "</div>";
     

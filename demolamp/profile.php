@@ -61,7 +61,7 @@ else {
 
     //name='bookGoal'
 // reading goal
-if (($_POST['bookGoal']) != 0) {
+if (($_POST['bookGoal']) != "") {
     //echo "<div> in if isset bookGoal </div>";
     $bookGoal = sanitizeString($_POST['bookGoal']);
     $bookGoal = preg_replace('/\s\s+/', ' ', $bookGoal);
@@ -81,7 +81,7 @@ else {
 
         //echo "<div> bookGoal: $bookGoal </div>";
     }
-    else $bookGoal = 0;
+    else $bookGoal = "Set Your Goal";
 }
     
 // OLD COLD ********
@@ -150,22 +150,6 @@ if (isset($_FILES['image']['name'])) {
 }
 
 echo <<<_END
-    <form method='post' action='profile.php' enctype='multipart/form-data'>
-        <h3>Enter or edit your bio</h3>
-        <textarea name='text'>$text</textarea><br>
-        <label for='currentBook'>Currently Reading:</label>
-        <input type='text' name='currentBook' placeholder='$currentBook'><br>
-        <label for='bookGoal'>My Reading Goal:</label>
-        <input type='text' name='bookGoal' placeholder='$bookGoal'> <br>
-    
-    
-        
-    
-        <h3>Upload an image</h3>
-        Image: <br>
-        <input type='file' name='image' size='14'><br><br>
-        <input type='submit' value='Save Profile'>
-    </form>
     
     <div id='bookStoreSearch'>
     
@@ -238,6 +222,26 @@ echo <<<_END
         <div id='storeSet'>
         </div>
     </div>
+    
+    
+    <form method='post' action='profile.php' enctype='multipart/form-data'>
+        <h3>Enter or edit your bio</h3>
+        <textarea name='text'>$text</textarea><br>
+        <label for='currentBook'>Currently Reading:</label>
+        <input type='text' name='currentBook' placeholder='$currentBook'><br>
+        <label for='bookGoal'>My Reading Goal:</label>
+        <input type='text' name='bookGoal' placeholder='$bookGoal'> <br>
+    
+    
+        
+    
+        <h3>Upload an image</h3>
+        Image: <br>
+        <input type='file' name='image' size='14'><br><br>
+        <input type='submit' value='Save Profile'>
+    </form>
+    
+    
     
 
     <br>

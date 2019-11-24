@@ -145,10 +145,14 @@ window.onload=function(){
             
             
             //reset on selection
+            
             $('#storeSearch').text('Search');
             $('#store').toggle();
             $('.secretForm').toggle();
             $('#currentStore').html("");
+            //$("a").attr("href", "http://www.google.com/")
+            $('#URLLink').attr("href", storeChoiceURL);
+            $('#URLLink').text(storeChoiceStr);
         });
     }
     
