@@ -4,7 +4,7 @@
 if (!$loggedin) die("</div></body></html>");
 
 $result = queryMysql("SELECT * FROM profiles WHERE user='$user'");
-    echo "<div> number of rows: " . $result->num_rows . " </div>";
+    //echo "<div> number of rows: " . $result->num_rows . " </div>";
     //$numberOfResults = $result->num_rows;
     $a = $result->fetch_array(MYSQLI_ASSOC);
     $texta = stripslashes($a['text']);
@@ -17,22 +17,26 @@ $result = queryMysql("SELECT * FROM profiles WHERE user='$user'");
 
 
     //echo "<div> first result: number - $numberOfResults, text - $texta, book - $book, bookG $bookG </div>";
+    //echo "<div> test: " . $_POST['text'] . "</div>";
+    //echo "<div> currentbook:  " . $_POST['currentBook'] . "</div>";
+    //echo "<div> bookgoal:  " . $_POST['bookGoal'] . "</div>";
     
 if (isset($_POST['text']) && ($_POST['text'] != "")) {
-    echo "<div> in if isset for textfield</div>";
+    //echo "<div> in if isset for textfield</div>";
     $text = sanitizeString($_POST['text']);
     $text = preg_replace('/\s\s+/', ' ', $text);
     //echo "<div> text: $text </div>";
     
     // check if a record for this user exist
-    if ($result->num_rows)
+    //|| $_POST['bookGoal'] || $_POST['currentBook']
+    if ($result->num_rows){
         
         // if record exists, use an update
         queryMysql("UPDATE profiles SET text='$text' where user='$user'");
         //echo "<div> after query </div>";
     
     // if no record exists, create a new one with INSERT
-    else queryMysql("INSERT INTO profiles (user, text) VALUES('$user', '$text')");
+    } else queryMysql("INSERT INTO profiles (user, text) VALUES('$user', '$text')");
 
 // If a post variable isn't set
 } else {
@@ -56,7 +60,7 @@ if ($_POST['currentBook']) {
     $currentBook = sanitizeString($_POST['currentBook']);
     $currentBook = preg_replace('/\s\s+/', ' ', $currentBook);
 
-    if ($result->num_rows) {
+    if ($result->num_rows || $_POST['text']) {
         //echo "<div> in if result num rows current book '$currentBook'</div>";
         //$row = $result->fetch_array(MYSQLI_ASSOC);
         queryMysql("UPDATE profiles SET currentBookAuthor='$currentBook' where user='$user'");
@@ -87,7 +91,7 @@ if ($_POST['bookGoal']) {
     $bookGoal = sanitizeString($_POST['bookGoal']);
     $bookGoal = preg_replace('/\s\s+/', ' ', $bookGoal);
 
-    if ($result->num_rows){
+    if ($result->num_rows || $_POST['currentBook'] || $_POST['text']){
         //echo "<div> in resul num rows, bookGoal </div>";
         //$row = $result->fetch_array(MYSQLI_ASSOC);
         queryMysql("UPDATE profiles SET bookGoal='$bookGoal' where user='$user'");
