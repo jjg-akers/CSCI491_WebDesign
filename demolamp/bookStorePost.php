@@ -11,8 +11,17 @@ $user     = $_SESSION['user'];
     $storeName = sanitizeString($_POST['yourStore']);
     $storeURL = sanitizeString($_POST['storeURL']);
     
-    $query = "UPDATE profiles SET yourStore='$storeName', storeURL='$storeURL' WHERE user='$user'";
+    
+    $query = "SELECT 1 FROM profiles WHERE user='$user'";
     $result = queryMysql($query);
+    
+    if ($result->num_rows >0){
+        $query = "UPDATE profiles SET yourStore='$storeName', storeURL='$storeURL' WHERE user='$user'";
+        $result = queryMysql($query);
+    } else {
+        $query = "INSERT INTO profiles (user, yourStore, storeURL) VALUES('$user', '$storeName', '$storeURL')";
+        $result = queryMysql($query);
+    }
     
     $num = $result->num_rows;
         

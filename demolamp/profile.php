@@ -4,6 +4,7 @@
 if (!$loggedin) die("</div></body></html>");
 
 $result = queryMysql("SELECT * FROM profiles WHERE user='$user'");
+    echo "<div> number of rows: " . $result->num_rows . " </div>";
     //$numberOfResults = $result->num_rows;
     $a = $result->fetch_array(MYSQLI_ASSOC);
     $texta = stripslashes($a['text']);
@@ -17,30 +18,40 @@ $result = queryMysql("SELECT * FROM profiles WHERE user='$user'");
 
     //echo "<div> first result: number - $numberOfResults, text - $texta, book - $book, bookG $bookG </div>";
     
-if (isset($_POST['text'])) {
+if (isset($_POST['text']) && ($_POST != "")) {
     //echo "<div> in if isset for textfield</div>";
     $text = sanitizeString($_POST['text']);
     $text = preg_replace('/\s\s+/', ' ', $text);
     //echo "<div> text: $text </div>";
-
+    
+    // check if a record for this user exist
     if ($result->num_rows)
+        
+        // if record exists, use an update
         queryMysql("UPDATE profiles SET text='$text' where user='$user'");
         //echo "<div> after query </div>";
-
+    
+    // if no record exists, create a new one with INSERT
     else queryMysql("INSERT INTO profiles (user, text) VALUES('$user', '$text')");
-} 
-else {
-    if ($result->num_rows && texta != "") {
+
+// If a post variable isn't set
+} else {
+    // check if anything is stored in the DB
+    if (($result->num_rows > 0) && texta != "") {
         //$row  = $result->fetch_array(MYSQLI_ASSOC);
         //$text = stripslashes($row['text']);
         $text = $texta;
-    }
-    else $text = "";
+    
+    // if nothing in DB
+    } else $text = "";
 }
+    
 $text = stripslashes(preg_replace('/\s\s+/', ' ', $text));
     
 // currently reading
-if (($_POST['currentBook']) != "") {
+    
+    // removed != ""
+if ($_POST['currentBook']) {
     //echo "<div> in if isset currentBook </div>";
     $currentBook = sanitizeString($_POST['currentBook']);
     $currentBook = preg_replace('/\s\s+/', ' ', $currentBook);
@@ -58,7 +69,7 @@ if (($_POST['currentBook']) != "") {
     }
 }
 else {
-    if ($result->num_rows && $book != "") {
+    if ($result->num_rows && $book != NULL) {
         //echo "<div> in else currentbook </div>";
         //$row  = $result->fetch_array(MYSQLI_ASSOC);
         //$currentBook = stripslashes($row['currentBookAuthor']);
@@ -71,7 +82,7 @@ else {
 
     //name='bookGoal'
 // reading goal
-if (($_POST['bookGoal']) != "") {
+if ($_POST['bookGoal']) {
     //echo "<div> in if isset bookGoal </div>";
     $bookGoal = sanitizeString($_POST['bookGoal']);
     $bookGoal = preg_replace('/\s\s+/', ' ', $bookGoal);
