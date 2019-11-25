@@ -145,8 +145,13 @@ window.onload=function(){
             $('.secretForm').toggle();
             $('#currentStore').html("");
             //$("a").attr("href", "http://www.google.com/")
-            $('#URLLink').attr("href", storeChoiceURL);
-            $('#URLLink').text(storeChoiceStr);
+            if ($('#URLLink').length){
+                console.log('success');
+                $('#URLLink').attr("href", storeChoiceURL);
+                $('#URLLink').text(storeChoiceStr);
+            } else {
+                $('#profilePreview').append("Book Store: <a id='URLLink' target='_blank' href='" + storeChoiceURL + "'>" + storeChoiceStr + "</a>");
+            }
         });
     }
     

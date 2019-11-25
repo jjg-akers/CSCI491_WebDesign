@@ -74,16 +74,16 @@ function showProfile($user) {
 //        }
         echo "</div>";
     }
-//    else {
-//    echo stripslashes($row['text']) . "<br style='clear:left;'><br>";
-//        echo "<div id='profilePreview'>";
+    else {
+    echo stripslashes($row['text']) . "<br style='clear:left;'><br>";
+        echo "<div id='profilePreview'>";
 //        echo "Currently Reading: Not Set<br>";
 //        echo "Book Goal: Not Set<br>";
 //        //echo "Your Store: " . $row['yourStore'] . "<br>";
 //        echo "Book Store: Not Set";
-//        echo "</div>";
-//
-//    }
+        echo "</div>";
+
+    }
 }
     
 function getBrowse($user){

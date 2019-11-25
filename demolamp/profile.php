@@ -18,8 +18,8 @@ $result = queryMysql("SELECT * FROM profiles WHERE user='$user'");
 
     //echo "<div> first result: number - $numberOfResults, text - $texta, book - $book, bookG $bookG </div>";
     
-if (isset($_POST['text']) && ($_POST != "")) {
-    //echo "<div> in if isset for textfield</div>";
+if (isset($_POST['text']) && ($_POST['text'] != "")) {
+    echo "<div> in if isset for textfield</div>";
     $text = sanitizeString($_POST['text']);
     $text = preg_replace('/\s\s+/', ' ', $text);
     //echo "<div> text: $text </div>";
